@@ -6,7 +6,7 @@ def generate(data, filename):
     data_copy = data.copy()
 
     # change the order of columns
-    new_order = ["Team", "Year", "Sport", "gold_medals", "silver_medals", "bronze_medals"]
+    new_order = ["Team", "Year", "Sport", "gold_medals", "silver_medals", "bronze_medals", "isHost"]
     data_copy = data_copy[new_order]
 
     # sort the data by Team and Year, both ascending

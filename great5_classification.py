@@ -122,14 +122,18 @@ def construct_df(athletes_data, hosts_data, counts):
     final_df = pd.merge(pd.DataFrame(results), sport_year_grouped, on=["Sport", "Year"])
 
     # merge with hosts data
-    final_df = pd.merge(final_df, hosts_data[["Year", "Host"]], on="Year")
+    final_df = pd.merge(final_df, hosts_data[["Year", "Host"]], on="Year", how="left")
+
+    final_df["isHost"] = (final_df["Team"] == final_df["Host"]).astype(int)
+
+    final_df = final_df.drop(columns=["Host"], axis=1)
 
     return final_df
 
 if __name__ == "__main__":
     # Load the data
-    athletes_data = pd.read_csv("raw/summerOly_athletes_cleaned.csv")
-    hosts_data = pd.read_csv("raw/summerOly_hosts.csv")
+    athletes_data = pd.read_csv("processed/summerOly_athletes_cleaned.csv")
+    hosts_data = pd.read_csv("processed/summerOly_hosts_cleaned.csv")
     # Display the first 5 rows
     # print(athletes_data.head())
 
