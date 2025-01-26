@@ -22,10 +22,10 @@ def generate(data):
 
 if __name__ == "__main__":
     # Load the data
-    gt5_data = pd.read_csv("gt5_sports.csv")
+    gt5_data = pd.read_csv("processed/gt5_sports.csv")
     print(gt5_data.head())
 
     gt5_f5_data = generate(gt5_data)
 
     # write the data to a new file
-    gt5_f5_data.to_csv("gt5_f5.csv", index=False)
+    gt5_f5_data.to_csv("processed/gt5_f5.csv", index=False)

@@ -55,8 +55,8 @@ def compute_dominance(data):
     non_dominant_df = data[data["Sport"].isin(non_dominant)]
 
     # write the results to a csv file
-    dominant_df.to_csv("dominant_disciplines.csv", index=False)
-    non_dominant_df.to_csv("non_dominant_disciplines.csv", index=False)
+    dominant_df.to_csv("processed/dominant_disciplines.csv", index=False)
+    non_dominant_df.to_csv("processed/non_dominant_disciplines.csv", index=False)
 
     return dominant_df, non_dominant_df
 
@@ -153,7 +153,7 @@ def compute_turnover(non_dominant_df):
 
 if __name__ == "__main__":
     # Load the gt5 data, which is the result after processing athletes.csv and hosts.csv
-    data = pd.read_csv("gt5_sports.csv")
+    data = pd.read_csv("processed/gt5_sports.csv")
     # Display the first 5 rows
     print(data.head())
 
@@ -168,5 +168,5 @@ if __name__ == "__main__":
     final_unstable_df = unstable_df
 
     # write the final results to a csv file
-    final_stable_df.to_csv("stable_sports.csv", index=False)
-    final_unstable_df.to_csv("unstable_sports.csv", index=False)
+    final_stable_df.to_csv("processed/stable_sports.csv", index=False)
+    final_unstable_df.to_csv("processed/unstable_sports.csv", index=False)

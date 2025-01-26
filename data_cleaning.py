@@ -66,12 +66,12 @@ def change_sports(data):
 
 if __name__ == "__main__":
     # Load the data
-    athletes_data = pd.read_csv("summerOly_athletes.csv")
-    hosts_data = pd.read_csv("summerOly_hosts.csv")
+    athletes_data = pd.read_csv("raw/summerOly_athletes.csv")
+    hosts_data = pd.read_csv("raw/summerOly_hosts.csv")
     # Display the first 5 rows
     # print(athletes_data.head())
 
     data_country = change_countryname(athletes_data)
     data_sports = change_sports(data_country)
 
-    data_sports.to_csv("summerOly_athletes_cleaned.csv", index=False)
+    data_sports.to_csv("processed/summerOly_athletes_cleaned.csv", index=False)

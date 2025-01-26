@@ -128,8 +128,8 @@ def construct_df(athletes_data, hosts_data, counts):
 
 if __name__ == "__main__":
     # Load the data
-    athletes_data = pd.read_csv("summerOly_athletes_cleaned.csv")
-    hosts_data = pd.read_csv("summerOly_hosts.csv")
+    athletes_data = pd.read_csv("raw/summerOly_athletes_cleaned.csv")
+    hosts_data = pd.read_csv("raw/summerOly_hosts.csv")
     # Display the first 5 rows
     # print(athletes_data.head())
 
@@ -140,5 +140,5 @@ if __name__ == "__main__":
 
     new_df = construct_df(athletes_data, hosts_data, counts)
     print(new_df.head())
-    new_df.to_csv("gt5_sports.csv", index=False)
+    new_df.to_csv("processed/gt5_sports.csv", index=False)
     # print(new_df.head())

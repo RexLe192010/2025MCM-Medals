@@ -18,9 +18,9 @@ def generate(data, filename):
 
 if __name__ == "__main__":
     # Load the gt5 data, which is the result after processing athletes.csv and hosts.csv
-    lt5_df = pd.read_csv("lt5_sports.csv")
-    stable_df = pd.read_csv("stable_sports.csv")
-    unstable_df = pd.read_csv("unstable_sports.csv")
+    lt5_df = pd.read_csv("processed/lt5_sports.csv")
+    stable_df = pd.read_csv("processed/stable_sports.csv")
+    unstable_df = pd.read_csv("processed/unstable_sports.csv")
 
     print(lt5_df.head())
 
@@ -28,6 +28,6 @@ if __name__ == "__main__":
     stable_jay = generate(stable_df, "stable")
     unstable_jay = generate(unstable_df, "unstable")
 
-    lt5_jay.to_csv("lt5_sports_jay.csv", index=False)
-    stable_jay.to_csv("stable_sports_jay.csv", index=False)
-    unstable_jay.to_csv("unstable_sports_jay.csv", index=False)
+    lt5_jay.to_csv("processed/lt5_sports_jay.csv", index=False)
+    stable_jay.to_csv("processed/stable_sports_jay.csv", index=False)
+    unstable_jay.to_csv("processed/unstable_sports_jay.csv", index=False)

@@ -70,7 +70,7 @@ def compute_dominance(data):
 
 if __name__ == "__main__":
     # Load the data
-    data = pd.read_csv("summerOly_athletes.csv")
+    data = pd.read_csv("raw/summerOly_athletes.csv")
     # Display the first 5 rows
     print(data.head())
 
