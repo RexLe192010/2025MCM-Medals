@@ -5,4 +5,4 @@
 3. stability_classification.py
 4. Jay_version.py
 
-Note that dominance_classification.py is an early experimental data file whose functionalities are all included in stability_classification.py.
+## Note that dominance_classification.py is an early experimental data file whose functionalities are all included in stability_classification.py.
