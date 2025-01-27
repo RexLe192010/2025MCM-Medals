@@ -35,9 +35,55 @@ def treemap_diagram(data):
     fig.show()
 
 
+def compute_top15_2024(data): # here, the data should be the medal_counts
+    # filter out the data for 2024
+    data_2024 = data[data["Year"] == 2024]
+    countries = set()
+
+    for country in data_2024["NOC"].unique():
+        country_data = data_2024[data_2024["NOC"] == country]
+        rank = country_data["Rank"].iloc[0]
+        if rank <= 15:
+            countries.add(country)
+    
+    return countries
+
+
+def top15_medals_lineplot(data, top15_countries): # here, the data should be the medal_counts
+    # filter out the data for top 15 countries in 2024
+    data_top15 = data[data["NOC"].isin(top15_countries)]
+
+    fig = px.line(
+        data_top15,
+        x="Year",
+        y="Total",
+        color="NOC",
+        title="Total Medals of Top 15 Countries in 2024 Olympic Games",
+    )
+    
+    fig.show()
+
+    fig = px.line(
+        data_top15,
+        x="Year",
+        y="Gold",
+        color="NOC",
+        title="Gold Medals of Top 15 Countries in 2024 Olympic Games",
+    )
+
+    fig.show()
+
+
 if __name__ == "__main__":
     # Load the data
     athletes_data = pd.read_csv("processed/summerOly_athletes_cleaned.csv")
+    medal_counts = pd.read_csv("processed/summerOly_medal_counts_cleaned.csv")
 
     # treemap diagram, 2024 Olympic Games Medal Distribution by Sport
     treemap_diagram(athletes_data)
+
+    # top 15 countries in 2024
+    top15_countries = compute_top15_2024(medal_counts)
+
+    # line plot, total medals and gold medals of top 15 countries in 2024
+    top15_medals_lineplot(medal_counts, top15_countries)

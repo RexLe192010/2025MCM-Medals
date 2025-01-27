@@ -17,7 +17,7 @@ def change_countryname(data):
     data_copy.replace(r"^West Germany.*", "Germany", inplace=True, regex=True)
 
     # 2. replace USSR with Russia
-    data_copy.replace(r"^USSR.*", "Russia", inplace=True, regex=True)
+    data_copy.replace(r"^Soviet.*", "Russia", inplace=True, regex=True)
 
     # 3. replace Yugoslavia with Serbia
     data_copy.replace(r"^Yugoslavia.*", "Serbia", inplace=True, regex=True)
@@ -68,10 +68,14 @@ if __name__ == "__main__":
     # Load the data
     athletes_data = pd.read_csv("raw/summerOly_athletes.csv")
     hosts_data = pd.read_csv("raw/summerOly_hosts.csv")
+    medal_counts = pd.read_csv("raw/summerOly_medal_counts.csv")
     # Display the first 5 rows
     # print(athletes_data.head())
 
     data_country = change_countryname(athletes_data)
     data_sports = change_sports(data_country)
-
     data_sports.to_csv("processed/summerOly_athletes_cleaned.csv", index=False)
+
+    # clean the medal counts data
+    new_medal_counts = change_countryname(medal_counts)
+    new_medal_counts.to_csv("processed/summerOly_medal_counts_cleaned.csv", index=False)

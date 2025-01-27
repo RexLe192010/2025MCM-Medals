@@ -1,812 +1,102 @@
 Sport,Year,Team,gold_medals,silver_medals,bronze_medals,total_medals,participants,sport_total_medals,sport_total_participants,isHost
-Wrestling,1896,Great Britain,0,0,0,0,1,3,5,0
-Wrestling,1896,Greece,0,1,1,2,2,3,5,0
-Wrestling,1896,Germany,1,0,0,1,1,3,5,0
-Wrestling,1896,Hungary,0,0,0,0,1,3,5,0
-Wrestling,1904,United States,5,6,6,17,35,21,48,1
-Wrestling,1904,Norway,2,0,0,2,2,21,48,0
-Wrestling,1904,Canada,0,0,0,0,1,21,48,0
-Wrestling,1904,Germany,0,1,0,1,3,21,48,0
-Wrestling,1904,Switzerland,0,0,1,1,1,21,48,0
-Wrestling,1906,Austria,1,2,1,4,8,12,39,0
-Wrestling,1906,Denmark,2,1,1,4,3,12,39,0
-Wrestling,1906,France,0,0,0,0,2,12,39,0
-Wrestling,1906,Germany,0,0,0,0,2,12,39,0
-Wrestling,1906,Egypt,0,0,0,0,1,12,39,0
-Wrestling,1906,Belgium,0,0,1,1,3,12,39,0
-Wrestling,1906,Hungary,0,0,1,1,3,12,39,0
-Wrestling,1906,Bohemia,0,0,0,0,2,12,39,0
-Wrestling,1906,Greece,0,0,0,0,9,12,39,0
-Wrestling,1906,United States,0,0,0,0,2,12,39,0
-Wrestling,1906,Finland,1,1,0,2,1,12,39,0
-Wrestling,1908,Great Britain,3,4,4,11,53,27,133,0
-Wrestling,1908,Denmark,0,0,3,3,10,27,133,0
-Wrestling,1908,Sweden,1,1,0,2,9,27,133,0
-Wrestling,1908,Bohemia,0,0,0,0,4,27,133,0
-Wrestling,1908,Netherlands,0,0,0,0,9,27,133,0
-Wrestling,1908,Canada,0,0,1,1,1,27,133,0
-Wrestling,1908,United States,2,0,0,2,6,27,133,0
-Wrestling,1908,Belgium,0,0,0,0,4,27,133,0
-Wrestling,1908,Russia,0,2,0,2,4,27,133,0
-Wrestling,1908,Germany,0,0,0,0,1,27,133,0
-Wrestling,1908,Norway,0,1,0,1,1,27,133,0
-Wrestling,1908,Iceland,0,0,0,0,1,27,133,0
-Wrestling,1908,Finland,1,1,1,3,4,27,133,0
-Wrestling,1908,Hungary,1,0,0,1,7,27,133,0
-Wrestling,1908,Italy,1,0,0,1,1,27,133,0
-Wrestling,1912,Finland,3,2,2,7,37,15,170,0
-Wrestling,1912,Sweden,1,2,1,4,33,15,170,1
-Wrestling,1912,Russia,0,1,0,1,11,15,170,0
-Wrestling,1912,Denmark,0,0,1,1,9,15,170,0
-Wrestling,1912,Germany,0,1,0,1,14,15,170,0
-Wrestling,1912,Greece,0,0,0,0,1,15,170,0
-Wrestling,1912,Norway,0,0,0,0,9,15,170,0
-Wrestling,1912,Italy,0,0,0,0,6,15,170,0
-Wrestling,1912,Great Britain,0,0,0,0,12,15,170,0
-Wrestling,1912,Bohemia,0,0,0,0,4,15,170,0
-Wrestling,1912,Austria,0,0,0,0,8,15,170,0
-Wrestling,1912,France,0,0,0,0,6,15,170,0
-Wrestling,1912,Netherlands,0,0,0,0,3,15,170,0
-Wrestling,1912,Belgium,0,0,0,0,1,15,170,0
-Wrestling,1912,United States,0,0,0,0,2,15,170,0
-Wrestling,1912,Hungary,0,0,1,1,10,15,170,0
-Wrestling,1912,Portugal,0,0,0,0,2,15,170,0
-Wrestling,1912,Iceland,0,0,0,0,1,15,170,0
-Athletics,1896,Greece,1,3,5,9,30,36,106,0
-Athletics,1896,United States,9,5,2,16,10,36,106,0
-Athletics,1896,Hungary,0,1,2,3,3,36,106,0
-Athletics,1896,France,0,1,1,2,5,36,106,0
-Athletics,1896,Germany,0,1,0,1,5,36,106,0
-Athletics,1896,Great Britain,0,1,1,2,5,36,106,0
-Athletics,1896,Australia,2,0,0,2,1,36,106,0
-Athletics,1896,Denmark,0,0,0,0,3,36,106,0
-Athletics,1896,Sweden,0,0,0,0,1,36,106,0
-Athletics,1900,Norway,0,0,1,1,2,69,234,0
-Athletics,1900,Italy,0,0,0,0,2,69,234,0
-Athletics,1900,Hungary,1,0,1,2,9,69,234,0
-Athletics,1900,United States,16,13,10,39,41,69,234,0
-Athletics,1900,Great Britain,3,3,2,8,10,69,234,0
-Athletics,1900,Amateur Athletic Association,1,0,0,1,5,69,234,0
-Athletics,1900,France,0,3,2,5,18,69,234,1
-Athletics,1900,Sweden,0,0,1,1,8,69,234,0
-Athletics,1900,Racing Club de France,0,1,0,1,5,69,234,0
-Athletics,1900,Denmark,0,0,1,1,4,69,234,0
-Athletics,1900,Germany,0,0,0,0,6,69,234,0
-Athletics,1900,Canada,1,0,1,2,4,69,234,0
-Athletics,1900,Bohemia,0,1,0,1,4,69,234,0
-Athletics,1900,Brazil,0,0,0,0,1,69,234,0
-Athletics,1900,Greece,0,0,0,0,2,69,234,0
-Athletics,1900,India,0,2,0,2,1,69,234,0
-Athletics,1900,Australia,0,0,3,3,1,69,234,0
-Athletics,1900,Luxembourg,1,0,0,1,1,69,234,0
-Athletics,1900,Austria,0,0,0,0,2,69,234,0
-Athletics,1904,United States,21,21,21,63,86,72,201,1
-Athletics,1904,Cuba,0,0,0,0,1,72,201,0
-Athletics,1904,France,0,1,0,1,1,72,201,0
-Athletics,1904,Chicago Athletic Association,0,1,0,1,5,72,201,0
-Athletics,1904,Great Britain,1,1,0,2,3,72,201,0
-Athletics,1904,Hungary,0,0,0,0,2,72,201,0
-Athletics,1904,Canada,1,0,0,1,6,72,201,0
-Athletics,1904,Greece,0,0,1,1,10,72,201,0
-Athletics,1904,Newfoundland,0,0,0,0,1,72,201,0
-Athletics,1904,Australia,0,0,0,0,1,72,201,0
-Athletics,1904,South Africa,0,0,0,0,3,72,201,0
-Athletics,1904,New York Athletic Club,1,0,0,1,5,72,201,0
-Athletics,1904,Germany,0,0,1,1,2,72,201,0
-Athletics,1906,Great Britain,3,5,1,9,19,63,470,0
-Athletics,1906,Finland,1,0,1,2,3,63,470,0
-Athletics,1906,Greece,1,2,4,7,75,63,470,0
-Athletics,1906,Crete,0,0,0,0,8,63,470,0
-Athletics,1906,Canada,1,1,0,2,3,63,470,0
-Athletics,1906,United States,11,5,6,22,31,63,470,0
-Athletics,1906,Australia,0,0,2,2,3,63,470,0
-Athletics,1906,Austria,0,0,0,0,10,63,470,0
-Athletics,1906,Germany,0,1,1,2,15,63,470,0
-Athletics,1906,France,1,0,0,1,14,63,470,0
-Athletics,1906,Sweden,2,4,5,11,13,63,470,0
-Athletics,1906,Norway,0,0,0,0,7,63,470,0
-Athletics,1906,Denmark,0,0,0,0,4,63,470,0
-Athletics,1906,Italy,0,0,0,0,6,63,470,0
-Athletics,1906,Hungary,1,3,1,5,12,63,470,0
-Athletics,1906,Belgium,0,1,0,1,2,63,470,0
-Athletics,1906,Bohemia,0,0,0,0,5,63,470,0
-Athletics,1906,Turkey,0,0,0,0,1,63,470,0
-Athletics,1906,Egypt,0,0,0,0,1,63,470,0
-Athletics,1906,Switzerland,0,0,0,0,1,63,470,0
-Athletics,1908,United States,15,10,8,33,83,78,778,0
-Athletics,1908,Denmark,0,0,0,0,8,78,778,0
-Athletics,1908,Great Britain,7,7,3,17,126,78,778,0
-Athletics,1908,Australasia,0,0,1,1,9,78,778,0
-Athletics,1908,Sweden,2,0,3,5,31,78,778,0
-Athletics,1908,France,0,1,1,2,19,78,778,0
-Athletics,1908,Canada,1,1,4,6,27,78,778,0
-Athletics,1908,Italy,0,1,0,1,12,78,778,0
-Athletics,1908,Greece,0,3,0,3,12,78,778,0
-Athletics,1908,Germany,0,1,1,2,20,78,778,0
-Athletics,1908,Norway,0,1,2,3,11,78,778,0
-Athletics,1908,Hungary,0,1,1,2,19,78,778,0
-Athletics,1908,Netherlands,0,0,0,0,19,78,778,0
-Athletics,1908,Belgium,0,0,0,0,6,78,778,0
-Athletics,1908,South Africa,1,1,0,2,6,78,778,0
-Athletics,1908,Finland,0,0,1,1,15,78,778,0
-Athletics,1908,Russia,0,0,0,0,1,78,778,0
-Athletics,1908,Bohemia,0,0,0,0,3,78,778,0
-Athletics,1908,Austria,0,0,0,0,2,78,778,0
-Athletics,1908,Switzerland,0,0,0,0,1,78,778,0
-Judo,1964,Mexico,0,0,0,0,3,12,72,0
-Judo,1964,Costa Rica,0,0,0,0,2,12,72,0
-Judo,1964,Soviet Union,0,0,2,2,4,12,72,0
-Judo,1964,Australia,0,0,1,1,4,12,72,0
-Judo,1964,France,0,0,0,0,4,12,72,0
-Judo,1964,United States,0,0,1,1,4,12,72,0
-Judo,1964,Italy,0,0,0,0,2,12,72,0
-Judo,1964,Argentina,0,0,0,0,3,12,72,0
-Judo,1964,Chinese Taipei,0,0,0,0,4,12,72,0
-Judo,1964,Panama,0,0,0,0,1,12,72,0
-Judo,1964,Philippines,0,0,0,0,4,12,72,0
-Judo,1964,Netherlands,1,0,0,1,4,12,72,0
-Judo,1964,Germany,0,1,1,2,4,12,72,0
-Judo,1964,Tunisia,0,0,0,0,1,12,72,0
-Judo,1964,Switzerland,0,1,0,1,1,12,72,0
-Judo,1964,Thailand,0,0,0,0,3,12,72,0
-Judo,1964,Great Britain,0,0,0,0,4,12,72,0
-Judo,1964,Japan,3,1,0,4,4,12,72,1
-Judo,1964,South Korea,0,0,1,1,4,12,72,0
-Judo,1964,South Vietnam,0,0,0,0,3,12,72,0
-Judo,1964,Venezuela,0,0,0,0,1,12,72,0
-Judo,1964,Portugal,0,0,0,0,1,12,72,0
-Judo,1964,Malaysia,0,0,0,0,1,12,72,0
-Judo,1964,Austria,0,0,0,0,3,12,72,0
-Judo,1964,Canada,0,1,0,1,1,12,72,0
-Judo,1964,Ireland,0,0,0,0,1,12,72,0
-Judo,1964,Brazil,0,0,0,0,1,12,72,0
-Judo,1972,Poland,0,1,0,1,4,18,166,0
-Judo,1972,Austria,0,0,0,0,6,18,166,0
-Judo,1972,Finland,0,0,0,0,1,18,166,0
-Judo,1972,France,0,0,3,3,5,18,166,0
-Judo,1972,Madagascar,0,0,0,0,4,18,166,0
-Judo,1972,Mexico,0,0,0,0,3,18,166,0
-Judo,1972,Switzerland,0,0,0,0,6,18,166,0
-Judo,1972,Cuba,0,0,0,0,3,18,166,0
-Judo,1972,Serbia,0,0,0,0,3,18,166,0
-Judo,1972,Mongolia,0,0,0,0,5,18,166,0
-Judo,1972,Germany,0,1,2,3,10,18,166,1
-Judo,1972,Morocco,0,0,0,0,3,18,166,0
-Judo,1972,Australia,0,0,0,0,4,18,166,0
-Judo,1972,Suriname,0,0,0,0,1,18,166,0
-Judo,1972,Senegal,0,0,0,0,6,18,166,0
-Judo,1972,Netherlands,2,0,0,2,3,18,166,0
-Judo,1972,Puerto Rico,0,0,0,0,3,18,166,0
-Judo,1972,Liechtenstein,0,0,0,0,2,18,166,0
-Judo,1972,United States,0,0,0,0,6,18,166,0
-Judo,1972,Mali,0,0,0,0,2,18,166,0
-Judo,1972,Ireland,0,0,0,0,5,18,166,0
-Judo,1972,Dominican Republic,0,0,0,0,2,18,166,0
-Judo,1972,Chinese Taipei,0,0,0,0,4,18,166,0
-Judo,1972,Lebanon,0,0,0,0,2,18,166,0
-Judo,1972,Soviet Union,1,1,2,4,6,18,166,0
-Judo,1972,Italy,0,0,0,0,2,18,166,0
-Judo,1972,Philippines,0,0,0,0,3,18,166,0
-Judo,1972,Canada,0,0,0,0,5,18,166,0
-Judo,1972,Portugal,0,0,0,0,2,18,166,0
-Judo,1972,Argentina,0,0,0,0,1,18,166,0
-Judo,1972,Nicaragua,0,0,0,0,1,18,166,0
-Judo,1972,South Korea,0,1,0,1,4,18,166,0
-Judo,1972,Hungary,0,0,0,0,5,18,166,0
-Judo,1972,Brazil,0,0,1,1,2,18,166,0
-Judo,1972,Great Britain,0,1,2,3,6,18,166,0
-Judo,1972,Czech Republic,0,0,0,0,1,18,166,0
-Judo,1972,Japan,3,0,1,4,6,18,166,0
-Judo,1972,North Korea,0,0,1,1,1,18,166,0
-Judo,1972,Belgium,0,0,0,0,4,18,166,0
-Judo,1972,New Zealand,0,0,0,0,1,18,166,0
-Judo,1972,Hong Kong,0,0,0,0,1,18,166,0
-Judo,1972,Spain,0,0,0,0,1,18,166,0
-Judo,1972,Thailand,0,0,0,0,1,18,166,0
-Judo,1972,Costa Rica,0,0,0,0,1,18,166,0
-Judo,1972,Sweden,0,0,0,0,1,18,166,0
-Judo,1976,Poland,0,0,1,1,5,18,154,0
-Judo,1976,Finland,0,0,0,0,1,18,154,0
-Judo,1976,Kuwait,0,0,0,0,4,18,154,0
-Judo,1976,Great Britain,0,1,1,2,5,18,154,0
-Judo,1976,North Korea,0,0,0,0,3,18,154,0
-Judo,1976,Bulgaria,0,0,0,0,4,18,154,0
-Judo,1976,Mongolia,0,0,0,0,5,18,154,0
-Judo,1976,Puerto Rico,0,0,0,0,5,18,154,0
-Judo,1976,France,0,0,1,1,5,18,154,0
-Judo,1976,United States,0,0,1,1,6,18,154,0
-Judo,1976,Liechtenstein,0,0,0,0,3,18,154,0
-Judo,1976,Australia,0,0,0,0,3,18,154,0
-Judo,1976,Soviet Union,2,2,1,5,6,18,154,0
-Judo,1976,Panama,0,0,0,0,1,18,154,0
-Judo,1976,Nicaragua,0,0,0,0,1,18,154,0
-Judo,1976,Spain,0,0,0,0,2,18,154,0
-Judo,1976,Ecuador,0,0,0,0,2,18,154,0
-Judo,1976,Senegal,0,0,0,0,5,18,154,0
-Judo,1976,Suriname,0,0,0,0,1,18,154,0
-Judo,1976,Japan,3,1,1,5,6,18,154,0
-Judo,1976,Canada,0,0,0,0,5,18,154,1
-Judo,1976,Netherlands Antilles,0,0,0,0,2,18,154,0
-Judo,1976,Italy,0,0,1,1,3,18,154,0
-Judo,1976,Portugal,0,0,0,0,2,18,154,0
-Judo,1976,Belgium,0,0,0,0,2,18,154,0
-Judo,1976,Turkey,0,0,0,0,3,18,154,0
-Judo,1976,Iceland,0,0,0,0,2,18,154,0
-Judo,1976,Switzerland,0,0,1,1,2,18,154,0
-Judo,1976,Germany,0,1,0,1,7,18,154,0
-Judo,1976,Venezuela,0,0,0,0,2,18,154,0
-Judo,1976,Cuba,1,0,0,1,2,18,154,0
-Judo,1976,Hungary,0,0,1,1,6,18,154,0
-Judo,1976,South Korea,0,1,2,3,4,18,154,0
-Judo,1976,Austria,0,0,0,0,4,18,154,0
-Judo,1976,Singapore,0,0,0,0,1,18,154,0
-Judo,1976,Serbia,0,0,1,1,4,18,154,0
-Judo,1976,Brazil,0,0,0,0,3,18,154,0
-Judo,1976,Israel,0,0,0,0,1,18,154,0
-Judo,1976,Hong Kong,0,0,0,0,1,18,154,0
-Judo,1976,Czech Republic,0,0,0,0,1,18,154,0
-Judo,1976,Mexico,0,0,0,0,1,18,154,0
-Judo,1976,Argentina,0,0,0,0,2,18,154,0
-Judo,1976,Lebanon,0,0,0,0,1,18,154,0
-Judo,1976,Thailand,0,0,0,0,1,18,154,0
-Judo,1976,Sweden,0,0,0,0,1,18,154,0
-Judo,1980,Syria,0,0,0,0,7,24,193,0
-Judo,1980,Great Britain,0,1,1,2,8,24,193,0
-Judo,1980,Algeria,0,0,0,0,3,24,193,0
-Judo,1980,Netherlands,0,0,1,1,2,24,193,0
-Judo,1980,Kuwait,0,0,0,0,5,24,193,0
-Judo,1980,Poland,0,0,1,1,7,24,193,0
-Judo,1980,Cyprus,0,0,0,0,5,24,193,0
-Judo,1980,Ecuador,0,0,0,0,2,24,193,0
-Judo,1980,Germany,1,0,4,5,6,24,193,0
-Judo,1980,Madagascar,0,0,0,0,2,24,193,0
-Judo,1980,Bulgaria,0,1,1,2,4,24,193,0
-Judo,1980,Cuba,0,3,0,3,6,24,193,0
-Judo,1980,Senegal,0,0,0,0,7,24,193,0
-Judo,1980,Czech Republic,0,0,1,1,5,24,193,0
-Judo,1980,Austria,0,0,0,0,5,24,193,0
-Judo,1980,Sweden,0,0,0,0,4,24,193,0
-Judo,1980,Portugal,0,0,0,0,3,24,193,0
-Judo,1980,Switzerland,1,0,0,1,4,24,193,0
-Judo,1980,Guinea,0,0,0,0,3,24,193,0
-Judo,1980,Australia,0,0,0,0,3,24,193,0
-Judo,1980,Brazil,0,0,0,0,7,24,193,0
-Judo,1980,San Marino,0,0,0,0,2,24,193,0
-Judo,1980,Spain,0,0,0,0,2,24,193,0
-Judo,1980,Costa Rica,0,0,0,0,3,24,193,0
-Judo,1980,Zambia,0,0,0,0,6,24,193,0
-Judo,1980,Romania,0,0,0,0,8,24,193,0
-Judo,1980,Mongolia,0,1,1,2,7,24,193,0
-Judo,1980,Zimbabwe,0,0,0,0,2,24,193,0
-Judo,1980,France,2,1,1,4,7,24,193,0
-Judo,1980,Mali,0,0,0,0,3,24,193,0
-Judo,1980,Cameroon,0,0,0,0,5,24,193,0
-Judo,1980,Finland,0,0,0,0,3,24,193,0
-Judo,1980,Iceland,0,0,0,0,2,24,193,0
-Judo,1980,Italy,1,0,0,1,1,24,193,0
-Judo,1980,Hungary,0,0,2,2,8,24,193,0
-Judo,1980,Mexico,0,0,0,0,2,24,193,0
-Judo,1980,Ireland,0,0,0,0,2,24,193,0
-Judo,1980,Soviet Union,2,1,2,5,8,24,193,1
-Judo,1980,Lebanon,0,0,0,0,2,24,193,0
-Judo,1980,North Korea,0,0,0,0,4,24,193,0
-Judo,1980,Serbia,0,0,1,1,6,24,193,0
-Judo,1980,Belgium,1,0,0,1,1,24,193,0
-Judo,1984,Dominican Republic,0,0,0,0,2,24,212,0
-Judo,1984,Great Britain,0,1,2,3,8,24,212,0
-Judo,1984,United States,0,1,1,2,8,24,212,1
-Judo,1984,Kuwait,0,0,0,0,5,24,212,0
-Judo,1984,France,0,1,2,3,8,24,212,0
-Judo,1984,South Korea,2,2,1,5,8,24,212,0
-Judo,1984,Argentina,0,0,0,0,4,24,212,0
-Judo,1984,Ecuador,0,0,0,0,1,24,212,0
-Judo,1984,Turkey,0,0,0,0,3,24,212,0
-Judo,1984,Canada,0,0,1,1,8,24,212,0
-Judo,1984,Tunisia,0,0,0,0,3,24,212,0
-Judo,1984,Monaco,0,0,0,0,1,24,212,0
-Judo,1984,Cameroon,0,0,0,0,6,24,212,0
-Judo,1984,Puerto Rico,0,0,0,0,2,24,212,0
-Judo,1984,Liechtenstein,0,0,0,0,2,24,212,0
-Judo,1984,Brazil,0,1,2,3,7,24,212,0
-Judo,1984,San Marino,0,0,0,0,2,24,212,0
-Judo,1984,Chinese Taipei,0,0,0,0,4,24,212,0
-Judo,1984,Switzerland,0,0,0,0,2,24,212,0
-Judo,1984,Norway,0,0,0,0,3,24,212,0
-Judo,1984,Hong Kong,0,0,0,0,4,24,212,0
-Judo,1984,Australia,0,0,0,0,3,24,212,0
-Judo,1984,Romania,0,0,2,2,3,24,212,0
-Judo,1984,Bolivia,0,0,0,0,1,24,212,0
-Judo,1984,Senegal,0,0,0,0,6,24,212,0
-Judo,1984,Costa Rica,0,0,0,0,4,24,212,0
-Judo,1984,Portugal,0,0,0,0,4,24,212,0
-Judo,1984,Guinea,0,0,0,0,1,24,212,0
-Judo,1984,Mali,0,0,0,0,1,24,212,0
-Judo,1984,Morocco,0,0,0,0,3,24,212,0
-Judo,1984,Lebanon,0,0,0,0,3,24,212,0
-Judo,1984,Egypt,0,1,0,1,6,24,212,0
-Judo,1984,Italy,0,1,0,1,5,24,212,0
-Judo,1984,Peru,0,0,0,0,1,24,212,0
-Judo,1984,Ireland,0,0,0,0,1,24,212,0
-Judo,1984,Iceland,0,0,1,1,2,24,212,0
-Judo,1984,Spain,0,0,0,0,6,24,212,0
-Judo,1984,Mexico,0,0,0,0,4,24,212,0
-Judo,1984,Sweden,0,0,0,0,4,24,212,0
-Judo,1984,Austria,1,0,1,2,4,24,212,0
-Judo,1984,Netherlands,0,0,0,0,3,24,212,0
-Judo,1984,Japan,4,0,1,5,8,24,212,0
-Judo,1984,Finland,0,0,0,0,3,24,212,0
-Judo,1984,Denmark,0,0,0,0,1,24,212,0
-Judo,1984,Germany,1,0,2,3,8,24,212,0
-Judo,1984,Zambia,0,0,0,0,3,24,212,0
-Judo,1984,Israel,0,0,0,0,2,24,212,0
-Judo,1984,Cyprus,0,0,0,0,2,24,212,0
-Judo,1984,Serbia,0,0,0,0,5,24,212,0
-Judo,1984,Fiji,0,0,0,0,2,24,212,0
-Judo,1984,Belgium,0,0,0,0,2,24,212,0
-Judo,1984,China,0,0,0,0,5,24,212,0
-Judo,1984,Suriname,0,0,0,0,1,24,212,0
-Judo,1984,Congo (Brazzaville),0,0,0,0,3,24,212,0
-Judo,1984,Paraguay,0,0,0,0,1,24,212,0
-Judo,1984,Cote d'Ivoire,0,0,0,0,2,24,212,0
-Judo,1984,Chile,0,0,0,0,1,24,212,0
-Judo,1984,New Zealand,0,0,0,0,3,24,212,0
-Judo,1984,Venezuela,0,0,0,0,1,24,212,0
-Judo,1984,Honduras,0,0,0,0,1,24,212,0
-Judo,1984,El Salvador,0,0,0,0,2,24,212,0
-Triathlon,2000,Russia,0,0,0,0,1,6,100,0
-Triathlon,2000,Luxembourg,0,0,0,0,1,6,100,0
-Triathlon,2000,Brazil,0,0,0,0,6,6,100,0
-Triathlon,2000,Netherlands,0,0,0,0,6,6,100,0
-Triathlon,2000,Czech Republic,0,0,1,1,4,6,100,0
-Triathlon,2000,France,0,0,0,0,6,6,100,0
-Triathlon,2000,Spain,0,0,0,0,4,6,100,0
-Triathlon,2000,United States,0,0,0,0,6,6,100,0
-Triathlon,2000,Italy,0,0,0,0,3,6,100,0
-Triathlon,2000,Chile,0,0,0,0,1,6,100,0
-Triathlon,2000,Great Britain,0,0,0,0,6,6,100,0
-Triathlon,2000,New Zealand,0,0,0,0,4,6,100,0
-Triathlon,2000,Germany,0,1,0,1,4,6,100,0
-Triathlon,2000,Canada,1,0,0,1,4,6,100,0
-Triathlon,2000,Hungary,0,0,0,0,4,6,100,0
-Triathlon,2000,Austria,0,0,0,0,1,6,100,0
-Triathlon,2000,Costa Rica,0,0,0,0,1,6,100,0
-Triathlon,2000,Japan,0,0,0,0,6,6,100,0
-Triathlon,2000,Kazakhstan,0,0,0,0,2,6,100,0
-Triathlon,2000,Argentina,0,0,0,0,1,6,100,0
-Triathlon,2000,Venezuela,0,0,0,0,1,6,100,0
-Triathlon,2000,Switzerland,1,0,1,2,6,6,100,0
-Triathlon,2000,Australia,0,1,0,1,6,6,100,1
-Triathlon,2000,Denmark,0,0,0,0,2,6,100,0
-Triathlon,2000,Ukraine,0,0,0,0,2,6,100,0
-Triathlon,2000,Greece,0,0,0,0,1,6,100,0
-Triathlon,2000,Zimbabwe,0,0,0,0,1,6,100,0
-Triathlon,2000,Netherlands Antilles,0,0,0,0,1,6,100,0
-Triathlon,2000,South Africa,0,0,0,0,2,6,100,0
-Triathlon,2000,Colombia,0,0,0,0,1,6,100,0
-Triathlon,2000,China,0,0,0,0,2,6,100,0
-Triathlon,2000,Belgium,0,0,0,0,2,6,100,0
-Triathlon,2000,Sweden,0,0,0,0,1,6,100,0
-Triathlon,2000,Jamaica,0,0,0,0,1,6,100,0
-Triathlon,2004,Estonia,0,0,0,0,1,6,99,0
-Triathlon,2004,Austria,1,0,0,1,3,6,99,0
-Triathlon,2004,Argentina,0,0,0,0,2,6,99,0
-Triathlon,2004,Russia,0,0,0,0,3,6,99,0
-Triathlon,2004,France,0,0,0,0,4,6,99,0
-Triathlon,2004,Australia,0,1,0,1,6,6,99,0
-Triathlon,2004,Czech Republic,0,0,0,0,5,6,99,0
-Triathlon,2004,Spain,0,0,0,0,6,6,99,0
-Triathlon,2004,Bermuda,0,0,0,0,1,6,99,0
-Triathlon,2004,New Zealand,1,1,0,2,4,6,99,0
-Triathlon,2004,Mexico,0,0,0,0,2,6,99,0
-Triathlon,2004,Italy,0,0,0,0,3,6,99,0
-Triathlon,2004,Colombia,0,0,0,0,1,6,99,0
-Triathlon,2004,Brazil,0,0,0,0,6,6,99,0
-Triathlon,2004,Germany,0,0,0,0,5,6,99,0
-Triathlon,2004,Great Britain,0,0,0,0,6,6,99,0
-Triathlon,2004,Portugal,0,0,0,0,1,6,99,0
-Triathlon,2004,Kazakhstan,0,0,0,0,3,6,99,0
-Triathlon,2004,Venezuela,0,0,0,0,1,6,99,0
-Triathlon,2004,South Africa,0,0,0,0,2,6,99,0
-Triathlon,2004,Denmark,0,0,0,0,1,6,99,0
-Triathlon,2004,Japan,0,0,0,0,5,6,99,0
-Triathlon,2004,Ukraine,0,0,0,0,2,6,99,0
-Triathlon,2004,Netherlands,0,0,0,0,2,6,99,0
-Triathlon,2004,Switzerland,0,0,1,1,5,6,99,0
-Triathlon,2004,United States,0,0,1,1,6,6,99,0
-Triathlon,2004,Greece,0,0,0,0,1,6,99,1
-Triathlon,2004,Hong Kong,0,0,0,0,1,6,99,0
-Triathlon,2004,Luxembourg,0,0,0,0,1,6,99,0
-Triathlon,2004,Canada,0,0,0,0,5,6,99,0
-Triathlon,2004,Hungary,0,0,0,0,1,6,99,0
-Triathlon,2004,Belgium,0,0,0,0,2,6,99,0
-Triathlon,2004,China,0,0,0,0,2,6,99,0
-Triathlon,2008,Russia,0,0,0,0,5,6,110,0
-Triathlon,2008,Austria,0,0,0,0,4,6,110,0
-Triathlon,2008,Estonia,0,0,0,0,1,6,110,0
-Triathlon,2008,Australia,1,0,1,2,5,6,110,0
-Triathlon,2008,Great Britain,0,0,0,0,5,6,110,0
-Triathlon,2008,France,0,0,0,0,5,6,110,0
-Triathlon,2008,United States,0,0,0,0,6,6,110,0
-Triathlon,2008,Netherlands,0,0,0,0,2,6,110,0
-Triathlon,2008,Luxembourg,0,0,0,0,2,6,110,0
-Triathlon,2008,Italy,0,0,0,0,4,6,110,0
-Triathlon,2008,Spain,0,0,0,0,4,6,110,0
-Triathlon,2008,Brazil,0,0,0,0,3,6,110,0
-Triathlon,2008,Mexico,0,0,0,0,2,6,110,0
-Triathlon,2008,Belgium,0,0,0,0,2,6,110,0
-Triathlon,2008,Poland,0,0,0,0,3,6,110,0
-Triathlon,2008,Ireland,0,0,0,0,1,6,110,0
-Triathlon,2008,Greece,0,0,0,0,1,6,110,0
-Triathlon,2008,Germany,1,0,0,1,6,6,110,0
-Triathlon,2008,New Zealand,0,0,1,1,6,6,110,0
-Triathlon,2008,Bermuda,0,0,0,0,1,6,110,0
-Triathlon,2008,Zimbabwe,0,0,0,0,1,6,110,0
-Triathlon,2008,Portugal,0,1,0,1,3,6,110,0
-Triathlon,2008,Czech Republic,0,0,0,0,3,6,110,0
-Triathlon,2008,Canada,0,1,0,1,6,6,110,0
-Triathlon,2008,Denmark,0,0,0,0,1,6,110,0
-Triathlon,2008,Ukraine,0,0,0,0,3,6,110,0
-Triathlon,2008,Switzerland,0,0,0,0,6,6,110,0
-Triathlon,2008,Japan,0,0,0,0,5,6,110,0
-Triathlon,2008,Hungary,0,0,0,0,2,6,110,0
-Triathlon,2008,Hong Kong,0,0,0,0,2,6,110,0
-Triathlon,2008,Sweden,0,0,0,0,1,6,110,0
-Triathlon,2008,South Africa,0,0,0,0,2,6,110,0
-Triathlon,2008,Chile,0,0,0,0,1,6,110,0
-Triathlon,2008,Kazakhstan,0,0,0,0,1,6,110,0
-Triathlon,2008,Slovakia,0,0,0,0,1,6,110,0
-Triathlon,2008,Syria,0,0,0,0,1,6,110,0
-Triathlon,2008,China,0,0,0,0,3,6,110,1
-Triathlon,2012,Russia,0,0,0,0,5,6,110,0
-Triathlon,2012,Japan,0,0,0,0,5,6,110,0
-Triathlon,2012,Australia,0,0,1,1,6,6,110,0
-Triathlon,2012,China,0,0,0,0,2,6,110,0
-Triathlon,2012,Monaco,0,0,0,0,1,6,110,0
-Triathlon,2012,Germany,0,0,0,0,6,6,110,0
-Triathlon,2012,United States,0,0,0,0,5,6,110,0
-Triathlon,2012,Ecuador,0,0,0,0,1,6,110,0
-Triathlon,2012,Great Britain,1,0,1,2,6,6,110,0
-Triathlon,2012,Bermuda,0,0,0,0,2,6,110,0
-Triathlon,2012,Netherlands,0,0,0,0,2,6,110,0
-Triathlon,2012,Czech Republic,0,0,0,0,4,6,110,0
-Triathlon,2012,Costa Rica,0,0,0,0,1,6,110,0
-Triathlon,2012,France,0,0,0,0,6,6,110,0
-Triathlon,2012,Brazil,0,0,0,0,3,6,110,0
-Triathlon,2012,Poland,0,0,0,0,3,6,110,0
-Triathlon,2012,Spain,0,1,0,1,6,6,110,0
-Triathlon,2012,Belgium,0,0,0,0,2,6,110,0
-Triathlon,2012,New Zealand,0,0,0,0,6,6,110,0
-Triathlon,2012,Italy,0,0,0,0,3,6,110,0
-Triathlon,2012,Zimbabwe,0,0,0,0,1,6,110,0
-Triathlon,2012,Canada,0,0,0,0,5,6,110,0
-Triathlon,2012,Denmark,0,0,0,0,2,6,110,0
-Triathlon,2012,Austria,0,0,0,0,2,6,110,0
-Triathlon,2012,Mexico,0,0,0,0,2,6,110,0
-Triathlon,2012,South Korea,0,0,0,0,1,6,110,0
-Triathlon,2012,Hungary,0,0,0,0,1,6,110,0
-Triathlon,2012,Ireland,0,0,0,0,2,6,110,0
-Triathlon,2012,South Africa,0,0,0,0,3,6,110,0
-Triathlon,2012,Sweden,0,1,0,1,1,6,110,0
-Triathlon,2012,Portugal,0,0,0,0,2,6,110,0
-Triathlon,2012,Colombia,0,0,0,0,1,6,110,0
-Triathlon,2012,Switzerland,1,0,0,1,4,6,110,0
-Triathlon,2012,Chile,0,0,0,0,2,6,110,0
-Triathlon,2012,Ukraine,0,0,0,0,2,6,110,0
-Triathlon,2012,Slovenia,0,0,0,0,1,6,110,0
-Triathlon,2012,Mauritius,0,0,0,0,1,6,110,0
-Triathlon,2012,Argentina,0,0,0,0,1,6,110,0
-Triathlon,2012,Slovakia,0,0,0,0,1,6,110,0
-Triathlon,2016,Russia,0,0,0,0,6,6,110,0
-Triathlon,2016,Spain,0,0,0,0,6,6,110,0
-Triathlon,2016,Switzerland,0,1,0,1,4,6,110,0
-Triathlon,2016,Portugal,0,0,0,0,3,6,110,0
-Triathlon,2016,China,0,0,0,0,2,6,110,0
-Triathlon,2016,Australia,0,0,0,0,6,6,110,0
-Triathlon,2016,France,0,0,0,0,5,6,110,0
-Triathlon,2016,Great Britain,1,1,1,3,6,6,110,0
-Triathlon,2016,United States,1,0,0,1,6,6,110,0
-Triathlon,2016,Norway,0,0,0,0,1,6,110,0
-Triathlon,2016,Italy,0,0,0,0,4,6,110,0
-Triathlon,2016,Canada,0,0,0,0,5,6,110,0
-Triathlon,2016,Ecuador,0,0,0,0,1,6,110,0
-Triathlon,2016,Costa Rica,0,0,0,0,1,6,110,0
-Triathlon,2016,Israel,0,0,0,0,1,6,110,0
-Triathlon,2016,New Zealand,0,0,0,0,4,6,110,0
-Triathlon,2016,Bermuda,0,0,0,0,1,6,110,0
-Triathlon,2016,Hungary,0,0,0,0,4,6,110,0
-Triathlon,2016,Jordan,0,0,0,0,1,6,110,0
-Triathlon,2016,Czech Republic,0,0,0,0,1,6,110,0
-Triathlon,2016,Belgium,0,0,0,0,4,6,110,0
-Triathlon,2016,Mexico,0,0,0,0,5,6,110,0
-Triathlon,2016,Germany,0,0,0,0,2,6,110,0
-Triathlon,2016,Austria,0,0,0,0,3,6,110,0
-Triathlon,2016,Puerto Rico,0,0,0,0,1,6,110,0
-Triathlon,2016,Ukraine,0,0,0,0,2,6,110,0
-Triathlon,2016,Poland,0,0,0,0,1,6,110,0
-Triathlon,2016,Japan,0,0,0,0,4,6,110,0
-Triathlon,2016,Ireland,0,0,0,0,2,6,110,0
-Triathlon,2016,Estonia,0,0,0,0,1,6,110,0
-Triathlon,2016,Netherlands,0,0,0,0,1,6,110,0
-Triathlon,2016,South Africa,0,0,1,1,4,6,110,0
-Triathlon,2016,Sweden,0,0,0,0,1,6,110,0
-Triathlon,2016,Brazil,0,0,0,0,2,6,110,1
-Triathlon,2016,Azerbaijan,0,0,0,0,1,6,110,0
-Triathlon,2016,Chile,0,0,0,0,1,6,110,0
-Triathlon,2016,Denmark,0,0,0,0,1,6,110,0
-Triathlon,2016,Slovenia,0,0,0,0,1,6,110,0
-Triathlon,2016,Mauritius,0,0,0,0,1,6,110,0
-Triathlon,2016,Argentina,0,0,0,0,2,6,110,0
-Triathlon,2016,Slovakia,0,0,0,0,1,6,110,0
-Triathlon,2016,Barbados,0,0,0,0,1,6,110,0
-Swimming,1896,Greece,1,3,2,6,9,12,18,0
-Swimming,1896,Hungary,2,0,0,2,1,12,18,0
-Swimming,1896,Austria,1,1,0,2,2,12,18,0
-Swimming,1896,United States,0,0,0,0,1,12,18,0
-Swimming,1900,France,1,1,1,3,44,21,131,1
-Swimming,1900,Austria,0,3,1,4,4,21,131,0
-Swimming,1900,Germany,1,0,0,1,4,21,131,0
-Swimming,1900,Tritons Lillois,0,1,0,1,5,21,131,0
-Swimming,1900,Netherlands,0,0,1,1,4,21,131,0
-Swimming,1900,Great Britain,2,0,1,3,7,21,131,0
-Swimming,1900,Italy,0,0,0,0,2,21,131,0
-Swimming,1900,Libellule de Paris,0,0,0,0,5,21,131,0
-Swimming,1900,Sweden,0,0,0,0,1,21,131,0
-Swimming,1900,Deutscher Schwimm Verband Berlin,1,0,0,1,4,21,131,0
-Swimming,1900,United States,0,0,0,0,1,21,131,0
-Swimming,1900,Belgium,0,0,0,0,1,21,131,0
-Swimming,1900,Australia,2,0,0,2,1,21,131,0
-Swimming,1900,Pupilles de Neptune de Lille,0,0,1,1,4,21,131,0
-Swimming,1900,Denmark,0,0,1,1,1,21,131,0
-Swimming,1900,Hungary,0,2,1,3,1,21,131,0
-Swimming,1904,United States,3,3,4,10,15,30,64,1
-Swimming,1904,New York Athletic Club #2,0,0,0,0,4,30,64,0
-Swimming,1904,Germany,4,2,2,8,4,30,64,0
-Swimming,1904,New York Athletic Club #1,1,0,0,1,4,30,64,0
-Swimming,1904,Missouri Athletic Club,0,0,1,1,4,30,64,0
-Swimming,1904,Australia,0,3,1,4,1,30,64,0
-Swimming,1904,Chicago Athletic Association,0,1,0,1,4,30,64,0
-Swimming,1904,Hungary,2,1,1,4,2,30,64,0
-Swimming,1904,Austria,0,0,1,1,1,30,64,0
-Swimming,1906,Italy,0,0,0,0,1,12,78,0
-Swimming,1906,Sweden,0,0,0,0,6,12,78,0
-Swimming,1906,Germany,0,1,0,1,5,12,78,0
-Swimming,1906,Austria,1,0,1,2,4,12,78,0
-Swimming,1906,United States,1,0,0,1,4,12,78,0
-Swimming,1906,France,0,0,0,0,2,12,78,0
-Swimming,1906,Hungary,1,1,0,2,6,12,78,0
-Swimming,1906,Great Britain,1,2,2,5,6,12,78,0
-Swimming,1906,Denmark,0,0,0,0,2,12,78,0
-Swimming,1906,Australia,0,0,1,1,1,12,78,0
-Swimming,1906,Greece,0,0,0,0,6,12,78,0
-Swimming,1908,Sweden,0,0,2,2,12,18,150,0
-Swimming,1908,France,0,0,0,0,4,18,150,0
-Swimming,1908,Germany,1,0,0,1,5,18,150,0
-Swimming,1908,Italy,0,0,0,0,4,18,150,0
-Swimming,1908,Australasia,0,1,1,2,5,18,150,0
-Swimming,1908,Hungary,0,2,0,2,10,18,150,0
-Swimming,1908,Great Britain,4,2,1,7,28,18,150,0
-Swimming,1908,Netherlands,0,0,0,0,7,18,150,0
-Swimming,1908,Belgium,0,0,0,0,7,18,150,0
-Swimming,1908,Finland,0,0,0,0,3,18,150,0
-Swimming,1908,Denmark,0,1,0,1,5,18,150,0
-Swimming,1908,United States,1,0,1,2,8,18,150,0
-Swimming,1908,Austria,0,0,1,1,1,18,150,0
-Swimming,1908,Canada,0,0,0,0,1,18,150,0
-Weightlifting,1896,Great Britain,1,1,0,2,1,6,10,0
-Weightlifting,1896,Denmark,1,1,0,2,1,6,10,0
-Weightlifting,1896,Greece,0,0,2,2,3,6,10,0
-Weightlifting,1896,Germany,0,0,0,0,1,6,10,0
-Weightlifting,1896,Hungary,0,0,0,0,1,6,10,0
-Weightlifting,1904,Greece,1,0,0,1,1,6,7,0
-Weightlifting,1904,Germany,0,0,2,2,1,6,7,0
-Weightlifting,1904,United States,1,2,0,3,3,6,7,1
-Weightlifting,1906,Greece,1,0,0,1,6,6,22,0
-Weightlifting,1906,Italy,0,1,0,1,1,6,22,0
-Weightlifting,1906,Belgium,0,0,0,0,1,6,22,0
-Weightlifting,1906,France,0,0,1,1,1,6,22,0
-Weightlifting,1906,Germany,0,0,2,2,2,6,22,0
-Weightlifting,1906,Austria,1,1,0,2,1,6,22,0
-Weightlifting,1906,Sweden,0,0,0,0,1,6,22,0
-Weightlifting,1920,Luxembourg,0,1,0,1,3,15,53,0
-Weightlifting,1920,France,2,0,1,3,10,15,53,0
-Weightlifting,1920,Netherlands,0,0,0,0,5,15,53,0
-Weightlifting,1920,Italy,1,1,0,2,5,15,53,0
-Weightlifting,1920,Sweden,0,0,2,2,5,15,53,0
-Weightlifting,1920,Belgium,1,1,1,3,7,15,53,1
-Weightlifting,1920,Czech Republic,0,0,0,0,2,15,53,0
-Weightlifting,1920,Finland,0,0,0,0,1,15,53,0
-Weightlifting,1920,Denmark,0,0,0,0,5,15,53,0
-Weightlifting,1920,Switzerland,0,1,1,2,2,15,53,0
-Weightlifting,1920,Estonia,1,1,0,2,3,15,53,0
-Weightlifting,1920,Greece,0,0,0,0,1,15,53,0
-Weightlifting,1920,Great Britain,0,0,0,0,2,15,53,0
-Weightlifting,1920,Egypt,0,0,0,0,1,15,53,0
-Weightlifting,1924,Switzerland,0,1,1,2,9,15,107,0
-Weightlifting,1924,Austria,0,3,1,4,15,15,107,0
-Weightlifting,1924,Luxembourg,0,0,0,0,4,15,107,0
-Weightlifting,1924,Great Britain,0,0,0,0,10,15,107,0
-Weightlifting,1924,Argentina,0,0,0,0,3,15,107,0
-Weightlifting,1924,Belgium,0,0,0,0,8,15,107,0
-Weightlifting,1924,Italy,3,0,0,3,15,15,107,0
-Weightlifting,1924,Sweden,0,0,0,0,5,15,107,0
-Weightlifting,1924,France,2,0,0,2,14,15,107,1
-Weightlifting,1924,Czech Republic,0,0,1,1,6,15,107,0
-Weightlifting,1924,Turkey,0,0,0,0,1,15,107,0
-Weightlifting,1924,Estonia,0,1,2,3,8,15,107,0
-Weightlifting,1924,Latvia,0,0,0,0,4,15,107,0
-Weightlifting,1924,Netherlands,0,0,0,0,3,15,107,0
-Weightlifting,1924,Portugal,0,0,0,0,1,15,107,0
-Weightlifting,1924,Egypt,0,0,0,0,1,15,107,0
-Canoeing,1936,Canada,1,1,1,3,8,27,143,0
-Canoeing,1936,Switzerland,0,0,0,0,9,27,143,0
-Canoeing,1936,Poland,0,0,0,0,2,27,143,0
-Canoeing,1936,Sweden,1,0,1,2,9,27,143,0
-Canoeing,1936,Germany,2,3,2,7,14,27,143,1
-Canoeing,1936,Belgium,0,0,0,0,9,27,143,0
-Canoeing,1936,Great Britain,0,0,0,0,3,27,143,0
-Canoeing,1936,Czech Republic,2,1,0,3,13,27,143,0
-Canoeing,1936,Hungary,0,0,0,0,5,27,143,0
-Canoeing,1936,Austria,3,3,1,7,9,27,143,0
-Canoeing,1936,France,0,1,0,1,3,27,143,0
-Canoeing,1936,United States,0,0,1,1,10,27,143,0
-Canoeing,1936,Serbia,0,0,0,0,4,27,143,0
-Canoeing,1936,Norway,0,0,0,0,1,27,143,0
-Canoeing,1936,Finland,0,0,0,0,3,27,143,0
-Canoeing,1936,Netherlands,0,0,3,3,9,27,143,0
-Canoeing,1936,Denmark,0,0,0,0,4,27,143,0
-Canoeing,1936,Italy,0,0,0,0,1,27,143,0
-Canoeing,1936,Luxembourg,0,0,0,0,3,27,143,0
-Canoeing,1948,Finland,0,1,2,3,5,27,139,0
-Canoeing,1948,Sweden,4,0,0,4,9,27,139,0
-Canoeing,1948,Denmark,1,2,0,3,7,27,139,0
-Canoeing,1948,Hungary,0,0,0,0,5,27,139,0
-Canoeing,1948,France,0,0,4,4,10,27,139,0
-Canoeing,1948,Canada,0,1,1,2,7,27,139,0
-Canoeing,1948,Netherlands,0,1,0,1,7,27,139,0
-Canoeing,1948,Belgium,0,0,0,0,9,27,139,0
-Canoeing,1948,Switzerland,0,0,0,0,6,27,139,0
-Canoeing,1948,Czech Republic,3,1,0,4,13,27,139,0
-Canoeing,1948,United States,1,2,0,3,8,27,139,0
-Canoeing,1948,Great Britain,0,0,0,0,7,27,139,0
-Canoeing,1948,Austria,0,0,1,1,7,27,139,0
-Canoeing,1948,Luxembourg,0,0,0,0,3,27,139,0
-Canoeing,1948,Norway,0,1,1,2,4,27,139,0
-Canoeing,1948,Poland,0,0,0,0,3,27,139,0
-Canoeing,1952,Italy,0,0,0,0,6,27,184,0
-Canoeing,1952,Sweden,1,3,0,4,10,27,184,0
-Canoeing,1952,Denmark,1,0,0,1,9,27,184,0
-Canoeing,1952,Romania,0,0,0,0,1,27,184,0
-Canoeing,1952,United States,1,0,0,1,9,27,184,0
-Canoeing,1952,Great Britain,0,0,0,0,7,27,184,0
-Canoeing,1952,Germany,0,0,3,3,10,27,184,0
-Canoeing,1952,Switzerland,0,0,0,0,7,27,184,0
-Canoeing,1952,Netherlands,0,0,0,0,5,27,184,0
-Canoeing,1952,Hungary,0,2,1,3,12,27,184,0
-Canoeing,1952,Canada,0,1,0,1,11,27,184,0
-Canoeing,1952,France,1,0,1,2,13,27,184,0
-Canoeing,1952,Czech Republic,1,1,1,3,13,27,184,0
-Canoeing,1952,Soviet Union,0,0,1,1,13,27,184,0
-Canoeing,1952,Belgium,0,0,0,0,4,27,184,0
-Canoeing,1952,Finland,4,1,1,6,10,27,184,1
-Canoeing,1952,Norway,0,0,0,0,4,27,184,0
-Canoeing,1952,Luxembourg,0,0,0,0,4,27,184,0
-Canoeing,1952,Saar,0,0,0,0,3,27,184,0
-Canoeing,1952,Austria,0,1,1,2,7,27,184,0
-Canoeing,1952,Serbia,0,0,0,0,1,27,184,0
-Canoeing,1956,Romania,3,0,0,3,5,27,146,0
-Canoeing,1956,Australia,0,0,1,1,8,27,146,1
-Canoeing,1956,Great Britain,0,0,0,0,3,27,146,0
-Canoeing,1956,Canada,0,0,0,0,9,27,146,0
-Canoeing,1956,Soviet Union,2,3,2,7,9,27,146,0
-Canoeing,1956,Germany,1,2,1,4,10,27,146,0
-Canoeing,1956,United States,0,0,0,0,12,27,146,0
-Canoeing,1956,Czech Republic,0,0,0,0,5,27,146,0
-Canoeing,1956,Denmark,0,0,1,1,7,27,146,0
-Canoeing,1956,France,0,1,0,1,6,27,146,0
-Canoeing,1956,Finland,0,0,0,0,6,27,146,0
-Canoeing,1956,Hungary,1,3,3,7,13,27,146,0
-Canoeing,1956,Sweden,2,0,0,2,6,27,146,0
-Canoeing,1956,Poland,0,0,0,0,4,27,146,0
-Canoeing,1956,Austria,0,0,1,1,7,27,146,0
-Canoeing,1956,Norway,0,0,0,0,1,27,146,0
-Canoeing,1956,Belgium,0,0,0,0,2,27,146,0
-Canoeing,1960,Finland,0,0,0,0,9,21,211,0
-Canoeing,1960,France,0,0,0,0,9,21,211,0
-Canoeing,1960,Romania,0,0,1,1,11,21,211,0
-Canoeing,1960,Hungary,1,3,2,6,9,21,211,0
-Canoeing,1960,United States,0,0,0,0,13,21,211,0
-Canoeing,1960,Canada,0,0,0,0,6,21,211,0
-Canoeing,1960,Italy,0,1,0,1,12,21,211,1
-Canoeing,1960,Great Britain,0,0,0,0,7,21,211,0
-Canoeing,1960,Serbia,0,0,0,0,3,21,211,0
-Canoeing,1960,Austria,0,0,0,0,10,21,211,0
-Canoeing,1960,Czech Republic,0,0,0,0,10,21,211,0
-Canoeing,1960,Denmark,1,0,1,2,9,21,211,0
-Canoeing,1960,Australia,0,0,0,0,7,21,211,0
-Canoeing,1960,Luxembourg,0,0,0,0,3,21,211,0
-Canoeing,1960,Belgium,0,0,0,0,4,21,211,0
-Canoeing,1960,Sweden,1,0,1,2,6,21,211,0
-Canoeing,1960,Norway,0,0,0,0,2,21,211,0
-Canoeing,1960,Spain,0,0,0,0,2,21,211,0
-Canoeing,1960,Netherlands,0,0,0,0,4,21,211,0
-Canoeing,1960,Soviet Union,3,1,0,4,12,21,211,0
-Canoeing,1960,Bulgaria,0,0,0,0,5,21,211,0
-Canoeing,1960,Germany,1,2,0,3,10,21,211,0
-Canoeing,1960,Switzerland,0,0,0,0,4,21,211,0
-Canoeing,1960,Poland,0,0,2,2,6,21,211,0
-Boxing,1904,United States,7,7,4,18,18,21,24,1
-Boxing,1908,Great Britain,5,4,5,14,32,15,42,0
-Boxing,1908,France,0,0,0,0,7,15,42,0
-Boxing,1908,Australasia,0,1,0,1,1,15,42,0
-Boxing,1908,Denmark,0,0,0,0,2,15,42,0
-Boxing,1920,Great Britain,2,1,3,6,16,24,116,0
-Boxing,1920,France,1,1,1,3,15,24,116,0
-Boxing,1920,Denmark,0,3,0,3,12,24,116,0
-Boxing,1920,Belgium,0,0,0,0,13,24,116,1
-Boxing,1920,Italy,0,0,1,1,5,24,116,0
-Boxing,1920,South Africa,1,0,0,1,7,24,116,0
-Boxing,1920,United States,3,0,1,4,16,24,116,0
-Boxing,1920,Norway,0,1,0,1,14,24,116,0
-Boxing,1920,Canada,1,2,2,5,8,24,116,0
-Boxing,1920,Netherlands,0,0,0,0,8,24,116,0
-Boxing,1920,Switzerland,0,0,0,0,1,24,116,0
-Boxing,1920,Argentina,0,0,0,0,1,24,116,0
-Boxing,1924,Chile,0,0,0,0,4,24,181,0
-Boxing,1924,Sweden,0,0,0,0,5,24,181,0
-Boxing,1924,Netherlands,0,0,0,0,9,24,181,0
-Boxing,1924,Great Britain,2,2,0,4,16,24,181,0
-Boxing,1924,Austria,0,0,0,0,3,24,181,0
-Boxing,1924,Spain,0,0,0,0,7,24,181,0
-Boxing,1924,Belgium,1,0,1,2,10,24,181,0
-Boxing,1924,South Africa,1,0,0,1,4,24,181,0
-Boxing,1924,Canada,0,0,1,1,9,24,181,0
-Boxing,1924,Italy,0,0,0,0,16,24,181,0
-Boxing,1924,United States,2,2,2,6,16,24,181,0
-Boxing,1924,France,0,0,1,1,16,24,181,1
-Boxing,1924,Argentina,0,2,2,4,10,24,181,0
-Boxing,1924,Norway,1,0,1,2,9,24,181,0
-Boxing,1924,Uruguay,0,0,0,0,5,24,181,0
-Boxing,1924,Ireland,0,0,0,0,7,24,181,0
-Boxing,1924,Poland,0,0,0,0,5,24,181,0
-Boxing,1924,Luxembourg,0,0,0,0,6,24,181,0
-Boxing,1924,Switzerland,0,0,0,0,7,24,181,0
-Boxing,1924,Greece,0,0,0,0,1,24,181,0
-Boxing,1924,Latvia,0,0,0,0,1,24,181,0
-Boxing,1924,Egypt,0,0,0,0,1,24,181,0
-Boxing,1924,Australia,0,0,0,0,3,24,181,0
-Boxing,1924,Denmark,1,2,0,3,8,24,181,0
-Boxing,1924,Hungary,0,0,0,0,1,24,181,0
-Boxing,1924,Estonia,0,0,0,0,1,24,181,0
-Boxing,1924,New Zealand,0,0,0,0,1,24,181,0
-Boxing,1928,Belgium,0,0,1,1,6,24,144,0
-Boxing,1928,France,0,1,0,1,8,24,144,0
-Boxing,1928,Germany,0,1,0,1,8,24,144,0
-Boxing,1928,Argentina,2,2,0,4,8,24,144,0
-Boxing,1928,Netherlands,1,0,1,2,6,24,144,1
-Boxing,1928,Canada,0,0,1,1,7,24,144,0
-Boxing,1928,Sweden,0,1,1,2,8,24,144,0
-Boxing,1928,Zimbabwe,0,0,0,0,2,24,144,0
-Boxing,1928,Norway,0,0,0,0,5,24,144,0
-Boxing,1928,Spain,0,0,0,0,6,24,144,0
-Boxing,1928,Italy,3,0,1,4,7,24,144,0
-Boxing,1928,Ireland,0,0,0,0,8,24,144,0
-Boxing,1928,New Zealand,1,0,0,1,2,24,144,0
-Boxing,1928,United States,0,2,1,3,8,24,144,0
-Boxing,1928,Chile,0,0,0,0,4,24,144,0
-Boxing,1928,Great Britain,0,0,0,0,8,24,144,0
-Boxing,1928,South Africa,0,0,1,1,6,24,144,0
-Boxing,1928,Denmark,0,0,1,1,6,24,144,0
-Boxing,1928,Greece,0,0,0,0,2,24,144,0
-Boxing,1928,Austria,0,0,0,0,1,24,144,0
-Boxing,1928,Mexico,0,0,0,0,4,24,144,0
-Boxing,1928,Hungary,1,0,0,1,4,24,144,0
-Boxing,1928,Poland,0,0,0,0,4,24,144,0
-Boxing,1928,Finland,0,0,0,0,3,24,144,0
-Boxing,1928,Czech Republic,0,1,0,1,3,24,144,0
-Boxing,1928,Luxembourg,0,0,0,0,5,24,144,0
-Boxing,1928,Lithuania,0,0,0,0,2,24,144,0
-Boxing,1928,Japan,0,0,0,0,2,24,144,0
-Boxing,1928,Estonia,0,0,0,0,1,24,144,0
+Basketball,1936,Uruguay,0,0,0,0,9,3,199,0
+Basketball,1936,Canada,0,1,0,1,9,3,199,0
+Basketball,1936,Brazil,0,0,0,0,8,3,199,0
+Basketball,1936,Turkey,0,0,0,0,8,3,199,0
+Basketball,1936,Estonia,0,0,0,0,8,3,199,0
+Basketball,1936,Latvia,0,0,0,0,7,3,199,0
+Basketball,1936,Peru,0,0,0,0,9,3,199,0
+Basketball,1936,United States,1,0,0,1,14,3,199,0
+Basketball,1936,Italy,0,0,0,0,13,3,199,0
+Basketball,1936,Switzerland,0,0,0,0,8,3,199,0
+Basketball,1936,France,0,0,0,0,11,3,199,0
+Basketball,1936,Philippines,0,0,0,0,9,3,199,0
+Basketball,1936,Mexico,0,0,1,1,11,3,199,0
+Basketball,1936,Belgium,0,0,0,0,8,3,199,0
+Basketball,1936,Chile,0,0,0,0,7,3,199,0
+Basketball,1936,Japan,0,0,0,0,8,3,199,0
+Basketball,1936,Czech Republic,0,0,0,0,12,3,199,0
+Basketball,1936,Germany,0,0,0,0,10,3,199,1
+Basketball,1936,China,0,0,0,0,13,3,199,0
+Basketball,1936,Poland,0,0,0,0,10,3,199,0
+Basketball,1936,Egypt,0,0,0,0,7,3,199,0
+Basketball,1948,Egypt,0,0,0,0,12,3,287,0
+Basketball,1948,Uruguay,0,0,0,0,13,3,287,0
+Basketball,1948,Mexico,0,0,0,0,14,3,287,0
+Basketball,1948,Cuba,0,0,0,0,13,3,287,0
+Basketball,1948,Iraq,0,0,0,0,10,3,287,0
+Basketball,1948,Peru,0,0,0,0,11,3,287,0
+Basketball,1948,Switzerland,0,0,0,0,14,3,287,0
+Basketball,1948,Brazil,0,0,1,1,10,3,287,0
+Basketball,1948,South Korea,0,0,0,0,9,3,287,0
+Basketball,1948,Philippines,0,0,0,0,10,3,287,0
+Basketball,1948,Iran,0,0,0,0,13,3,287,0
+Basketball,1948,Belgium,0,0,0,0,14,3,287,0
+Basketball,1948,Canada,0,0,0,0,14,3,287,0
+Basketball,1948,Hungary,0,0,0,0,12,3,287,0
+Basketball,1948,United States,1,0,0,1,14,3,287,0
+Basketball,1948,France,0,1,0,1,14,3,287,0
+Basketball,1948,Czech Republic,0,0,0,0,14,3,287,0
+Basketball,1948,Italy,0,0,0,0,14,3,287,0
+Basketball,1948,Ireland,0,0,0,0,13,3,287,0
+Basketball,1948,Argentina,0,0,0,0,14,3,287,0
+Basketball,1948,China,0,0,0,0,10,3,287,0
+Basketball,1948,Great Britain,0,0,0,0,13,3,287,0
+Basketball,1948,Chile,0,0,0,0,12,3,287,0
+Basketball,1952,Egypt,0,0,0,0,14,3,294,0
+Basketball,1952,Uruguay,0,0,1,1,12,3,294,0
+Basketball,1952,Switzerland,0,0,0,0,14,3,294,0
+Basketball,1952,Brazil,0,0,0,0,13,3,294,0
+Basketball,1952,Turkey,0,0,0,0,11,3,294,0
+Basketball,1952,Mexico,0,0,0,0,13,3,294,0
+Basketball,1952,Israel,0,0,0,0,12,3,294,0
+Basketball,1952,Chile,0,0,0,0,13,3,294,0
+Basketball,1952,Greece,0,0,0,0,12,3,294,0
+Basketball,1952,Hungary,0,0,0,0,13,3,294,0
+Basketball,1952,Czech Republic,0,0,0,0,13,3,294,0
+Basketball,1952,Philippines,0,0,0,0,12,3,294,0
+Basketball,1952,Cuba,0,0,0,0,12,3,294,0
+Basketball,1952,France,0,0,0,0,14,3,294,0
+Basketball,1952,Belgium,0,0,0,0,12,3,294,0
+Basketball,1952,Italy,0,0,0,0,13,3,294,0
+Basketball,1952,United States,1,0,0,1,14,3,294,0
+Basketball,1952,Russia,0,1,0,1,14,3,294,0
+Basketball,1952,Romania,0,0,0,0,12,3,294,0
+Basketball,1952,Canada,0,0,0,0,12,3,294,0
+Basketball,1952,Argentina,0,0,0,0,14,3,294,0
+Basketball,1952,Bulgaria,0,0,0,0,14,3,294,0
+Basketball,1952,Finland,0,0,0,0,11,3,294,1
+Basketball,1956,Thailand,0,0,0,0,9,3,169,0
+Basketball,1956,Brazil,0,0,0,0,12,3,169,0
+Basketball,1956,South Korea,0,0,0,0,10,3,169,0
+Basketball,1956,France,0,0,0,0,12,3,169,0
+Basketball,1956,Japan,0,0,0,0,11,3,169,0
+Basketball,1956,Chile,0,0,0,0,11,3,169,0
+Basketball,1956,Bulgaria,0,0,0,0,11,3,169,0
+Basketball,1956,Philippines,0,0,0,0,12,3,169,0
+Basketball,1956,Canada,0,0,0,0,12,3,169,0
+Basketball,1956,Uruguay,0,0,1,1,12,3,169,0
+Basketball,1956,Russia,0,1,0,1,12,3,169,0
+Basketball,1956,United States,1,0,0,1,12,3,169,0
+Basketball,1956,Australia,0,0,0,0,12,3,169,1
+Basketball,1956,Singapore,0,0,0,0,10,3,169,0
+Basketball,1956,Chinese Taipei,0,0,0,0,11,3,169,0
+Basketball,1960,Philippines,0,0,0,0,12,3,192,0
+Basketball,1960,Mexico,0,0,0,0,12,3,192,0
+Basketball,1960,Italy,0,0,0,0,12,3,192,1
+Basketball,1960,Brazil,0,0,1,1,12,3,192,0
+Basketball,1960,France,0,0,0,0,12,3,192,0
+Basketball,1960,United States,1,0,0,1,12,3,192,0
+Basketball,1960,Bulgaria,0,0,0,0,12,3,192,0
+Basketball,1960,Puerto Rico,0,0,0,0,12,3,192,0
+Basketball,1960,Hungary,0,0,0,0,12,3,192,0
+Basketball,1960,Czech Republic,0,0,0,0,12,3,192,0
+Basketball,1960,Spain,0,0,0,0,12,3,192,0
+Basketball,1960,Uruguay,0,0,0,0,12,3,192,0
+Basketball,1960,Serbia,0,0,0,0,12,3,192,0
+Basketball,1960,Poland,0,0,0,0,12,3,192,0
+Basketball,1960,Japan,0,0,0,0,12,3,192,0
+Basketball,1960,Russia,0,1,0,1,12,3,192,0
 Sailing,1900,Martha,0,1,1,2,8,24,280,0
 Sailing,1900,Carabinier,1,0,0,1,2,24,280,0
 Sailing,1900,Pettit,0,0,0,0,1,24,280,0
@@ -958,6 +248,549 @@ Sailing,1924,Argentina,0,0,0,0,1,9,69,0
 Sailing,1924,Denmark,0,0,0,0,1,9,69,0
 Sailing,1924,Norway,0,1,0,1,1,9,69,0
 Sailing,1924,Canada,0,0,0,0,1,9,69,0
+Equestrianism,1900,France,2,2,4,8,38,15,79,1
+Equestrianism,1900,Belgium,3,1,1,5,13,15,79,0
+Equestrianism,1900,Spain,0,0,0,0,1,15,79,0
+Equestrianism,1900,Russia,0,0,0,0,3,15,79,0
+Equestrianism,1900,Austria,0,0,0,0,3,15,79,0
+Equestrianism,1900,Great Britain,0,0,0,0,1,15,79,0
+Equestrianism,1900,Italy,1,1,0,2,3,15,79,0
+Equestrianism,1900,Germany,0,0,0,0,1,15,79,0
+Equestrianism,1912,Sweden,4,1,1,6,17,15,128,1
+Equestrianism,1912,Germany,0,3,1,4,13,15,128,0
+Equestrianism,1912,France,1,1,1,3,4,15,128,0
+Equestrianism,1912,Belgium,0,0,1,1,4,15,128,0
+Equestrianism,1912,Chile,0,0,0,0,2,15,128,0
+Equestrianism,1912,Norway,0,0,0,0,3,15,128,0
+Equestrianism,1912,United States,0,0,1,1,4,15,128,0
+Equestrianism,1912,Great Britain,0,0,0,0,4,15,128,0
+Equestrianism,1912,Denmark,0,0,0,0,4,15,128,0
+Equestrianism,1912,Russia,0,0,0,0,7,15,128,0
+Equestrianism,1920,Sweden,4,2,3,9,22,21,132,0
+Equestrianism,1920,United States,0,0,0,0,8,21,132,0
+Equestrianism,1920,France,0,2,0,2,24,21,132,0
+Equestrianism,1920,Italy,1,2,2,5,10,21,132,0
+Equestrianism,1920,Norway,0,0,0,0,5,21,132,0
+Equestrianism,1920,Belgium,2,1,2,5,18,21,132,1
+Equestrianism,1920,Netherlands,0,0,0,0,1,21,132,0
+Equestrianism,1920,Finland,0,0,0,0,1,21,132,0
+Equestrianism,1924,Spain,0,0,0,0,4,15,194,0
+Equestrianism,1924,Italy,0,1,1,2,5,15,194,0
+Equestrianism,1924,Sweden,2,2,0,4,12,15,194,0
+Equestrianism,1924,France,0,0,1,1,12,15,194,1
+Equestrianism,1924,United States,0,0,1,1,5,15,194,0
+Equestrianism,1924,Belgium,0,0,0,0,11,15,194,0
+Equestrianism,1924,Great Britain,0,0,0,0,6,15,194,0
+Equestrianism,1924,Czech Republic,0,0,0,0,11,15,194,0
+Equestrianism,1924,Switzerland,1,1,0,2,9,15,194,0
+Equestrianism,1924,Netherlands,2,0,0,2,5,15,194,0
+Equestrianism,1924,Portugal,0,0,1,1,4,15,194,0
+Equestrianism,1924,Poland,0,0,1,1,6,15,194,0
+Equestrianism,1924,Finland,0,0,0,0,1,15,194,0
+Equestrianism,1924,Denmark,0,1,0,1,1,15,194,0
+Equestrianism,1924,Bulgaria,0,0,0,0,2,15,194,0
+Equestrianism,1924,Serbia,0,0,0,0,1,15,194,0
+Equestrianism,1924,Austria,0,0,0,0,2,15,194,0
+Equestrianism,1928,Spain,1,0,0,1,6,18,232,0
+Equestrianism,1928,Sweden,0,1,2,3,9,18,232,0
+Equestrianism,1928,Argentina,0,0,0,0,3,18,232,0
+Equestrianism,1928,Poland,0,1,1,2,5,18,232,0
+Equestrianism,1928,France,0,2,0,2,9,18,232,0
+Equestrianism,1928,Italy,0,0,0,0,5,18,232,0
+Equestrianism,1928,Hungary,0,0,0,0,5,18,232,0
+Equestrianism,1928,United States,0,0,0,0,5,18,232,0
+Equestrianism,1928,Czech Republic,1,0,0,1,9,18,232,0
+Equestrianism,1928,Netherlands,2,1,1,4,8,18,232,1
+Equestrianism,1928,Belgium,0,0,0,0,9,18,232,0
+Equestrianism,1928,Switzerland,0,0,1,1,9,18,232,0
+Equestrianism,1928,Portugal,0,0,0,0,3,18,232,0
+Equestrianism,1928,Germany,2,0,1,3,8,18,232,0
+Equestrianism,1928,Denmark,0,0,0,0,3,18,232,0
+Equestrianism,1928,Austria,0,0,0,0,3,18,232,0
+Equestrianism,1928,Norway,0,1,0,1,6,18,232,0
+Equestrianism,1928,Japan,0,0,0,0,4,18,232,0
+Equestrianism,1928,Bulgaria,0,0,0,0,3,18,232,0
+Equestrianism,1928,Finland,0,0,0,0,1,18,232,0
+Wrestling,1896,Great Britain,0,0,0,0,1,3,5,0
+Wrestling,1896,Greece,0,1,1,2,2,3,5,0
+Wrestling,1896,Germany,1,0,0,1,1,3,5,0
+Wrestling,1896,Hungary,0,0,0,0,1,3,5,0
+Wrestling,1904,United States,5,6,6,17,35,21,48,1
+Wrestling,1904,Norway,2,0,0,2,2,21,48,0
+Wrestling,1904,Canada,0,0,0,0,1,21,48,0
+Wrestling,1904,Germany,0,1,0,1,3,21,48,0
+Wrestling,1904,Switzerland,0,0,1,1,1,21,48,0
+Wrestling,1906,Austria,1,2,1,4,8,12,39,0
+Wrestling,1906,Denmark,2,1,1,4,3,12,39,0
+Wrestling,1906,France,0,0,0,0,2,12,39,0
+Wrestling,1906,Germany,0,0,0,0,2,12,39,0
+Wrestling,1906,Egypt,0,0,0,0,1,12,39,0
+Wrestling,1906,Belgium,0,0,1,1,3,12,39,0
+Wrestling,1906,Hungary,0,0,1,1,3,12,39,0
+Wrestling,1906,Bohemia,0,0,0,0,2,12,39,0
+Wrestling,1906,Greece,0,0,0,0,9,12,39,0
+Wrestling,1906,United States,0,0,0,0,2,12,39,0
+Wrestling,1906,Finland,1,1,0,2,1,12,39,0
+Wrestling,1908,Great Britain,3,4,4,11,53,27,133,0
+Wrestling,1908,Denmark,0,0,3,3,10,27,133,0
+Wrestling,1908,Sweden,1,1,0,2,9,27,133,0
+Wrestling,1908,Bohemia,0,0,0,0,4,27,133,0
+Wrestling,1908,Netherlands,0,0,0,0,9,27,133,0
+Wrestling,1908,Canada,0,0,1,1,1,27,133,0
+Wrestling,1908,United States,2,0,0,2,6,27,133,0
+Wrestling,1908,Belgium,0,0,0,0,4,27,133,0
+Wrestling,1908,Russia,0,2,0,2,4,27,133,0
+Wrestling,1908,Germany,0,0,0,0,1,27,133,0
+Wrestling,1908,Norway,0,1,0,1,1,27,133,0
+Wrestling,1908,Iceland,0,0,0,0,1,27,133,0
+Wrestling,1908,Finland,1,1,1,3,4,27,133,0
+Wrestling,1908,Hungary,1,0,0,1,7,27,133,0
+Wrestling,1908,Italy,1,0,0,1,1,27,133,0
+Wrestling,1912,Finland,3,2,2,7,37,15,170,0
+Wrestling,1912,Sweden,1,2,1,4,33,15,170,1
+Wrestling,1912,Russia,0,1,0,1,11,15,170,0
+Wrestling,1912,Denmark,0,0,1,1,9,15,170,0
+Wrestling,1912,Germany,0,1,0,1,14,15,170,0
+Wrestling,1912,Greece,0,0,0,0,1,15,170,0
+Wrestling,1912,Norway,0,0,0,0,9,15,170,0
+Wrestling,1912,Italy,0,0,0,0,6,15,170,0
+Wrestling,1912,Great Britain,0,0,0,0,12,15,170,0
+Wrestling,1912,Bohemia,0,0,0,0,4,15,170,0
+Wrestling,1912,Austria,0,0,0,0,8,15,170,0
+Wrestling,1912,France,0,0,0,0,6,15,170,0
+Wrestling,1912,Netherlands,0,0,0,0,3,15,170,0
+Wrestling,1912,Belgium,0,0,0,0,1,15,170,0
+Wrestling,1912,United States,0,0,0,0,2,15,170,0
+Wrestling,1912,Hungary,0,0,1,1,10,15,170,0
+Wrestling,1912,Portugal,0,0,0,0,2,15,170,0
+Wrestling,1912,Iceland,0,0,0,0,1,15,170,0
+Judo,1964,Mexico,0,0,0,0,3,12,72,0
+Judo,1964,Costa Rica,0,0,0,0,2,12,72,0
+Judo,1964,Russia,0,0,2,2,4,12,72,0
+Judo,1964,Australia,0,0,1,1,4,12,72,0
+Judo,1964,France,0,0,0,0,4,12,72,0
+Judo,1964,United States,0,0,1,1,4,12,72,0
+Judo,1964,Italy,0,0,0,0,2,12,72,0
+Judo,1964,Argentina,0,0,0,0,3,12,72,0
+Judo,1964,Chinese Taipei,0,0,0,0,4,12,72,0
+Judo,1964,Panama,0,0,0,0,1,12,72,0
+Judo,1964,Philippines,0,0,0,0,4,12,72,0
+Judo,1964,Netherlands,1,0,0,1,4,12,72,0
+Judo,1964,Germany,0,1,1,2,4,12,72,0
+Judo,1964,Tunisia,0,0,0,0,1,12,72,0
+Judo,1964,Switzerland,0,1,0,1,1,12,72,0
+Judo,1964,Thailand,0,0,0,0,3,12,72,0
+Judo,1964,Great Britain,0,0,0,0,4,12,72,0
+Judo,1964,Japan,3,1,0,4,4,12,72,1
+Judo,1964,South Korea,0,0,1,1,4,12,72,0
+Judo,1964,South Vietnam,0,0,0,0,3,12,72,0
+Judo,1964,Venezuela,0,0,0,0,1,12,72,0
+Judo,1964,Portugal,0,0,0,0,1,12,72,0
+Judo,1964,Malaysia,0,0,0,0,1,12,72,0
+Judo,1964,Austria,0,0,0,0,3,12,72,0
+Judo,1964,Canada,0,1,0,1,1,12,72,0
+Judo,1964,Ireland,0,0,0,0,1,12,72,0
+Judo,1964,Brazil,0,0,0,0,1,12,72,0
+Judo,1972,Poland,0,1,0,1,4,18,166,0
+Judo,1972,Austria,0,0,0,0,6,18,166,0
+Judo,1972,Finland,0,0,0,0,1,18,166,0
+Judo,1972,France,0,0,3,3,5,18,166,0
+Judo,1972,Madagascar,0,0,0,0,4,18,166,0
+Judo,1972,Mexico,0,0,0,0,3,18,166,0
+Judo,1972,Switzerland,0,0,0,0,6,18,166,0
+Judo,1972,Cuba,0,0,0,0,3,18,166,0
+Judo,1972,Serbia,0,0,0,0,3,18,166,0
+Judo,1972,Mongolia,0,0,0,0,5,18,166,0
+Judo,1972,Germany,0,1,2,3,10,18,166,1
+Judo,1972,Morocco,0,0,0,0,3,18,166,0
+Judo,1972,Australia,0,0,0,0,4,18,166,0
+Judo,1972,Suriname,0,0,0,0,1,18,166,0
+Judo,1972,Senegal,0,0,0,0,6,18,166,0
+Judo,1972,Netherlands,2,0,0,2,3,18,166,0
+Judo,1972,Puerto Rico,0,0,0,0,3,18,166,0
+Judo,1972,Liechtenstein,0,0,0,0,2,18,166,0
+Judo,1972,United States,0,0,0,0,6,18,166,0
+Judo,1972,Mali,0,0,0,0,2,18,166,0
+Judo,1972,Ireland,0,0,0,0,5,18,166,0
+Judo,1972,Dominican Republic,0,0,0,0,2,18,166,0
+Judo,1972,Chinese Taipei,0,0,0,0,4,18,166,0
+Judo,1972,Lebanon,0,0,0,0,2,18,166,0
+Judo,1972,Russia,1,1,2,4,6,18,166,0
+Judo,1972,Italy,0,0,0,0,2,18,166,0
+Judo,1972,Philippines,0,0,0,0,3,18,166,0
+Judo,1972,Canada,0,0,0,0,5,18,166,0
+Judo,1972,Portugal,0,0,0,0,2,18,166,0
+Judo,1972,Argentina,0,0,0,0,1,18,166,0
+Judo,1972,Nicaragua,0,0,0,0,1,18,166,0
+Judo,1972,South Korea,0,1,0,1,4,18,166,0
+Judo,1972,Hungary,0,0,0,0,5,18,166,0
+Judo,1972,Brazil,0,0,1,1,2,18,166,0
+Judo,1972,Great Britain,0,1,2,3,6,18,166,0
+Judo,1972,Czech Republic,0,0,0,0,1,18,166,0
+Judo,1972,Japan,3,0,1,4,6,18,166,0
+Judo,1972,North Korea,0,0,1,1,1,18,166,0
+Judo,1972,Belgium,0,0,0,0,4,18,166,0
+Judo,1972,New Zealand,0,0,0,0,1,18,166,0
+Judo,1972,Hong Kong,0,0,0,0,1,18,166,0
+Judo,1972,Spain,0,0,0,0,1,18,166,0
+Judo,1972,Thailand,0,0,0,0,1,18,166,0
+Judo,1972,Costa Rica,0,0,0,0,1,18,166,0
+Judo,1972,Sweden,0,0,0,0,1,18,166,0
+Judo,1976,Poland,0,0,1,1,5,18,154,0
+Judo,1976,Finland,0,0,0,0,1,18,154,0
+Judo,1976,Kuwait,0,0,0,0,4,18,154,0
+Judo,1976,Great Britain,0,1,1,2,5,18,154,0
+Judo,1976,North Korea,0,0,0,0,3,18,154,0
+Judo,1976,Bulgaria,0,0,0,0,4,18,154,0
+Judo,1976,Mongolia,0,0,0,0,5,18,154,0
+Judo,1976,Puerto Rico,0,0,0,0,5,18,154,0
+Judo,1976,France,0,0,1,1,5,18,154,0
+Judo,1976,United States,0,0,1,1,6,18,154,0
+Judo,1976,Liechtenstein,0,0,0,0,3,18,154,0
+Judo,1976,Australia,0,0,0,0,3,18,154,0
+Judo,1976,Russia,2,2,1,5,6,18,154,0
+Judo,1976,Panama,0,0,0,0,1,18,154,0
+Judo,1976,Nicaragua,0,0,0,0,1,18,154,0
+Judo,1976,Spain,0,0,0,0,2,18,154,0
+Judo,1976,Ecuador,0,0,0,0,2,18,154,0
+Judo,1976,Senegal,0,0,0,0,5,18,154,0
+Judo,1976,Suriname,0,0,0,0,1,18,154,0
+Judo,1976,Japan,3,1,1,5,6,18,154,0
+Judo,1976,Canada,0,0,0,0,5,18,154,1
+Judo,1976,Netherlands Antilles,0,0,0,0,2,18,154,0
+Judo,1976,Italy,0,0,1,1,3,18,154,0
+Judo,1976,Portugal,0,0,0,0,2,18,154,0
+Judo,1976,Belgium,0,0,0,0,2,18,154,0
+Judo,1976,Turkey,0,0,0,0,3,18,154,0
+Judo,1976,Iceland,0,0,0,0,2,18,154,0
+Judo,1976,Switzerland,0,0,1,1,2,18,154,0
+Judo,1976,Germany,0,1,0,1,7,18,154,0
+Judo,1976,Venezuela,0,0,0,0,2,18,154,0
+Judo,1976,Cuba,1,0,0,1,2,18,154,0
+Judo,1976,Hungary,0,0,1,1,6,18,154,0
+Judo,1976,South Korea,0,1,2,3,4,18,154,0
+Judo,1976,Austria,0,0,0,0,4,18,154,0
+Judo,1976,Singapore,0,0,0,0,1,18,154,0
+Judo,1976,Serbia,0,0,1,1,4,18,154,0
+Judo,1976,Brazil,0,0,0,0,3,18,154,0
+Judo,1976,Israel,0,0,0,0,1,18,154,0
+Judo,1976,Hong Kong,0,0,0,0,1,18,154,0
+Judo,1976,Czech Republic,0,0,0,0,1,18,154,0
+Judo,1976,Mexico,0,0,0,0,1,18,154,0
+Judo,1976,Argentina,0,0,0,0,2,18,154,0
+Judo,1976,Lebanon,0,0,0,0,1,18,154,0
+Judo,1976,Thailand,0,0,0,0,1,18,154,0
+Judo,1976,Sweden,0,0,0,0,1,18,154,0
+Judo,1980,Syria,0,0,0,0,7,24,193,0
+Judo,1980,Great Britain,0,1,1,2,8,24,193,0
+Judo,1980,Algeria,0,0,0,0,3,24,193,0
+Judo,1980,Netherlands,0,0,1,1,2,24,193,0
+Judo,1980,Kuwait,0,0,0,0,5,24,193,0
+Judo,1980,Poland,0,0,1,1,7,24,193,0
+Judo,1980,Cyprus,0,0,0,0,5,24,193,0
+Judo,1980,Ecuador,0,0,0,0,2,24,193,0
+Judo,1980,Germany,1,0,4,5,6,24,193,0
+Judo,1980,Madagascar,0,0,0,0,2,24,193,0
+Judo,1980,Bulgaria,0,1,1,2,4,24,193,0
+Judo,1980,Cuba,0,3,0,3,6,24,193,0
+Judo,1980,Senegal,0,0,0,0,7,24,193,0
+Judo,1980,Czech Republic,0,0,1,1,5,24,193,0
+Judo,1980,Austria,0,0,0,0,5,24,193,0
+Judo,1980,Sweden,0,0,0,0,4,24,193,0
+Judo,1980,Portugal,0,0,0,0,3,24,193,0
+Judo,1980,Switzerland,1,0,0,1,4,24,193,0
+Judo,1980,Guinea,0,0,0,0,3,24,193,0
+Judo,1980,Australia,0,0,0,0,3,24,193,0
+Judo,1980,Brazil,0,0,0,0,7,24,193,0
+Judo,1980,San Marino,0,0,0,0,2,24,193,0
+Judo,1980,Spain,0,0,0,0,2,24,193,0
+Judo,1980,Costa Rica,0,0,0,0,3,24,193,0
+Judo,1980,Zambia,0,0,0,0,6,24,193,0
+Judo,1980,Romania,0,0,0,0,8,24,193,0
+Judo,1980,Mongolia,0,1,1,2,7,24,193,0
+Judo,1980,Zimbabwe,0,0,0,0,2,24,193,0
+Judo,1980,France,2,1,1,4,7,24,193,0
+Judo,1980,Mali,0,0,0,0,3,24,193,0
+Judo,1980,Cameroon,0,0,0,0,5,24,193,0
+Judo,1980,Finland,0,0,0,0,3,24,193,0
+Judo,1980,Iceland,0,0,0,0,2,24,193,0
+Judo,1980,Italy,1,0,0,1,1,24,193,0
+Judo,1980,Hungary,0,0,2,2,8,24,193,0
+Judo,1980,Mexico,0,0,0,0,2,24,193,0
+Judo,1980,Ireland,0,0,0,0,2,24,193,0
+Judo,1980,Russia,2,1,2,5,8,24,193,0
+Judo,1980,Lebanon,0,0,0,0,2,24,193,0
+Judo,1980,North Korea,0,0,0,0,4,24,193,0
+Judo,1980,Serbia,0,0,1,1,6,24,193,0
+Judo,1980,Belgium,1,0,0,1,1,24,193,0
+Judo,1984,Dominican Republic,0,0,0,0,2,24,212,0
+Judo,1984,Great Britain,0,1,2,3,8,24,212,0
+Judo,1984,United States,0,1,1,2,8,24,212,1
+Judo,1984,Kuwait,0,0,0,0,5,24,212,0
+Judo,1984,France,0,1,2,3,8,24,212,0
+Judo,1984,South Korea,2,2,1,5,8,24,212,0
+Judo,1984,Argentina,0,0,0,0,4,24,212,0
+Judo,1984,Ecuador,0,0,0,0,1,24,212,0
+Judo,1984,Turkey,0,0,0,0,3,24,212,0
+Judo,1984,Canada,0,0,1,1,8,24,212,0
+Judo,1984,Tunisia,0,0,0,0,3,24,212,0
+Judo,1984,Monaco,0,0,0,0,1,24,212,0
+Judo,1984,Cameroon,0,0,0,0,6,24,212,0
+Judo,1984,Puerto Rico,0,0,0,0,2,24,212,0
+Judo,1984,Liechtenstein,0,0,0,0,2,24,212,0
+Judo,1984,Brazil,0,1,2,3,7,24,212,0
+Judo,1984,San Marino,0,0,0,0,2,24,212,0
+Judo,1984,Chinese Taipei,0,0,0,0,4,24,212,0
+Judo,1984,Switzerland,0,0,0,0,2,24,212,0
+Judo,1984,Norway,0,0,0,0,3,24,212,0
+Judo,1984,Hong Kong,0,0,0,0,4,24,212,0
+Judo,1984,Australia,0,0,0,0,3,24,212,0
+Judo,1984,Romania,0,0,2,2,3,24,212,0
+Judo,1984,Bolivia,0,0,0,0,1,24,212,0
+Judo,1984,Senegal,0,0,0,0,6,24,212,0
+Judo,1984,Costa Rica,0,0,0,0,4,24,212,0
+Judo,1984,Portugal,0,0,0,0,4,24,212,0
+Judo,1984,Guinea,0,0,0,0,1,24,212,0
+Judo,1984,Mali,0,0,0,0,1,24,212,0
+Judo,1984,Morocco,0,0,0,0,3,24,212,0
+Judo,1984,Lebanon,0,0,0,0,3,24,212,0
+Judo,1984,Egypt,0,1,0,1,6,24,212,0
+Judo,1984,Italy,0,1,0,1,5,24,212,0
+Judo,1984,Peru,0,0,0,0,1,24,212,0
+Judo,1984,Ireland,0,0,0,0,1,24,212,0
+Judo,1984,Iceland,0,0,1,1,2,24,212,0
+Judo,1984,Spain,0,0,0,0,6,24,212,0
+Judo,1984,Mexico,0,0,0,0,4,24,212,0
+Judo,1984,Sweden,0,0,0,0,4,24,212,0
+Judo,1984,Austria,1,0,1,2,4,24,212,0
+Judo,1984,Netherlands,0,0,0,0,3,24,212,0
+Judo,1984,Japan,4,0,1,5,8,24,212,0
+Judo,1984,Finland,0,0,0,0,3,24,212,0
+Judo,1984,Denmark,0,0,0,0,1,24,212,0
+Judo,1984,Germany,1,0,2,3,8,24,212,0
+Judo,1984,Zambia,0,0,0,0,3,24,212,0
+Judo,1984,Israel,0,0,0,0,2,24,212,0
+Judo,1984,Cyprus,0,0,0,0,2,24,212,0
+Judo,1984,Serbia,0,0,0,0,5,24,212,0
+Judo,1984,Fiji,0,0,0,0,2,24,212,0
+Judo,1984,Belgium,0,0,0,0,2,24,212,0
+Judo,1984,China,0,0,0,0,5,24,212,0
+Judo,1984,Suriname,0,0,0,0,1,24,212,0
+Judo,1984,Congo (Brazzaville),0,0,0,0,3,24,212,0
+Judo,1984,Paraguay,0,0,0,0,1,24,212,0
+Judo,1984,Cote d'Ivoire,0,0,0,0,2,24,212,0
+Judo,1984,Chile,0,0,0,0,1,24,212,0
+Judo,1984,New Zealand,0,0,0,0,3,24,212,0
+Judo,1984,Venezuela,0,0,0,0,1,24,212,0
+Judo,1984,Honduras,0,0,0,0,1,24,212,0
+Judo,1984,El Salvador,0,0,0,0,2,24,212,0
+Canoeing,1936,Canada,1,1,1,3,8,27,143,0
+Canoeing,1936,Switzerland,0,0,0,0,9,27,143,0
+Canoeing,1936,Poland,0,0,0,0,2,27,143,0
+Canoeing,1936,Sweden,1,0,1,2,9,27,143,0
+Canoeing,1936,Germany,2,3,2,7,14,27,143,1
+Canoeing,1936,Belgium,0,0,0,0,9,27,143,0
+Canoeing,1936,Great Britain,0,0,0,0,3,27,143,0
+Canoeing,1936,Czech Republic,2,1,0,3,13,27,143,0
+Canoeing,1936,Hungary,0,0,0,0,5,27,143,0
+Canoeing,1936,Austria,3,3,1,7,9,27,143,0
+Canoeing,1936,France,0,1,0,1,3,27,143,0
+Canoeing,1936,United States,0,0,1,1,10,27,143,0
+Canoeing,1936,Serbia,0,0,0,0,4,27,143,0
+Canoeing,1936,Norway,0,0,0,0,1,27,143,0
+Canoeing,1936,Finland,0,0,0,0,3,27,143,0
+Canoeing,1936,Netherlands,0,0,3,3,9,27,143,0
+Canoeing,1936,Denmark,0,0,0,0,4,27,143,0
+Canoeing,1936,Italy,0,0,0,0,1,27,143,0
+Canoeing,1936,Luxembourg,0,0,0,0,3,27,143,0
+Canoeing,1948,Finland,0,1,2,3,5,27,139,0
+Canoeing,1948,Sweden,4,0,0,4,9,27,139,0
+Canoeing,1948,Denmark,1,2,0,3,7,27,139,0
+Canoeing,1948,Hungary,0,0,0,0,5,27,139,0
+Canoeing,1948,France,0,0,4,4,10,27,139,0
+Canoeing,1948,Canada,0,1,1,2,7,27,139,0
+Canoeing,1948,Netherlands,0,1,0,1,7,27,139,0
+Canoeing,1948,Belgium,0,0,0,0,9,27,139,0
+Canoeing,1948,Switzerland,0,0,0,0,6,27,139,0
+Canoeing,1948,Czech Republic,3,1,0,4,13,27,139,0
+Canoeing,1948,United States,1,2,0,3,8,27,139,0
+Canoeing,1948,Great Britain,0,0,0,0,7,27,139,0
+Canoeing,1948,Austria,0,0,1,1,7,27,139,0
+Canoeing,1948,Luxembourg,0,0,0,0,3,27,139,0
+Canoeing,1948,Norway,0,1,1,2,4,27,139,0
+Canoeing,1948,Poland,0,0,0,0,3,27,139,0
+Canoeing,1952,Italy,0,0,0,0,6,27,184,0
+Canoeing,1952,Sweden,1,3,0,4,10,27,184,0
+Canoeing,1952,Denmark,1,0,0,1,9,27,184,0
+Canoeing,1952,Romania,0,0,0,0,1,27,184,0
+Canoeing,1952,United States,1,0,0,1,9,27,184,0
+Canoeing,1952,Great Britain,0,0,0,0,7,27,184,0
+Canoeing,1952,Germany,0,0,3,3,10,27,184,0
+Canoeing,1952,Switzerland,0,0,0,0,7,27,184,0
+Canoeing,1952,Netherlands,0,0,0,0,5,27,184,0
+Canoeing,1952,Hungary,0,2,1,3,12,27,184,0
+Canoeing,1952,Canada,0,1,0,1,11,27,184,0
+Canoeing,1952,France,1,0,1,2,13,27,184,0
+Canoeing,1952,Czech Republic,1,1,1,3,13,27,184,0
+Canoeing,1952,Russia,0,0,1,1,13,27,184,0
+Canoeing,1952,Belgium,0,0,0,0,4,27,184,0
+Canoeing,1952,Finland,4,1,1,6,10,27,184,1
+Canoeing,1952,Norway,0,0,0,0,4,27,184,0
+Canoeing,1952,Luxembourg,0,0,0,0,4,27,184,0
+Canoeing,1952,Saar,0,0,0,0,3,27,184,0
+Canoeing,1952,Austria,0,1,1,2,7,27,184,0
+Canoeing,1952,Serbia,0,0,0,0,1,27,184,0
+Canoeing,1956,Romania,3,0,0,3,5,27,146,0
+Canoeing,1956,Australia,0,0,1,1,8,27,146,1
+Canoeing,1956,Great Britain,0,0,0,0,3,27,146,0
+Canoeing,1956,Canada,0,0,0,0,9,27,146,0
+Canoeing,1956,Russia,2,3,2,7,9,27,146,0
+Canoeing,1956,Germany,1,2,1,4,10,27,146,0
+Canoeing,1956,United States,0,0,0,0,12,27,146,0
+Canoeing,1956,Czech Republic,0,0,0,0,5,27,146,0
+Canoeing,1956,Denmark,0,0,1,1,7,27,146,0
+Canoeing,1956,France,0,1,0,1,6,27,146,0
+Canoeing,1956,Finland,0,0,0,0,6,27,146,0
+Canoeing,1956,Hungary,1,3,3,7,13,27,146,0
+Canoeing,1956,Sweden,2,0,0,2,6,27,146,0
+Canoeing,1956,Poland,0,0,0,0,4,27,146,0
+Canoeing,1956,Austria,0,0,1,1,7,27,146,0
+Canoeing,1956,Norway,0,0,0,0,1,27,146,0
+Canoeing,1956,Belgium,0,0,0,0,2,27,146,0
+Canoeing,1960,Finland,0,0,0,0,9,21,211,0
+Canoeing,1960,France,0,0,0,0,9,21,211,0
+Canoeing,1960,Romania,0,0,1,1,11,21,211,0
+Canoeing,1960,Hungary,1,3,2,6,9,21,211,0
+Canoeing,1960,United States,0,0,0,0,13,21,211,0
+Canoeing,1960,Canada,0,0,0,0,6,21,211,0
+Canoeing,1960,Italy,0,1,0,1,12,21,211,1
+Canoeing,1960,Great Britain,0,0,0,0,7,21,211,0
+Canoeing,1960,Serbia,0,0,0,0,3,21,211,0
+Canoeing,1960,Austria,0,0,0,0,10,21,211,0
+Canoeing,1960,Czech Republic,0,0,0,0,10,21,211,0
+Canoeing,1960,Denmark,1,0,1,2,9,21,211,0
+Canoeing,1960,Australia,0,0,0,0,7,21,211,0
+Canoeing,1960,Luxembourg,0,0,0,0,3,21,211,0
+Canoeing,1960,Belgium,0,0,0,0,4,21,211,0
+Canoeing,1960,Sweden,1,0,1,2,6,21,211,0
+Canoeing,1960,Norway,0,0,0,0,2,21,211,0
+Canoeing,1960,Spain,0,0,0,0,2,21,211,0
+Canoeing,1960,Netherlands,0,0,0,0,4,21,211,0
+Canoeing,1960,Russia,3,1,0,4,12,21,211,0
+Canoeing,1960,Bulgaria,0,0,0,0,5,21,211,0
+Canoeing,1960,Germany,1,2,0,3,10,21,211,0
+Canoeing,1960,Switzerland,0,0,0,0,4,21,211,0
+Canoeing,1960,Poland,0,0,2,2,6,21,211,0
+Shooting,1896,Greece,3,3,3,9,27,15,65,0
+Shooting,1896,Switzerland,0,0,0,0,1,15,65,0
+Shooting,1896,Denmark,0,1,2,3,3,15,65,0
+Shooting,1896,France,0,0,0,0,1,15,65,0
+Shooting,1896,Great Britain,0,0,0,0,2,15,65,0
+Shooting,1896,United States,2,1,0,3,3,15,65,0
+Shooting,1896,Italy,0,0,0,0,1,15,65,0
+Shooting,1900,France,2,2,2,6,33,24,221,1
+Shooting,1900,Belgium,0,1,2,3,11,24,221,0
+Shooting,1900,Switzerland,5,1,1,7,9,24,221,0
+Shooting,1900,Netherlands,0,0,1,1,7,24,221,0
+Shooting,1900,Norway,0,2,2,4,5,24,221,0
+Shooting,1900,Denmark,1,3,0,4,5,24,221,0
+Shooting,1900,Great Britain,0,0,0,0,1,24,221,0
+Shooting,1900,Romania,0,0,0,0,1,24,221,0
+Shooting,1906,Italy,0,1,0,1,10,36,320,0
+Shooting,1906,Norway,0,1,0,1,7,36,320,0
+Shooting,1906,Sweden,0,1,1,2,2,36,320,0
+Shooting,1906,France,4,3,5,12,7,36,320,0
+Shooting,1906,Greece,2,3,3,8,26,36,320,0
+Shooting,1906,Bohemia,0,0,0,0,1,36,320,0
+Shooting,1906,Switzerland,4,3,1,8,6,36,320,0
+Shooting,1906,Austria,0,0,0,0,2,36,320,0
+Shooting,1906,Crete,0,0,0,0,1,36,320,0
+Shooting,1906,Great Britain,2,0,2,4,2,36,320,0
+Shooting,1906,Hungary,0,0,0,0,2,36,320,0
+Shooting,1906,Belgium,0,0,0,0,1,36,320,0
+Shooting,1908,Great Britain,6,7,8,21,78,45,444,0
+Shooting,1908,Denmark,0,0,0,0,10,45,444,0
+Shooting,1908,France,0,0,2,2,20,45,444,0
+Shooting,1908,Sweden,2,2,1,5,18,45,444,0
+Shooting,1908,United States,3,2,1,6,17,45,444,0
+Shooting,1908,Canada,1,2,1,4,22,45,444,0
+Shooting,1908,Norway,2,0,1,3,13,45,444,0
+Shooting,1908,Netherlands,0,0,0,0,17,45,444,0
+Shooting,1908,Belgium,1,2,0,3,10,45,444,0
+Shooting,1908,Finland,0,0,0,0,9,45,444,0
+Shooting,1908,Australasia,0,0,0,0,1,45,444,0
+Shooting,1908,Greece,0,0,1,1,7,45,444,0
+Shooting,1908,Hungary,0,0,0,0,2,45,444,0
+Shooting,1908,Germany,0,0,0,0,1,45,444,0
+Shooting,1912,United States,7,4,3,14,26,54,794,0
+Shooting,1912,Chile,0,0,0,0,2,54,794,0
+Shooting,1912,Denmark,0,1,2,3,14,54,794,0
+Shooting,1912,Sweden,7,6,4,17,61,54,794,1
+Shooting,1912,Finland,0,0,2,2,19,54,794,0
+Shooting,1912,Russia,0,1,1,2,26,54,794,0
+Shooting,1912,Austria,0,0,0,0,7,54,794,0
+Shooting,1912,Norway,0,1,1,2,28,54,794,0
+Shooting,1912,Great Britain,1,4,4,9,38,54,794,0
+Shooting,1912,Germany,0,1,1,2,11,54,794,0
+Shooting,1912,South Africa,0,0,0,0,8,54,794,0
+Shooting,1912,Hungary,1,0,0,1,10,54,794,0
+Shooting,1912,France,2,0,0,2,19,54,794,0
+Shooting,1912,Canada,0,0,0,0,3,54,794,0
+Shooting,1912,Netherlands,0,0,0,0,1,54,794,0
+Shooting,1912,Greece,0,0,0,0,9,54,794,0
+Fencing,1896,France,1,2,0,3,4,9,15,0
+Fencing,1896,Greece,2,1,1,4,9,9,15,0
+Fencing,1896,Denmark,0,0,1,1,1,9,15,0
+Fencing,1896,Austria,0,0,0,0,1,9,15,0
+Fencing,1900,France,5,5,5,15,209,21,317,1
+Fencing,1900,Denmark,0,0,0,0,1,21,317,0
+Fencing,1900,Great Britain,0,0,0,0,3,21,317,0
+Fencing,1900,Austria,0,0,2,2,8,21,317,0
+Fencing,1900,Argentina,0,0,0,0,1,21,317,0
+Fencing,1900,Italy,1,1,0,2,8,21,317,0
+Fencing,1900,Haiti,0,0,0,0,2,21,317,0
+Fencing,1900,Switzerland,0,0,0,0,3,21,317,0
+Fencing,1900,Peru,0,0,0,0,1,21,317,0
+Fencing,1900,Spain,0,0,0,0,1,21,317,0
+Fencing,1900,Belgium,0,0,0,0,5,21,317,0
+Fencing,1900,United States,0,0,0,0,3,21,317,0
+Fencing,1900,Hungary,0,0,0,0,6,21,317,0
+Fencing,1900,Sweden,0,0,0,0,1,21,317,0
+Fencing,1900,Cuba,1,1,0,2,1,21,317,0
+Fencing,1900,Iran,0,0,0,0,1,21,317,0
+Fencing,1900,Russia,0,0,0,0,2,21,317,0
+Fencing,1900,Germany,0,0,0,0,1,21,317,0
+Fencing,1900,Netherlands,0,0,0,0,1,21,317,0
+Fencing,1904,United States,2,5,4,11,7,15,28,1
+Fencing,1904,Germany,0,0,0,0,1,15,28,0
+Fencing,1904,Cuba,4,0,0,4,2,15,28,0
+Fencing,1904,Great Britain,0,0,0,0,1,15,28,0
+Fencing,1906,Greece,1,2,1,4,13,24,161,0
+Fencing,1906,Hungary,0,0,1,1,5,24,161,0
+Fencing,1906,Germany,2,2,0,4,5,24,161,0
+Fencing,1906,Italy,0,1,1,2,2,24,161,0
+Fencing,1906,Belgium,2,0,1,3,5,24,161,0
+Fencing,1906,Netherlands,0,1,2,3,13,24,161,0
+Fencing,1906,France,3,1,1,5,5,24,161,0
+Fencing,1906,Great Britain,0,1,0,1,5,24,161,0
+Fencing,1906,Sweden,0,0,0,0,2,24,161,0
+Fencing,1906,Austria,0,0,0,0,3,24,161,0
+Fencing,1906,Denmark,0,0,0,0,3,24,161,0
+Fencing,1906,Bohemia,0,0,0,0,1,24,161,0
+Fencing,1908,Germany,0,0,0,0,10,12,240,0
+Fencing,1908,France,2,1,1,4,22,12,240,0
+Fencing,1908,Great Britain,0,1,0,1,23,12,240,0
+Fencing,1908,Belgium,0,0,1,1,18,12,240,0
+Fencing,1908,Hungary,2,1,0,3,8,12,240,0
+Fencing,1908,Denmark,0,0,0,0,8,12,240,0
+Fencing,1908,Norway,0,0,0,0,1,12,240,0
+Fencing,1908,Italy,0,1,0,1,11,12,240,0
+Fencing,1908,Sweden,0,0,0,0,7,12,240,0
+Fencing,1908,Netherlands,0,0,0,0,13,12,240,0
+Fencing,1908,Bohemia,0,0,2,2,7,12,240,0
+Fencing,1908,Austria,0,0,0,0,1,12,240,0
+Fencing,1908,South Africa,0,0,0,0,1,12,240,0
+Fencing,1908,Canada,0,0,0,0,1,12,240,0
 Rowing,1900,Vesper Boat Club,1,0,0,1,9,12,133,0
 Rowing,1900,Favorite Hammonia,0,0,1,1,6,12,133,0
 Rowing,1900,Club Nautique de Dieppe,0,0,0,0,4,12,133,0
@@ -1057,6 +890,597 @@ Rowing,1912,Royal Club Nautique de Gand,0,0,0,0,5,12,197,0
 Rowing,1912,Denmark,0,0,0,0,1,12,197,0
 Rowing,1912,Bohemia,0,0,0,0,1,12,197,0
 Rowing,1912,Belgium,0,1,0,1,1,12,197,0
+Athletics,1896,Greece,1,3,5,9,30,36,106,0
+Athletics,1896,United States,9,5,2,16,10,36,106,0
+Athletics,1896,Hungary,0,1,2,3,3,36,106,0
+Athletics,1896,France,0,1,1,2,5,36,106,0
+Athletics,1896,Germany,0,1,0,1,5,36,106,0
+Athletics,1896,Great Britain,0,1,1,2,5,36,106,0
+Athletics,1896,Australia,2,0,0,2,1,36,106,0
+Athletics,1896,Denmark,0,0,0,0,3,36,106,0
+Athletics,1896,Sweden,0,0,0,0,1,36,106,0
+Athletics,1900,Norway,0,0,1,1,2,69,234,0
+Athletics,1900,Italy,0,0,0,0,2,69,234,0
+Athletics,1900,Hungary,1,0,1,2,9,69,234,0
+Athletics,1900,United States,16,13,10,39,41,69,234,0
+Athletics,1900,Great Britain,3,3,2,8,10,69,234,0
+Athletics,1900,Amateur Athletic Association,1,0,0,1,5,69,234,0
+Athletics,1900,France,0,3,2,5,18,69,234,1
+Athletics,1900,Sweden,0,0,1,1,8,69,234,0
+Athletics,1900,Racing Club de France,0,1,0,1,5,69,234,0
+Athletics,1900,Denmark,0,0,1,1,4,69,234,0
+Athletics,1900,Germany,0,0,0,0,6,69,234,0
+Athletics,1900,Canada,1,0,1,2,4,69,234,0
+Athletics,1900,Bohemia,0,1,0,1,4,69,234,0
+Athletics,1900,Brazil,0,0,0,0,1,69,234,0
+Athletics,1900,Greece,0,0,0,0,2,69,234,0
+Athletics,1900,India,0,2,0,2,1,69,234,0
+Athletics,1900,Australia,0,0,3,3,1,69,234,0
+Athletics,1900,Luxembourg,1,0,0,1,1,69,234,0
+Athletics,1900,Austria,0,0,0,0,2,69,234,0
+Athletics,1904,United States,21,21,21,63,86,72,201,1
+Athletics,1904,Cuba,0,0,0,0,1,72,201,0
+Athletics,1904,France,0,1,0,1,1,72,201,0
+Athletics,1904,Chicago Athletic Association,0,1,0,1,5,72,201,0
+Athletics,1904,Great Britain,1,1,0,2,3,72,201,0
+Athletics,1904,Hungary,0,0,0,0,2,72,201,0
+Athletics,1904,Canada,1,0,0,1,6,72,201,0
+Athletics,1904,Greece,0,0,1,1,10,72,201,0
+Athletics,1904,Newfoundland,0,0,0,0,1,72,201,0
+Athletics,1904,Australia,0,0,0,0,1,72,201,0
+Athletics,1904,South Africa,0,0,0,0,3,72,201,0
+Athletics,1904,New York Athletic Club,1,0,0,1,5,72,201,0
+Athletics,1904,Germany,0,0,1,1,2,72,201,0
+Athletics,1906,Great Britain,3,5,1,9,19,63,470,0
+Athletics,1906,Finland,1,0,1,2,3,63,470,0
+Athletics,1906,Greece,1,2,4,7,75,63,470,0
+Athletics,1906,Crete,0,0,0,0,8,63,470,0
+Athletics,1906,Canada,1,1,0,2,3,63,470,0
+Athletics,1906,United States,11,5,6,22,31,63,470,0
+Athletics,1906,Australia,0,0,2,2,3,63,470,0
+Athletics,1906,Austria,0,0,0,0,10,63,470,0
+Athletics,1906,Germany,0,1,1,2,15,63,470,0
+Athletics,1906,France,1,0,0,1,14,63,470,0
+Athletics,1906,Sweden,2,4,5,11,13,63,470,0
+Athletics,1906,Norway,0,0,0,0,7,63,470,0
+Athletics,1906,Denmark,0,0,0,0,4,63,470,0
+Athletics,1906,Italy,0,0,0,0,6,63,470,0
+Athletics,1906,Hungary,1,3,1,5,12,63,470,0
+Athletics,1906,Belgium,0,1,0,1,2,63,470,0
+Athletics,1906,Bohemia,0,0,0,0,5,63,470,0
+Athletics,1906,Turkey,0,0,0,0,1,63,470,0
+Athletics,1906,Egypt,0,0,0,0,1,63,470,0
+Athletics,1906,Switzerland,0,0,0,0,1,63,470,0
+Athletics,1908,United States,15,10,8,33,83,78,778,0
+Athletics,1908,Denmark,0,0,0,0,8,78,778,0
+Athletics,1908,Great Britain,7,7,3,17,126,78,778,0
+Athletics,1908,Australasia,0,0,1,1,9,78,778,0
+Athletics,1908,Sweden,2,0,3,5,31,78,778,0
+Athletics,1908,France,0,1,1,2,19,78,778,0
+Athletics,1908,Canada,1,1,4,6,27,78,778,0
+Athletics,1908,Italy,0,1,0,1,12,78,778,0
+Athletics,1908,Greece,0,3,0,3,12,78,778,0
+Athletics,1908,Germany,0,1,1,2,20,78,778,0
+Athletics,1908,Norway,0,1,2,3,11,78,778,0
+Athletics,1908,Hungary,0,1,1,2,19,78,778,0
+Athletics,1908,Netherlands,0,0,0,0,19,78,778,0
+Athletics,1908,Belgium,0,0,0,0,6,78,778,0
+Athletics,1908,South Africa,1,1,0,2,6,78,778,0
+Athletics,1908,Finland,0,0,1,1,15,78,778,0
+Athletics,1908,Russia,0,0,0,0,1,78,778,0
+Athletics,1908,Bohemia,0,0,0,0,3,78,778,0
+Athletics,1908,Austria,0,0,0,0,2,78,778,0
+Athletics,1908,Switzerland,0,0,0,0,1,78,778,0
+Handball,1936,United States,0,0,0,0,13,3,105,0
+Handball,1936,Germany,1,0,0,1,22,3,105,1
+Handball,1936,Austria,0,1,0,1,22,3,105,0
+Handball,1936,Hungary,0,0,0,0,16,3,105,0
+Handball,1936,Switzerland,0,0,1,1,17,3,105,0
+Handball,1936,Romania,0,0,0,0,15,3,105,0
+Handball,1972,United States,0,0,0,0,15,3,243,0
+Handball,1972,Hungary,0,0,0,0,15,3,243,0
+Handball,1972,Germany,0,0,0,0,32,3,243,1
+Handball,1972,Denmark,0,0,0,0,16,3,243,0
+Handball,1972,Sweden,0,0,0,0,16,3,243,0
+Handball,1972,Spain,0,0,0,0,14,3,243,0
+Handball,1972,Norway,0,0,0,0,16,3,243,0
+Handball,1972,Poland,0,0,0,0,15,3,243,0
+Handball,1972,Japan,0,0,0,0,12,3,243,0
+Handball,1972,Serbia,1,0,0,1,14,3,243,0
+Handball,1972,Iceland,0,0,0,0,15,3,243,0
+Handball,1972,Tunisia,0,0,0,0,16,3,243,0
+Handball,1972,Czech Republic,0,1,0,1,16,3,243,0
+Handball,1972,Romania,0,0,1,1,15,3,243,0
+Handball,1972,Russia,0,0,0,0,15,3,243,0
+Handball,1976,Tunisia,0,0,0,0,12,6,243,0
+Handball,1976,United States,0,0,0,0,14,6,243,0
+Handball,1976,Denmark,0,0,0,0,13,6,243,0
+Handball,1976,Hungary,0,0,1,1,26,6,243,0
+Handball,1976,Russia,2,0,0,2,28,6,243,0
+Handball,1976,Poland,0,0,1,1,14,6,243,0
+Handball,1976,Romania,0,1,0,1,28,6,243,0
+Handball,1976,Serbia,0,0,0,0,14,6,243,0
+Handball,1976,Germany,0,1,0,1,28,6,243,0
+Handball,1976,Canada,0,0,0,0,28,6,243,1
+Handball,1976,Czech Republic,0,0,0,0,14,6,243,0
+Handball,1976,Japan,0,0,0,0,24,6,243,0
+Handball,1980,Congo (Brazzaville),0,0,0,0,14,6,248,0
+Handball,1980,Switzerland,0,0,0,0,14,6,248,0
+Handball,1980,Cuba,0,0,0,0,13,6,248,0
+Handball,1980,Algeria,0,0,0,0,14,6,248,0
+Handball,1980,Kuwait,0,0,0,0,14,6,248,0
+Handball,1980,Spain,0,0,0,0,13,6,248,0
+Handball,1980,Serbia,0,1,0,1,28,6,248,0
+Handball,1980,Hungary,0,0,0,0,28,6,248,0
+Handball,1980,Russia,1,1,0,2,27,6,248,0
+Handball,1980,Denmark,0,0,0,0,14,6,248,0
+Handball,1980,Germany,1,0,1,2,28,6,248,0
+Handball,1980,Romania,0,0,1,1,14,6,248,0
+Handball,1980,Czech Republic,0,0,0,0,13,6,248,0
+Handball,1980,Poland,0,0,0,0,14,6,248,0
+Handball,1984,Iceland,0,0,0,0,15,6,259,0
+Handball,1984,Spain,0,0,0,0,15,6,259,0
+Handball,1984,South Korea,0,1,0,1,28,6,259,0
+Handball,1984,Serbia,2,0,0,2,29,6,259,0
+Handball,1984,Sweden,0,0,0,0,15,6,259,0
+Handball,1984,Algeria,0,0,0,0,15,6,259,0
+Handball,1984,Switzerland,0,0,0,0,15,6,259,0
+Handball,1984,Germany,0,1,0,1,28,6,259,0
+Handball,1984,Romania,0,0,1,1,15,6,259,0
+Handball,1984,United States,0,0,0,0,27,6,259,1
+Handball,1984,China,0,0,1,1,13,6,259,0
+Handball,1984,Denmark,0,0,0,0,14,6,259,0
+Handball,1984,Austria,0,0,0,0,15,6,259,0
+Handball,1984,Japan,0,0,0,0,15,6,259,0
+Hockey,1908,Ireland,0,1,0,1,12,3,68,0
+Hockey,1908,France,0,0,0,0,12,3,68,0
+Hockey,1908,England,1,0,0,1,11,3,68,0
+Hockey,1908,Germany,0,0,0,0,11,3,68,0
+Hockey,1908,Scotland,0,0,1,1,11,3,68,0
+Hockey,1908,Wales,0,0,1,1,11,3,68,0
+Hockey,1920,Great Britain,1,0,0,1,14,3,51,0
+Hockey,1920,Belgium,0,0,1,1,14,3,51,1
+Hockey,1920,France,0,0,0,0,11,3,51,0
+Hockey,1920,Denmark,0,1,0,1,12,3,51,0
+Hockey,1928,Belgium,0,0,0,0,18,3,137,0
+Hockey,1928,India,1,0,0,1,14,3,137,0
+Hockey,1928,Netherlands,0,1,0,1,11,3,137,1
+Hockey,1928,Spain,0,0,0,0,15,3,137,0
+Hockey,1928,France,0,0,0,0,15,3,137,0
+Hockey,1928,Switzerland,0,0,0,0,16,3,137,0
+Hockey,1928,Austria,0,0,0,0,16,3,137,0
+Hockey,1928,Denmark,0,0,0,0,13,3,137,0
+Hockey,1928,Germany,0,0,1,1,19,3,137,0
+Hockey,1932,India,1,0,0,1,15,3,40,0
+Hockey,1932,United States,0,0,1,1,14,3,40,1
+Hockey,1932,Japan,0,1,0,1,11,3,40,0
+Hockey,1936,Belgium,0,0,0,0,14,3,167,0
+Hockey,1936,Afghanistan,0,0,0,0,13,3,167,0
+Hockey,1936,India,1,0,0,1,19,3,167,0
+Hockey,1936,Switzerland,0,0,0,0,13,3,167,0
+Hockey,1936,Germany,0,1,0,1,22,3,167,1
+Hockey,1936,Hungary,0,0,0,0,15,3,167,0
+Hockey,1936,Denmark,0,0,0,0,16,3,167,0
+Hockey,1936,United States,0,0,0,0,14,3,167,0
+Hockey,1936,France,0,0,0,0,18,3,167,0
+Hockey,1936,Netherlands,0,0,1,1,12,3,167,0
+Hockey,1936,Japan,0,0,0,0,11,3,167,0
+Football,1900,USFSA,0,1,0,1,13,3,35,0
+Football,1900,Upton Park FC,1,0,0,1,11,3,35,0
+Football,1900,Univ. of Brussels,0,0,1,1,11,3,35,0
+Football,1904,Christian Brothers' College,0,1,0,1,11,3,36,0
+Football,1904,St. Rose,0,0,1,1,12,3,36,0
+Football,1904,Galt Football Club,1,0,0,1,13,3,36,0
+Football,1906,Thessalonki,0,0,1,1,11,3,45,0
+Football,1906,Denmark,1,0,0,1,12,3,45,0
+Football,1906,Athens,0,0,0,0,11,3,45,0
+Football,1906,Smyrna,0,1,0,1,11,3,45,0
+Football,1908,France,0,0,0,0,22,3,72,0
+Football,1908,Sweden,0,0,0,0,14,3,72,0
+Football,1908,Denmark,0,1,0,1,13,3,72,0
+Football,1908,Great Britain,1,0,0,1,11,3,72,0
+Football,1908,Netherlands,0,0,1,1,12,3,72,0
+Football,1912,Russia,0,0,0,0,15,3,163,0
+Football,1912,Norway,0,0,0,0,12,3,163,0
+Football,1912,Sweden,0,0,0,0,14,3,163,1
+Football,1912,Italy,0,0,0,0,14,3,163,0
+Football,1912,Great Britain,1,0,0,1,14,3,163,0
+Football,1912,Denmark,0,1,0,1,15,3,163,0
+Football,1912,Hungary,0,0,0,0,14,3,163,0
+Football,1912,Austria,0,0,0,0,15,3,163,0
+Football,1912,Germany,0,0,0,0,22,3,163,0
+Football,1912,Netherlands,0,0,1,1,15,3,163,0
+Football,1912,Finland,0,0,0,0,13,3,163,0
+Modern Pentathlon,1912,Russia,0,0,0,0,5,3,32,0
+Modern Pentathlon,1912,Sweden,1,1,1,3,12,3,32,1
+Modern Pentathlon,1912,Austria,0,0,0,0,1,3,32,0
+Modern Pentathlon,1912,France,0,0,0,0,2,3,32,0
+Modern Pentathlon,1912,Great Britain,0,0,0,0,3,3,32,0
+Modern Pentathlon,1912,Netherlands,0,0,0,0,1,3,32,0
+Modern Pentathlon,1912,Denmark,0,0,0,0,4,3,32,0
+Modern Pentathlon,1912,Norway,0,0,0,0,2,3,32,0
+Modern Pentathlon,1912,United States,0,0,0,0,1,3,32,0
+Modern Pentathlon,1912,Germany,0,0,0,0,1,3,32,0
+Modern Pentathlon,1920,Denmark,0,0,0,0,4,3,23,0
+Modern Pentathlon,1920,Great Britain,0,0,0,0,4,3,23,0
+Modern Pentathlon,1920,France,0,0,0,0,4,3,23,0
+Modern Pentathlon,1920,Sweden,1,1,1,3,4,3,23,0
+Modern Pentathlon,1920,Finland,0,0,0,0,2,3,23,0
+Modern Pentathlon,1920,Italy,0,0,0,0,1,3,23,0
+Modern Pentathlon,1920,United States,0,0,0,0,2,3,23,0
+Modern Pentathlon,1920,Norway,0,0,0,0,2,3,23,0
+Modern Pentathlon,1924,Sweden,1,1,1,3,4,3,38,0
+Modern Pentathlon,1924,Finland,0,0,0,0,3,3,38,0
+Modern Pentathlon,1924,United States,0,0,0,0,4,3,38,0
+Modern Pentathlon,1924,Great Britain,0,0,0,0,4,3,38,0
+Modern Pentathlon,1924,Belgium,0,0,0,0,4,3,38,0
+Modern Pentathlon,1924,Italy,0,0,0,0,4,3,38,0
+Modern Pentathlon,1924,Denmark,0,0,0,0,3,3,38,0
+Modern Pentathlon,1924,France,0,0,0,0,4,3,38,1
+Modern Pentathlon,1924,Norway,0,0,0,0,2,3,38,0
+Modern Pentathlon,1924,Czech Republic,0,0,0,0,2,3,38,0
+Modern Pentathlon,1924,Netherlands,0,0,0,0,4,3,38,0
+Modern Pentathlon,1928,Finland,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Sweden,1,1,0,2,3,3,37,0
+Modern Pentathlon,1928,France,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Belgium,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Portugal,0,0,0,0,1,3,37,0
+Modern Pentathlon,1928,Great Britain,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Hungary,0,0,0,0,1,3,37,0
+Modern Pentathlon,1928,Czech Republic,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,United States,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Germany,0,0,1,1,3,3,37,0
+Modern Pentathlon,1928,Denmark,0,0,0,0,2,3,37,0
+Modern Pentathlon,1928,Poland,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Italy,0,0,0,0,3,3,37,0
+Modern Pentathlon,1928,Netherlands,0,0,0,0,3,3,37,1
+Modern Pentathlon,1932,Mexico,0,0,0,0,3,3,25,0
+Modern Pentathlon,1932,Great Britain,0,0,0,0,3,3,25,0
+Modern Pentathlon,1932,Hungary,0,0,0,0,3,3,25,0
+Modern Pentathlon,1932,United States,0,0,1,1,3,3,25,1
+Modern Pentathlon,1932,Portugal,0,0,0,0,2,3,25,0
+Modern Pentathlon,1932,France,0,0,0,0,1,3,25,0
+Modern Pentathlon,1932,Sweden,1,1,0,2,3,3,25,0
+Modern Pentathlon,1932,Germany,0,0,0,0,3,3,25,0
+Modern Pentathlon,1932,Italy,0,0,0,0,3,3,25,0
+Modern Pentathlon,1932,Netherlands,0,0,0,0,1,3,25,0
+Weightlifting,1896,Great Britain,1,1,0,2,1,6,10,0
+Weightlifting,1896,Denmark,1,1,0,2,1,6,10,0
+Weightlifting,1896,Greece,0,0,2,2,3,6,10,0
+Weightlifting,1896,Germany,0,0,0,0,1,6,10,0
+Weightlifting,1896,Hungary,0,0,0,0,1,6,10,0
+Weightlifting,1904,Greece,1,0,0,1,1,6,7,0
+Weightlifting,1904,Germany,0,0,2,2,1,6,7,0
+Weightlifting,1904,United States,1,2,0,3,3,6,7,1
+Weightlifting,1906,Greece,1,0,0,1,6,6,22,0
+Weightlifting,1906,Italy,0,1,0,1,1,6,22,0
+Weightlifting,1906,Belgium,0,0,0,0,1,6,22,0
+Weightlifting,1906,France,0,0,1,1,1,6,22,0
+Weightlifting,1906,Germany,0,0,2,2,2,6,22,0
+Weightlifting,1906,Austria,1,1,0,2,1,6,22,0
+Weightlifting,1906,Sweden,0,0,0,0,1,6,22,0
+Weightlifting,1920,Luxembourg,0,1,0,1,3,15,53,0
+Weightlifting,1920,France,2,0,1,3,10,15,53,0
+Weightlifting,1920,Netherlands,0,0,0,0,5,15,53,0
+Weightlifting,1920,Italy,1,1,0,2,5,15,53,0
+Weightlifting,1920,Sweden,0,0,2,2,5,15,53,0
+Weightlifting,1920,Belgium,1,1,1,3,7,15,53,1
+Weightlifting,1920,Czech Republic,0,0,0,0,2,15,53,0
+Weightlifting,1920,Finland,0,0,0,0,1,15,53,0
+Weightlifting,1920,Denmark,0,0,0,0,5,15,53,0
+Weightlifting,1920,Switzerland,0,1,1,2,2,15,53,0
+Weightlifting,1920,Estonia,1,1,0,2,3,15,53,0
+Weightlifting,1920,Greece,0,0,0,0,1,15,53,0
+Weightlifting,1920,Great Britain,0,0,0,0,2,15,53,0
+Weightlifting,1920,Egypt,0,0,0,0,1,15,53,0
+Weightlifting,1924,Switzerland,0,1,1,2,9,15,107,0
+Weightlifting,1924,Austria,0,3,1,4,15,15,107,0
+Weightlifting,1924,Luxembourg,0,0,0,0,4,15,107,0
+Weightlifting,1924,Great Britain,0,0,0,0,10,15,107,0
+Weightlifting,1924,Argentina,0,0,0,0,3,15,107,0
+Weightlifting,1924,Belgium,0,0,0,0,8,15,107,0
+Weightlifting,1924,Italy,3,0,0,3,15,15,107,0
+Weightlifting,1924,Sweden,0,0,0,0,5,15,107,0
+Weightlifting,1924,France,2,0,0,2,14,15,107,1
+Weightlifting,1924,Czech Republic,0,0,1,1,6,15,107,0
+Weightlifting,1924,Turkey,0,0,0,0,1,15,107,0
+Weightlifting,1924,Estonia,0,1,2,3,8,15,107,0
+Weightlifting,1924,Latvia,0,0,0,0,4,15,107,0
+Weightlifting,1924,Netherlands,0,0,0,0,3,15,107,0
+Weightlifting,1924,Portugal,0,0,0,0,1,15,107,0
+Weightlifting,1924,Egypt,0,0,0,0,1,15,107,0
+Badminton,1992,Singapore,0,0,0,0,3,12,226,0
+Badminton,1992,Switzerland,0,0,0,0,2,12,226,0
+Badminton,1992,Sweden,0,0,0,0,9,12,226,0
+Badminton,1992,Unified Team,0,0,0,0,2,12,226,0
+Badminton,1992,Poland,0,0,0,0,8,12,226,0
+Badminton,1992,Romania,0,0,0,0,1,12,226,0
+Badminton,1992,South Korea,2,1,1,4,12,12,226,0
+Badminton,1992,India,0,0,0,0,3,12,226,0
+Badminton,1992,Canada,0,0,0,0,9,12,226,0
+Badminton,1992,Bulgaria,0,0,0,0,9,12,226,0
+Badminton,1992,Great Britain,0,0,0,0,12,12,226,0
+Badminton,1992,Indonesia,2,2,1,5,13,12,226,0
+Badminton,1992,Australia,0,0,0,0,2,12,226,0
+Badminton,1992,Hong Kong,0,0,0,0,5,12,226,0
+Badminton,1992,Thailand,0,0,0,0,8,12,226,0
+Badminton,1992,Malaysia,0,0,1,1,6,12,226,0
+Badminton,1992,China,0,1,3,4,13,12,226,0
+Badminton,1992,Mauritius,0,0,0,0,3,12,226,0
+Badminton,1992,Netherlands,0,0,0,0,3,12,226,0
+Badminton,1992,Hungary,0,0,0,0,3,12,226,0
+Badminton,1992,France,0,0,0,0,4,12,226,0
+Badminton,1992,Portugal,0,0,0,0,2,12,226,0
+Badminton,1992,United States,0,0,0,0,6,12,226,0
+Badminton,1992,Germany,0,0,0,0,4,12,226,0
+Badminton,1992,Austria,0,0,0,0,2,12,226,0
+Badminton,1992,New Zealand,0,0,0,0,4,12,226,0
+Badminton,1992,Iceland,0,0,0,0,3,12,226,0
+Badminton,1992,Denmark,0,0,1,1,12,12,226,0
+Badminton,1992,Finland,0,0,0,0,2,12,226,0
+Badminton,1992,Japan,0,0,0,0,14,12,226,0
+Badminton,1992,South Africa,0,0,0,0,2,12,226,0
+Badminton,1992,Czech Republic,0,0,0,0,2,12,226,0
+Badminton,1992,Spain,0,0,0,0,2,12,226,1
+Badminton,1992,Norway,0,0,0,0,1,12,226,0
+Badminton,1992,Belgium,0,0,0,0,1,12,226,0
+Badminton,1992,Sri Lanka,0,0,0,0,1,12,226,0
+Badminton,1996,Singapore,0,0,0,0,1,15,263,0
+Badminton,1996,Nigeria,0,0,0,0,2,15,263,0
+Badminton,1996,Sweden,0,0,0,0,12,15,263,0
+Badminton,1996,Russia,0,0,0,0,5,15,263,0
+Badminton,1996,Indonesia,1,1,2,4,20,15,263,0
+Badminton,1996,Great Britain,0,0,0,0,20,15,263,0
+Badminton,1996,South Korea,2,2,0,4,20,15,263,0
+Badminton,1996,Mauritius,0,0,0,0,8,15,263,0
+Badminton,1996,India,0,0,0,0,2,15,263,0
+Badminton,1996,Australia,0,0,0,0,11,15,263,0
+Badminton,1996,Suriname,0,0,0,0,1,15,263,0
+Badminton,1996,Peru,0,0,0,0,1,15,263,0
+Badminton,1996,Malaysia,0,1,1,2,7,15,263,0
+Badminton,1996,Hong Kong,0,0,0,0,3,15,263,0
+Badminton,1996,Chinese Taipei,0,0,0,0,6,15,263,0
+Badminton,1996,Thailand,0,0,0,0,7,15,263,0
+Badminton,1996,China,1,1,2,4,21,15,263,0
+Badminton,1996,Belarus,0,0,0,0,2,15,263,0
+Badminton,1996,Netherlands,0,0,0,0,5,15,263,0
+Badminton,1996,Canada,0,0,0,0,14,15,263,0
+Badminton,1996,France,0,0,0,0,2,15,263,0
+Badminton,1996,Ukraine,0,0,0,0,3,15,263,0
+Badminton,1996,Guatemala,0,0,0,0,1,15,263,0
+Badminton,1996,Denmark,1,0,0,1,20,15,263,0
+Badminton,1996,United States,0,0,0,0,3,15,263,1
+Badminton,1996,Austria,0,0,0,0,1,15,263,0
+Badminton,1996,Germany,0,0,0,0,6,15,263,0
+Badminton,1996,Finland,0,0,0,0,2,15,263,0
+Badminton,1996,New Zealand,0,0,0,0,2,15,263,0
+Badminton,1996,Bulgaria,0,0,0,0,3,15,263,0
+Badminton,1996,Poland,0,0,0,0,1,15,263,0
+Badminton,1996,Philippines,0,0,0,0,1,15,263,0
+Badminton,1996,Japan,0,0,0,0,7,15,263,0
+Badminton,1996,Iceland,0,0,0,0,1,15,263,0
+Badminton,1996,Trinidad and Tobago,0,0,0,0,1,15,263,0
+Badminton,1996,Hungary,0,0,0,0,1,15,263,0
+Badminton,1996,Switzerland,0,0,0,0,2,15,263,0
+Badminton,2000,Finland,0,0,0,0,2,15,225,0
+Badminton,2000,Indonesia,1,2,0,3,19,15,225,0
+Badminton,2000,Great Britain,0,0,1,1,14,15,225,0
+Badminton,2000,Sweden,0,0,0,0,6,15,225,0
+Badminton,2000,Australia,0,0,0,0,14,15,225,1
+Badminton,2000,Mauritius,0,0,0,0,5,15,225,0
+Badminton,2000,Canada,0,0,0,0,10,15,225,0
+Badminton,2000,Netherlands,0,0,0,0,8,15,225,0
+Badminton,2000,Chinese Taipei,0,0,0,0,5,15,225,0
+Badminton,2000,Malaysia,0,0,0,0,6,15,225,0
+Badminton,2000,China,4,1,3,8,19,15,225,0
+Badminton,2000,France,0,0,0,0,3,15,225,0
+Badminton,2000,Ukraine,0,0,0,0,3,15,225,0
+Badminton,2000,Thailand,0,0,0,0,6,15,225,0
+Badminton,2000,Denmark,0,1,0,1,20,15,225,0
+Badminton,2000,India,0,0,0,0,2,15,225,0
+Badminton,2000,Germany,0,0,0,0,8,15,225,0
+Badminton,2000,South Korea,0,1,1,2,16,15,225,0
+Badminton,2000,United States,0,0,0,0,1,15,225,0
+Badminton,2000,Japan,0,0,0,0,9,15,225,0
+Badminton,2000,Russia,0,0,0,0,3,15,225,0
+Badminton,2000,Bulgaria,0,0,0,0,4,15,225,0
+Badminton,2000,Hong Kong,0,0,0,0,4,15,225,0
+Badminton,2000,Poland,0,0,0,0,3,15,225,0
+Badminton,2000,Belgium,0,0,0,0,1,15,225,0
+Badminton,2000,Ireland,0,0,0,0,1,15,225,0
+Badminton,2000,Slovenia,0,0,0,0,1,15,225,0
+Badminton,2000,Portugal,0,0,0,0,1,15,225,0
+Badminton,2004,Norway,0,0,0,0,1,15,200,0
+Badminton,2004,Sweden,0,0,0,0,3,15,200,0
+Badminton,2004,United States,0,0,0,0,2,15,200,0
+Badminton,2004,China,3,1,1,5,20,15,200,0
+Badminton,2004,Canada,0,0,0,0,8,15,200,0
+Badminton,2004,Great Britain,0,1,0,1,13,15,200,0
+Badminton,2004,Peru,0,0,0,0,1,15,200,0
+Badminton,2004,South Africa,0,0,0,0,6,15,200,0
+Badminton,2004,Australia,0,0,0,0,6,15,200,0
+Badminton,2004,Netherlands,0,1,0,1,4,15,200,0
+Badminton,2004,Indonesia,1,0,2,3,14,15,200,0
+Badminton,2004,Malaysia,0,0,0,0,9,15,200,0
+Badminton,2004,Thailand,0,0,0,0,9,15,200,0
+Badminton,2004,Chinese Taipei,0,0,0,0,5,15,200,0
+Badminton,2004,Spain,0,0,0,0,2,15,200,0
+Badminton,2004,Denmark,0,0,1,1,14,15,200,0
+Badminton,2004,Germany,0,0,0,0,6,15,200,0
+Badminton,2004,India,0,0,0,0,3,15,200,0
+Badminton,2004,South Korea,1,2,1,4,17,15,200,0
+Badminton,2004,Singapore,0,0,0,0,3,15,200,0
+Badminton,2004,Hong Kong,0,0,0,0,5,15,200,0
+Badminton,2004,Poland,0,0,0,0,3,15,200,0
+Badminton,2004,Japan,0,0,0,0,12,15,200,0
+Badminton,2004,Bulgaria,0,0,0,0,2,15,200,0
+Badminton,2004,Greece,0,0,0,0,2,15,200,1
+Badminton,2004,France,0,0,0,0,3,15,200,0
+Badminton,2004,New Zealand,0,0,0,0,2,15,200,0
+Badminton,2004,Finland,0,0,0,0,3,15,200,0
+Badminton,2004,Jamaica,0,0,0,0,1,15,200,0
+Badminton,2004,Portugal,0,0,0,0,1,15,200,0
+Badminton,2004,Russia,0,0,0,0,2,15,200,0
+Badminton,2004,Guatemala,0,0,0,0,1,15,200,0
+Badminton,2008,Spain,0,0,0,0,2,15,184,0
+Badminton,2008,Seychelles,0,0,0,0,2,15,184,0
+Badminton,2008,Italy,0,0,0,0,1,15,184,0
+Badminton,2008,Mexico,0,0,0,0,1,15,184,0
+Badminton,2008,Poland,0,0,0,0,5,15,184,0
+Badminton,2008,United States,0,0,0,0,5,15,184,0
+Badminton,2008,China,3,2,3,8,19,15,184,1
+Badminton,2008,Canada,0,0,0,0,4,15,184,0
+Badminton,2008,Switzerland,0,0,0,0,2,15,184,0
+Badminton,2008,South Africa,0,0,0,0,5,15,184,0
+Badminton,2008,Australia,0,0,0,0,6,15,184,0
+Badminton,2008,Indonesia,1,1,1,3,13,15,184,0
+Badminton,2008,Chinese Taipei,0,0,0,0,4,15,184,0
+Badminton,2008,Malaysia,0,1,0,1,9,15,184,0
+Badminton,2008,Great Britain,0,0,0,0,8,15,184,0
+Badminton,2008,New Zealand,0,0,0,0,3,15,184,0
+Badminton,2008,Guatemala,0,0,0,0,1,15,184,0
+Badminton,2008,Nigeria,0,0,0,0,1,15,184,0
+Badminton,2008,Ukraine,0,0,0,0,2,15,184,0
+Badminton,2008,Uganda,0,0,0,0,1,15,184,0
+Badminton,2008,Denmark,0,0,0,0,10,15,184,0
+Badminton,2008,Ireland,0,0,0,0,2,15,184,0
+Badminton,2008,Mauritius,0,0,0,0,1,15,184,0
+Badminton,2008,South Korea,1,1,1,3,14,15,184,0
+Badminton,2008,Japan,0,0,0,0,10,15,184,0
+Badminton,2008,Germany,0,0,0,0,5,15,184,0
+Badminton,2008,Egypt,0,0,0,0,1,15,184,0
+Badminton,2008,Iceland,0,0,0,0,1,15,184,0
+Badminton,2008,Sri Lanka,0,0,0,0,1,15,184,0
+Badminton,2008,Singapore,0,0,0,0,5,15,184,0
+Badminton,2008,Russia,0,0,0,0,2,15,184,0
+Badminton,2008,France,0,0,0,0,2,15,184,0
+Badminton,2008,Belarus,0,0,0,0,1,15,184,0
+Badminton,2008,Czech Republic,0,0,0,0,2,15,184,0
+Badminton,2008,Finland,0,0,0,0,2,15,184,0
+Badminton,2008,Algeria,0,0,0,0,1,15,184,0
+Badminton,2008,Vietnam,0,0,0,0,2,15,184,0
+Badminton,2008,Zambia,0,0,0,0,1,15,184,0
+Badminton,2008,Iran,0,0,0,0,1,15,184,0
+Badminton,2008,Portugal,0,0,0,0,2,15,184,0
+Badminton,2008,Estonia,0,0,0,0,2,15,184,0
+Badminton,2008,Lithuania,0,0,0,0,2,15,184,0
+Badminton,2008,Bulgaria,0,0,0,0,1,15,184,0
+Badminton,2008,India,0,0,0,0,2,15,184,0
+Badminton,2008,Hong Kong,0,0,0,0,3,15,184,0
+Badminton,2008,Sweden,0,0,0,0,1,15,184,0
+Badminton,2008,Thailand,0,0,0,0,4,15,184,0
+Badminton,2008,Peru,0,0,0,0,1,15,184,0
+Badminton,2008,Slovakia,0,0,0,0,1,15,184,0
+Badminton,2008,Slovenia,0,0,0,0,1,15,184,0
+Cycling,1896,Greece,1,3,0,4,9,18,41,0
+Cycling,1896,Great Britain,0,1,1,2,2,18,41,0
+Cycling,1896,France,4,1,1,6,2,18,41,0
+Cycling,1896,Germany,0,1,0,1,5,18,41,0
+Cycling,1896,Austria,1,0,2,3,1,18,41,0
+Cycling,1900,France,2,1,2,5,58,9,92,1
+Cycling,1900,Italy,1,0,0,1,7,9,92,0
+Cycling,1900,Germany,0,1,0,1,3,9,92,0
+Cycling,1900,Great Britain,0,1,0,1,1,9,92,0
+Cycling,1900,Bohemia,0,0,0,0,1,9,92,0
+Cycling,1900,United States,0,0,1,1,1,9,92,0
+Cycling,1900,Belgium,0,0,0,0,1,9,92,0
+Cycling,1904,United States,7,7,7,21,17,21,61,1
+Cycling,1904,Italy,0,0,0,0,1,21,61,0
+Cycling,1906,Greece,0,0,0,0,10,18,138,0
+Cycling,1906,Denmark,0,0,0,0,1,18,138,0
+Cycling,1906,Germany,0,1,1,2,8,18,138,0
+Cycling,1906,France,1,2,4,7,7,18,138,0
+Cycling,1906,Great Britain,2,3,0,5,5,18,138,0
+Cycling,1906,Egypt,0,0,0,0,1,18,138,0
+Cycling,1906,Belgium,0,0,1,1,3,18,138,0
+Cycling,1906,Italy,3,0,0,3,3,18,138,0
+Cycling,1906,Sweden,0,0,0,0,1,18,138,0
+Cycling,1906,Austria,0,0,0,0,4,18,138,0
+Cycling,1906,Switzerland,0,0,0,0,2,18,138,0
+Cycling,1908,Great Britain,5,3,1,9,36,18,269,0
+Cycling,1908,Canada,0,0,1,1,5,18,269,0
+Cycling,1908,France,1,2,2,5,23,18,269,0
+Cycling,1908,Germany,0,1,1,2,9,18,269,0
+Cycling,1908,Netherlands,0,0,0,0,5,18,269,0
+Cycling,1908,United States,0,0,0,0,2,18,269,0
+Cycling,1908,Belgium,0,0,1,1,6,18,269,0
+Cycling,1908,South Africa,0,0,0,0,4,18,269,0
+Cycling,1908,Sweden,0,0,0,0,2,18,269,0
+Cycling,1908,Italy,0,0,0,0,4,18,269,0
+Cycling,1908,Greece,0,0,0,0,1,18,269,0
+Boxing,1904,United States,7,7,4,18,18,21,24,1
+Boxing,1908,Great Britain,5,4,5,14,32,15,42,0
+Boxing,1908,France,0,0,0,0,7,15,42,0
+Boxing,1908,Australasia,0,1,0,1,1,15,42,0
+Boxing,1908,Denmark,0,0,0,0,2,15,42,0
+Boxing,1920,Great Britain,2,1,3,6,16,24,116,0
+Boxing,1920,France,1,1,1,3,15,24,116,0
+Boxing,1920,Denmark,0,3,0,3,12,24,116,0
+Boxing,1920,Belgium,0,0,0,0,13,24,116,1
+Boxing,1920,Italy,0,0,1,1,5,24,116,0
+Boxing,1920,South Africa,1,0,0,1,7,24,116,0
+Boxing,1920,United States,3,0,1,4,16,24,116,0
+Boxing,1920,Norway,0,1,0,1,14,24,116,0
+Boxing,1920,Canada,1,2,2,5,8,24,116,0
+Boxing,1920,Netherlands,0,0,0,0,8,24,116,0
+Boxing,1920,Switzerland,0,0,0,0,1,24,116,0
+Boxing,1920,Argentina,0,0,0,0,1,24,116,0
+Boxing,1924,Chile,0,0,0,0,4,24,181,0
+Boxing,1924,Sweden,0,0,0,0,5,24,181,0
+Boxing,1924,Netherlands,0,0,0,0,9,24,181,0
+Boxing,1924,Great Britain,2,2,0,4,16,24,181,0
+Boxing,1924,Austria,0,0,0,0,3,24,181,0
+Boxing,1924,Spain,0,0,0,0,7,24,181,0
+Boxing,1924,Belgium,1,0,1,2,10,24,181,0
+Boxing,1924,South Africa,1,0,0,1,4,24,181,0
+Boxing,1924,Canada,0,0,1,1,9,24,181,0
+Boxing,1924,Italy,0,0,0,0,16,24,181,0
+Boxing,1924,United States,2,2,2,6,16,24,181,0
+Boxing,1924,France,0,0,1,1,16,24,181,1
+Boxing,1924,Argentina,0,2,2,4,10,24,181,0
+Boxing,1924,Norway,1,0,1,2,9,24,181,0
+Boxing,1924,Uruguay,0,0,0,0,5,24,181,0
+Boxing,1924,Ireland,0,0,0,0,7,24,181,0
+Boxing,1924,Poland,0,0,0,0,5,24,181,0
+Boxing,1924,Luxembourg,0,0,0,0,6,24,181,0
+Boxing,1924,Switzerland,0,0,0,0,7,24,181,0
+Boxing,1924,Greece,0,0,0,0,1,24,181,0
+Boxing,1924,Latvia,0,0,0,0,1,24,181,0
+Boxing,1924,Egypt,0,0,0,0,1,24,181,0
+Boxing,1924,Australia,0,0,0,0,3,24,181,0
+Boxing,1924,Denmark,1,2,0,3,8,24,181,0
+Boxing,1924,Hungary,0,0,0,0,1,24,181,0
+Boxing,1924,Estonia,0,0,0,0,1,24,181,0
+Boxing,1924,New Zealand,0,0,0,0,1,24,181,0
+Boxing,1928,Belgium,0,0,1,1,6,24,144,0
+Boxing,1928,France,0,1,0,1,8,24,144,0
+Boxing,1928,Germany,0,1,0,1,8,24,144,0
+Boxing,1928,Argentina,2,2,0,4,8,24,144,0
+Boxing,1928,Netherlands,1,0,1,2,6,24,144,1
+Boxing,1928,Canada,0,0,1,1,7,24,144,0
+Boxing,1928,Sweden,0,1,1,2,8,24,144,0
+Boxing,1928,Zimbabwe,0,0,0,0,2,24,144,0
+Boxing,1928,Norway,0,0,0,0,5,24,144,0
+Boxing,1928,Spain,0,0,0,0,6,24,144,0
+Boxing,1928,Italy,3,0,1,4,7,24,144,0
+Boxing,1928,Ireland,0,0,0,0,8,24,144,0
+Boxing,1928,New Zealand,1,0,0,1,2,24,144,0
+Boxing,1928,United States,0,2,1,3,8,24,144,0
+Boxing,1928,Chile,0,0,0,0,4,24,144,0
+Boxing,1928,Great Britain,0,0,0,0,8,24,144,0
+Boxing,1928,South Africa,0,0,1,1,6,24,144,0
+Boxing,1928,Denmark,0,0,1,1,6,24,144,0
+Boxing,1928,Greece,0,0,0,0,2,24,144,0
+Boxing,1928,Austria,0,0,0,0,1,24,144,0
+Boxing,1928,Mexico,0,0,0,0,4,24,144,0
+Boxing,1928,Hungary,1,0,0,1,4,24,144,0
+Boxing,1928,Poland,0,0,0,0,4,24,144,0
+Boxing,1928,Finland,0,0,0,0,3,24,144,0
+Boxing,1928,Czech Republic,0,1,0,1,3,24,144,0
+Boxing,1928,Luxembourg,0,0,0,0,5,24,144,0
+Boxing,1928,Lithuania,0,0,0,0,2,24,144,0
+Boxing,1928,Japan,0,0,0,0,2,24,144,0
+Boxing,1928,Estonia,0,0,0,0,1,24,144,0
 Gymnastics,1896,Greece,2,1,1,4,8,24,97,0
 Gymnastics,1896,Germany,5,3,2,10,11,24,97,0
 Gymnastics,1896,Switzerland,1,2,0,3,2,24,97,0
@@ -1158,122 +1582,468 @@ Diving,1920,Switzerland,0,0,0,0,1,15,70,0
 Diving,1920,Japan,0,0,0,0,1,15,70,0
 Diving,1920,France,0,0,0,0,1,15,70,0
 Diving,1920,Brazil,0,0,0,0,1,15,70,0
-Equestrianism,1900,France,2,2,4,8,38,15,79,1
-Equestrianism,1900,Belgium,3,1,1,5,13,15,79,0
-Equestrianism,1900,Spain,0,0,0,0,1,15,79,0
-Equestrianism,1900,Russia,0,0,0,0,3,15,79,0
-Equestrianism,1900,Austria,0,0,0,0,3,15,79,0
-Equestrianism,1900,Great Britain,0,0,0,0,1,15,79,0
-Equestrianism,1900,Italy,1,1,0,2,3,15,79,0
-Equestrianism,1900,Germany,0,0,0,0,1,15,79,0
-Equestrianism,1912,Sweden,4,1,1,6,17,15,128,1
-Equestrianism,1912,Germany,0,3,1,4,13,15,128,0
-Equestrianism,1912,France,1,1,1,3,4,15,128,0
-Equestrianism,1912,Belgium,0,0,1,1,4,15,128,0
-Equestrianism,1912,Chile,0,0,0,0,2,15,128,0
-Equestrianism,1912,Norway,0,0,0,0,3,15,128,0
-Equestrianism,1912,United States,0,0,1,1,4,15,128,0
-Equestrianism,1912,Great Britain,0,0,0,0,4,15,128,0
-Equestrianism,1912,Denmark,0,0,0,0,4,15,128,0
-Equestrianism,1912,Russia,0,0,0,0,7,15,128,0
-Equestrianism,1920,Sweden,4,2,3,9,22,21,132,0
-Equestrianism,1920,United States,0,0,0,0,8,21,132,0
-Equestrianism,1920,France,0,2,0,2,24,21,132,0
-Equestrianism,1920,Italy,1,2,2,5,10,21,132,0
-Equestrianism,1920,Norway,0,0,0,0,5,21,132,0
-Equestrianism,1920,Belgium,2,1,2,5,18,21,132,1
-Equestrianism,1920,Netherlands,0,0,0,0,1,21,132,0
-Equestrianism,1920,Finland,0,0,0,0,1,21,132,0
-Equestrianism,1924,Spain,0,0,0,0,4,15,194,0
-Equestrianism,1924,Italy,0,1,1,2,5,15,194,0
-Equestrianism,1924,Sweden,2,2,0,4,12,15,194,0
-Equestrianism,1924,France,0,0,1,1,12,15,194,1
-Equestrianism,1924,United States,0,0,1,1,5,15,194,0
-Equestrianism,1924,Belgium,0,0,0,0,11,15,194,0
-Equestrianism,1924,Great Britain,0,0,0,0,6,15,194,0
-Equestrianism,1924,Czech Republic,0,0,0,0,11,15,194,0
-Equestrianism,1924,Switzerland,1,1,0,2,9,15,194,0
-Equestrianism,1924,Netherlands,2,0,0,2,5,15,194,0
-Equestrianism,1924,Portugal,0,0,1,1,4,15,194,0
-Equestrianism,1924,Poland,0,0,1,1,6,15,194,0
-Equestrianism,1924,Finland,0,0,0,0,1,15,194,0
-Equestrianism,1924,Denmark,0,1,0,1,1,15,194,0
-Equestrianism,1924,Bulgaria,0,0,0,0,2,15,194,0
-Equestrianism,1924,Serbia,0,0,0,0,1,15,194,0
-Equestrianism,1924,Austria,0,0,0,0,2,15,194,0
-Equestrianism,1928,Spain,1,0,0,1,6,18,232,0
-Equestrianism,1928,Sweden,0,1,2,3,9,18,232,0
-Equestrianism,1928,Argentina,0,0,0,0,3,18,232,0
-Equestrianism,1928,Poland,0,1,1,2,5,18,232,0
-Equestrianism,1928,France,0,2,0,2,9,18,232,0
-Equestrianism,1928,Italy,0,0,0,0,5,18,232,0
-Equestrianism,1928,Hungary,0,0,0,0,5,18,232,0
-Equestrianism,1928,United States,0,0,0,0,5,18,232,0
-Equestrianism,1928,Czech Republic,1,0,0,1,9,18,232,0
-Equestrianism,1928,Netherlands,2,1,1,4,8,18,232,1
-Equestrianism,1928,Belgium,0,0,0,0,9,18,232,0
-Equestrianism,1928,Switzerland,0,0,1,1,9,18,232,0
-Equestrianism,1928,Portugal,0,0,0,0,3,18,232,0
-Equestrianism,1928,Germany,2,0,1,3,8,18,232,0
-Equestrianism,1928,Denmark,0,0,0,0,3,18,232,0
-Equestrianism,1928,Austria,0,0,0,0,3,18,232,0
-Equestrianism,1928,Norway,0,1,0,1,6,18,232,0
-Equestrianism,1928,Japan,0,0,0,0,4,18,232,0
-Equestrianism,1928,Bulgaria,0,0,0,0,3,18,232,0
-Equestrianism,1928,Finland,0,0,0,0,1,18,232,0
-Modern Pentathlon,1912,Russia,0,0,0,0,5,3,32,0
-Modern Pentathlon,1912,Sweden,1,1,1,3,12,3,32,1
-Modern Pentathlon,1912,Austria,0,0,0,0,1,3,32,0
-Modern Pentathlon,1912,France,0,0,0,0,2,3,32,0
-Modern Pentathlon,1912,Great Britain,0,0,0,0,3,3,32,0
-Modern Pentathlon,1912,Netherlands,0,0,0,0,1,3,32,0
-Modern Pentathlon,1912,Denmark,0,0,0,0,4,3,32,0
-Modern Pentathlon,1912,Norway,0,0,0,0,2,3,32,0
-Modern Pentathlon,1912,United States,0,0,0,0,1,3,32,0
-Modern Pentathlon,1912,Germany,0,0,0,0,1,3,32,0
-Modern Pentathlon,1920,Denmark,0,0,0,0,4,3,23,0
-Modern Pentathlon,1920,Great Britain,0,0,0,0,4,3,23,0
-Modern Pentathlon,1920,France,0,0,0,0,4,3,23,0
-Modern Pentathlon,1920,Sweden,1,1,1,3,4,3,23,0
-Modern Pentathlon,1920,Finland,0,0,0,0,2,3,23,0
-Modern Pentathlon,1920,Italy,0,0,0,0,1,3,23,0
-Modern Pentathlon,1920,United States,0,0,0,0,2,3,23,0
-Modern Pentathlon,1920,Norway,0,0,0,0,2,3,23,0
-Modern Pentathlon,1924,Sweden,1,1,1,3,4,3,38,0
-Modern Pentathlon,1924,Finland,0,0,0,0,3,3,38,0
-Modern Pentathlon,1924,United States,0,0,0,0,4,3,38,0
-Modern Pentathlon,1924,Great Britain,0,0,0,0,4,3,38,0
-Modern Pentathlon,1924,Belgium,0,0,0,0,4,3,38,0
-Modern Pentathlon,1924,Italy,0,0,0,0,4,3,38,0
-Modern Pentathlon,1924,Denmark,0,0,0,0,3,3,38,0
-Modern Pentathlon,1924,France,0,0,0,0,4,3,38,1
-Modern Pentathlon,1924,Norway,0,0,0,0,2,3,38,0
-Modern Pentathlon,1924,Czech Republic,0,0,0,0,2,3,38,0
-Modern Pentathlon,1924,Netherlands,0,0,0,0,4,3,38,0
-Modern Pentathlon,1928,Finland,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Sweden,1,1,0,2,3,3,37,0
-Modern Pentathlon,1928,France,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Belgium,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Portugal,0,0,0,0,1,3,37,0
-Modern Pentathlon,1928,Great Britain,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Hungary,0,0,0,0,1,3,37,0
-Modern Pentathlon,1928,Czech Republic,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,United States,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Germany,0,0,1,1,3,3,37,0
-Modern Pentathlon,1928,Denmark,0,0,0,0,2,3,37,0
-Modern Pentathlon,1928,Poland,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Italy,0,0,0,0,3,3,37,0
-Modern Pentathlon,1928,Netherlands,0,0,0,0,3,3,37,1
-Modern Pentathlon,1932,Mexico,0,0,0,0,3,3,25,0
-Modern Pentathlon,1932,Great Britain,0,0,0,0,3,3,25,0
-Modern Pentathlon,1932,Hungary,0,0,0,0,3,3,25,0
-Modern Pentathlon,1932,United States,0,0,1,1,3,3,25,1
-Modern Pentathlon,1932,Portugal,0,0,0,0,2,3,25,0
-Modern Pentathlon,1932,France,0,0,0,0,1,3,25,0
-Modern Pentathlon,1932,Sweden,1,1,0,2,3,3,25,0
-Modern Pentathlon,1932,Germany,0,0,0,0,3,3,25,0
-Modern Pentathlon,1932,Italy,0,0,0,0,3,3,25,0
-Modern Pentathlon,1932,Netherlands,0,0,0,0,1,3,25,0
+Swimming,1896,Greece,1,3,2,6,9,12,18,0
+Swimming,1896,Hungary,2,0,0,2,1,12,18,0
+Swimming,1896,Austria,1,1,0,2,2,12,18,0
+Swimming,1896,United States,0,0,0,0,1,12,18,0
+Swimming,1900,France,1,1,1,3,44,21,131,1
+Swimming,1900,Austria,0,3,1,4,4,21,131,0
+Swimming,1900,Germany,1,0,0,1,4,21,131,0
+Swimming,1900,Tritons Lillois,0,1,0,1,5,21,131,0
+Swimming,1900,Netherlands,0,0,1,1,4,21,131,0
+Swimming,1900,Great Britain,2,0,1,3,7,21,131,0
+Swimming,1900,Italy,0,0,0,0,2,21,131,0
+Swimming,1900,Libellule de Paris,0,0,0,0,5,21,131,0
+Swimming,1900,Sweden,0,0,0,0,1,21,131,0
+Swimming,1900,Deutscher Schwimm Verband Berlin,1,0,0,1,4,21,131,0
+Swimming,1900,United States,0,0,0,0,1,21,131,0
+Swimming,1900,Belgium,0,0,0,0,1,21,131,0
+Swimming,1900,Australia,2,0,0,2,1,21,131,0
+Swimming,1900,Pupilles de Neptune de Lille,0,0,1,1,4,21,131,0
+Swimming,1900,Denmark,0,0,1,1,1,21,131,0
+Swimming,1900,Hungary,0,2,1,3,1,21,131,0
+Swimming,1904,United States,3,3,4,10,15,30,64,1
+Swimming,1904,New York Athletic Club #2,0,0,0,0,4,30,64,0
+Swimming,1904,Germany,4,2,2,8,4,30,64,0
+Swimming,1904,New York Athletic Club #1,1,0,0,1,4,30,64,0
+Swimming,1904,Missouri Athletic Club,0,0,1,1,4,30,64,0
+Swimming,1904,Australia,0,3,1,4,1,30,64,0
+Swimming,1904,Chicago Athletic Association,0,1,0,1,4,30,64,0
+Swimming,1904,Hungary,2,1,1,4,2,30,64,0
+Swimming,1904,Austria,0,0,1,1,1,30,64,0
+Swimming,1906,Italy,0,0,0,0,1,12,78,0
+Swimming,1906,Sweden,0,0,0,0,6,12,78,0
+Swimming,1906,Germany,0,1,0,1,5,12,78,0
+Swimming,1906,Austria,1,0,1,2,4,12,78,0
+Swimming,1906,United States,1,0,0,1,4,12,78,0
+Swimming,1906,France,0,0,0,0,2,12,78,0
+Swimming,1906,Hungary,1,1,0,2,6,12,78,0
+Swimming,1906,Great Britain,1,2,2,5,6,12,78,0
+Swimming,1906,Denmark,0,0,0,0,2,12,78,0
+Swimming,1906,Australia,0,0,1,1,1,12,78,0
+Swimming,1906,Greece,0,0,0,0,6,12,78,0
+Swimming,1908,Sweden,0,0,2,2,12,18,150,0
+Swimming,1908,France,0,0,0,0,4,18,150,0
+Swimming,1908,Germany,1,0,0,1,5,18,150,0
+Swimming,1908,Italy,0,0,0,0,4,18,150,0
+Swimming,1908,Australasia,0,1,1,2,5,18,150,0
+Swimming,1908,Hungary,0,2,0,2,10,18,150,0
+Swimming,1908,Great Britain,4,2,1,7,28,18,150,0
+Swimming,1908,Netherlands,0,0,0,0,7,18,150,0
+Swimming,1908,Belgium,0,0,0,0,7,18,150,0
+Swimming,1908,Finland,0,0,0,0,3,18,150,0
+Swimming,1908,Denmark,0,1,0,1,5,18,150,0
+Swimming,1908,United States,1,0,1,2,8,18,150,0
+Swimming,1908,Austria,0,0,1,1,1,18,150,0
+Swimming,1908,Canada,0,0,0,0,1,18,150,0
+Table Tennis,1988,Nigeria,0,0,0,0,8,12,206,0
+Table Tennis,1988,Jordan,0,0,0,0,1,12,206,0
+Table Tennis,1988,Dominican Republic,0,0,0,0,3,12,206,0
+Table Tennis,1988,Iraq,0,0,0,0,1,12,206,0
+Table Tennis,1988,South Korea,2,1,1,4,10,12,206,1
+Table Tennis,1988,Great Britain,0,0,0,0,7,12,206,0
+Table Tennis,1988,Sweden,0,0,1,1,7,12,206,0
+Table Tennis,1988,Austria,0,0,0,0,2,12,206,0
+Table Tennis,1988,Hungary,0,0,0,0,5,12,206,0
+Table Tennis,1988,Tunisia,0,0,0,0,4,12,206,0
+Table Tennis,1988,United States,0,0,0,0,3,12,206,0
+Table Tennis,1988,France,0,0,0,0,2,12,206,0
+Table Tennis,1988,Australia,0,0,0,0,3,12,206,0
+Table Tennis,1988,Belgium,0,0,0,0,2,12,206,0
+Table Tennis,1988,Germany,0,0,0,0,6,12,206,0
+Table Tennis,1988,Russia,0,0,0,0,5,12,206,0
+Table Tennis,1988,Hong Kong,0,0,0,0,9,12,206,0
+Table Tennis,1988,Chinese Taipei,0,0,0,0,9,12,206,0
+Table Tennis,1988,China,2,2,1,5,10,12,206,0
+Table Tennis,1988,Mauritius,0,0,0,0,2,12,206,0
+Table Tennis,1988,Italy,0,0,0,0,1,12,206,0
+Table Tennis,1988,Chile,0,0,0,0,3,12,206,0
+Table Tennis,1988,Canada,0,0,0,0,3,12,206,0
+Table Tennis,1988,Bulgaria,0,0,0,0,2,12,206,0
+Table Tennis,1988,Egypt,0,0,0,0,3,12,206,0
+Table Tennis,1988,Serbia,0,1,1,2,5,12,206,0
+Table Tennis,1988,India,0,0,0,0,3,12,206,0
+Table Tennis,1988,New Zealand,0,0,0,0,2,12,206,0
+Table Tennis,1988,Poland,0,0,0,0,3,12,206,0
+Table Tennis,1988,Netherlands,0,0,0,0,2,12,206,0
+Table Tennis,1988,Japan,0,0,0,0,10,12,206,0
+Table Tennis,1988,Czech Republic,0,0,0,0,4,12,206,0
+Table Tennis,1988,Jamaica,0,0,0,0,1,12,206,0
+Table Tennis,1988,Brazil,0,0,0,0,2,12,206,0
+Table Tennis,1988,Argentina,0,0,0,0,1,12,206,0
+Table Tennis,1988,Malaysia,0,0,0,0,2,12,206,0
+Table Tennis,1988,Peru,0,0,0,0,1,12,206,0
+Table Tennis,1988,Venezuela,0,0,0,0,2,12,206,0
+Table Tennis,1988,Indonesia,0,0,0,0,1,12,206,0
+Table Tennis,1988,Ghana,0,0,0,0,1,12,206,0
+Table Tennis,1988,Pakistan,0,0,0,0,1,12,206,0
+Table Tennis,1992,Jordan,0,0,0,0,1,12,248,0
+Table Tennis,1992,Iran,0,0,0,0,1,12,248,0
+Table Tennis,1992,Ghana,0,0,0,0,2,12,248,0
+Table Tennis,1992,Austria,0,0,0,0,2,12,248,0
+Table Tennis,1992,Sweden,1,0,0,1,9,12,248,0
+Table Tennis,1992,Cuba,0,0,0,0,4,12,248,0
+Table Tennis,1992,Italy,0,0,0,0,1,12,248,0
+Table Tennis,1992,India,0,0,0,0,4,12,248,0
+Table Tennis,1992,Romania,0,0,0,0,6,12,248,0
+Table Tennis,1992,Nigeria,0,0,0,0,9,12,248,0
+Table Tennis,1992,Hungary,0,0,0,0,1,12,248,0
+Table Tennis,1992,Tunisia,0,0,0,0,3,12,248,0
+Table Tennis,1992,United States,0,0,0,0,5,12,248,0
+Table Tennis,1992,South Africa,0,0,0,0,2,12,248,0
+Table Tennis,1992,New Zealand,0,0,0,0,3,12,248,0
+Table Tennis,1992,Ecuador,0,0,0,0,1,12,248,0
+Table Tennis,1992,Spain,0,0,0,0,4,12,248,1
+Table Tennis,1992,Hong Kong,0,0,0,0,4,12,248,0
+Table Tennis,1992,France,0,1,0,1,8,12,248,0
+Table Tennis,1992,China,3,2,1,6,14,12,248,0
+Table Tennis,1992,Canada,0,0,0,0,2,12,248,0
+Table Tennis,1992,North Korea,0,0,2,2,14,12,248,0
+Table Tennis,1992,Great Britain,0,0,0,0,6,12,248,0
+Table Tennis,1992,Brazil,0,0,0,0,4,12,248,0
+Table Tennis,1992,Libya,0,0,0,0,1,12,248,0
+Table Tennis,1992,Individual Olympic Athletes,0,0,0,0,5,12,248,0
+Table Tennis,1992,Germany,0,1,0,1,5,12,248,0
+Table Tennis,1992,Slovenia,0,0,0,0,1,12,248,0
+Table Tennis,1992,Argentina,0,0,0,0,2,12,248,0
+Table Tennis,1992,South Korea,0,0,5,5,14,12,248,0
+Table Tennis,1992,Bulgaria,0,0,0,0,1,12,248,0
+Table Tennis,1992,Peru,0,0,0,0,4,12,248,0
+Table Tennis,1992,Poland,0,0,0,0,3,12,248,0
+Table Tennis,1992,Netherlands,0,0,0,0,3,12,248,0
+Table Tennis,1992,Saudi Arabia,0,0,0,0,1,12,248,0
+Table Tennis,1992,Egypt,0,0,0,0,2,12,248,0
+Table Tennis,1992,Japan,0,0,0,0,14,12,248,0
+Table Tennis,1992,Czech Republic,0,0,0,0,5,12,248,0
+Table Tennis,1992,Jamaica,0,0,0,0,1,12,248,0
+Table Tennis,1992,Australia,0,0,0,0,2,12,248,0
+Table Tennis,1992,Morocco,0,0,0,0,1,12,248,0
+Table Tennis,1992,Unified Team,0,0,0,0,9,12,248,0
+Table Tennis,1992,Indonesia,0,0,0,0,3,12,248,0
+Table Tennis,1992,Uganda,0,0,0,0,1,12,248,0
+Table Tennis,1992,Chile,0,0,0,0,3,12,248,0
+Table Tennis,1992,Croatia,0,0,0,0,2,12,248,0
+Table Tennis,1992,Belgium,0,0,0,0,2,12,248,0
+Table Tennis,1992,Estonia,0,0,0,0,1,12,248,0
+Table Tennis,1996,Ghana,0,0,0,0,2,12,251,0
+Table Tennis,1996,Croatia,0,0,0,0,4,12,251,0
+Table Tennis,1996,Kuwait,0,0,0,0,1,12,251,0
+Table Tennis,1996,Qatar,0,0,0,0,1,12,251,0
+Table Tennis,1996,Dominican Republic,0,0,0,0,1,12,251,0
+Table Tennis,1996,Italy,0,0,0,0,3,12,251,0
+Table Tennis,1996,India,0,0,0,0,2,12,251,0
+Table Tennis,1996,Romania,0,0,0,0,5,12,251,0
+Table Tennis,1996,Chinese Taipei,0,1,0,1,9,12,251,0
+Table Tennis,1996,Hungary,0,0,0,0,4,12,251,0
+Table Tennis,1996,Poland,0,0,0,0,2,12,251,0
+Table Tennis,1996,United States,0,0,0,0,6,12,251,1
+Table Tennis,1996,Canada,0,0,0,0,5,12,251,0
+Table Tennis,1996,Hong Kong,0,0,0,0,4,12,251,0
+Table Tennis,1996,Great Britain,0,0,0,0,4,12,251,0
+Table Tennis,1996,France,0,0,0,0,8,12,251,0
+Table Tennis,1996,North Korea,0,0,0,0,10,12,251,0
+Table Tennis,1996,Lebanon,0,0,0,0,1,12,251,0
+Table Tennis,1996,China,4,3,1,8,14,12,251,0
+Table Tennis,1996,Austria,0,0,0,0,6,12,251,0
+Table Tennis,1996,Czech Republic,0,0,0,0,3,12,251,0
+Table Tennis,1996,Brazil,0,0,0,0,4,12,251,0
+Table Tennis,1996,Germany,0,0,1,1,10,12,251,0
+Table Tennis,1996,South Korea,0,0,2,2,14,12,251,0
+Table Tennis,1996,Lithuania,0,0,0,0,1,12,251,0
+Table Tennis,1996,Peru,0,0,0,0,2,12,251,0
+Table Tennis,1996,Serbia and Montenegro,0,0,0,0,3,12,251,0
+Table Tennis,1996,Netherlands,0,0,0,0,9,12,251,0
+Table Tennis,1996,Bosnia and Herzegovina,0,0,0,0,1,12,251,0
+Table Tennis,1996,Jamaica,0,0,0,0,2,12,251,0
+Table Tennis,1996,Singapore,0,0,0,0,1,12,251,0
+Table Tennis,1996,Nigeria,0,0,0,0,4,12,251,0
+Table Tennis,1996,Sweden,0,0,0,0,10,12,251,0
+Table Tennis,1996,Japan,0,0,0,0,14,12,251,0
+Table Tennis,1996,Greece,0,0,0,0,2,12,251,0
+Table Tennis,1996,Uganda,0,0,0,0,3,12,251,0
+Table Tennis,1996,Australia,0,0,0,0,5,12,251,0
+Table Tennis,1996,New Zealand,0,0,0,0,1,12,251,0
+Table Tennis,1996,Russia,0,0,0,0,4,12,251,0
+Table Tennis,1996,Chile,0,0,0,0,4,12,251,0
+Table Tennis,1996,Mexico,0,0,0,0,1,12,251,0
+Table Tennis,1996,Sudan,0,0,0,0,1,12,251,0
+Table Tennis,1996,Slovakia,0,0,0,0,1,12,251,0
+Table Tennis,1996,Indonesia,0,0,0,0,2,12,251,0
+Table Tennis,1996,Venezuela,0,0,0,0,1,12,251,0
+Table Tennis,1996,Belgium,0,0,0,0,2,12,251,0
+Table Tennis,1996,Belarus,0,0,0,0,2,12,251,0
+Table Tennis,1996,Trinidad and Tobago,0,0,0,0,1,12,251,0
+Table Tennis,1996,Turkmenistan,0,0,0,0,1,12,251,0
+Table Tennis,1996,Tunisia,0,0,0,0,1,12,251,0
+Table Tennis,1996,Switzerland,0,0,0,0,1,12,251,0
+Table Tennis,2000,Egypt,0,0,0,0,5,12,268,0
+Table Tennis,2000,Croatia,0,0,0,0,4,12,268,0
+Table Tennis,2000,Nigeria,0,0,0,0,9,12,268,0
+Table Tennis,2000,Qatar,0,0,0,0,1,12,268,0
+Table Tennis,2000,Jordan,0,0,0,0,1,12,268,0
+Table Tennis,2000,Cuba,0,0,0,0,5,12,268,0
+Table Tennis,2000,India,0,0,0,0,3,12,268,0
+Table Tennis,2000,Romania,0,0,0,0,3,12,268,0
+Table Tennis,2000,United States,0,0,0,0,13,12,268,0
+Table Tennis,2000,Hungary,0,0,0,0,3,12,268,0
+Table Tennis,2000,Poland,0,0,0,0,2,12,268,0
+Table Tennis,2000,France,0,0,1,1,8,12,268,0
+Table Tennis,2000,Germany,0,0,0,0,10,12,268,0
+Table Tennis,2000,Chinese Taipei,0,0,1,1,9,12,268,0
+Table Tennis,2000,Hong Kong,0,0,0,0,4,12,268,0
+Table Tennis,2000,Australia,0,0,0,0,14,12,268,1
+Table Tennis,2000,Brazil,0,0,0,0,3,12,268,0
+Table Tennis,2000,Austria,0,0,0,0,5,12,268,0
+Table Tennis,2000,Iran,0,0,0,0,1,12,268,0
+Table Tennis,2000,Japan,0,0,0,0,14,12,268,0
+Table Tennis,2000,Chile,0,0,0,0,5,12,268,0
+Table Tennis,2000,Lithuania,0,0,0,0,2,12,268,0
+Table Tennis,2000,Canada,0,0,0,0,8,12,268,0
+Table Tennis,2000,Serbia and Montenegro,0,0,0,0,2,12,268,0
+Table Tennis,2000,Sweden,0,1,0,1,9,12,268,0
+Table Tennis,2000,Tunisia,0,0,0,0,1,12,268,0
+Table Tennis,2000,Indonesia,0,0,0,0,2,12,268,0
+Table Tennis,2000,Netherlands,0,0,0,0,2,12,268,0
+Table Tennis,2000,New Zealand,0,0,0,0,3,12,268,0
+Table Tennis,2000,Singapore,0,0,0,0,2,12,268,0
+Table Tennis,2000,Algeria,0,0,0,0,2,12,268,0
+Table Tennis,2000,South Korea,0,0,1,1,14,12,268,0
+Table Tennis,2000,Thailand,0,0,0,0,1,12,268,0
+Table Tennis,2000,China,4,3,1,8,14,12,268,0
+Table Tennis,2000,Czech Republic,0,0,0,0,2,12,268,0
+Table Tennis,2000,Belarus,0,0,0,0,5,12,268,0
+Table Tennis,2000,Ukraine,0,0,0,0,1,12,268,0
+Table Tennis,2000,Greece,0,0,0,0,2,12,268,0
+Table Tennis,2000,Russia,0,0,0,0,3,12,268,0
+Table Tennis,2000,Argentina,0,0,0,0,2,12,268,0
+Table Tennis,2000,Denmark,0,0,0,0,2,12,268,0
+Table Tennis,2000,Uganda,0,0,0,0,1,12,268,0
+Table Tennis,2000,Luxembourg,0,0,0,0,2,12,268,0
+Table Tennis,2000,Venezuela,0,0,0,0,2,12,268,0
+Table Tennis,2000,Mauritius,0,0,0,0,1,12,268,0
+Table Tennis,2000,Belgium,0,0,0,0,2,12,268,0
+Table Tennis,2000,Turkmenistan,0,0,0,0,1,12,268,0
+Table Tennis,2000,Great Britain,0,0,0,0,1,12,268,0
+Table Tennis,2004,India,0,0,0,0,2,12,260,0
+Table Tennis,2004,Iran,0,0,0,0,1,12,260,0
+Table Tennis,2004,Nigeria,0,0,0,0,12,12,260,0
+Table Tennis,2004,Saudi Arabia,0,0,0,0,1,12,260,0
+Table Tennis,2004,Japan,0,0,0,0,10,12,260,0
+Table Tennis,2004,Congo (Kinshasa),0,0,0,0,2,12,260,0
+Table Tennis,2004,Romania,0,0,0,0,4,12,260,0
+Table Tennis,2004,United States,0,0,0,0,10,12,260,0
+Table Tennis,2004,Hungary,0,0,0,0,3,12,260,0
+Table Tennis,2004,Tunisia,0,0,0,0,2,12,260,0
+Table Tennis,2004,Poland,0,0,0,0,2,12,260,0
+Table Tennis,2004,Germany,0,0,0,0,10,12,260,0
+Table Tennis,2004,Croatia,0,0,0,0,3,12,260,0
+Table Tennis,2004,Algeria,0,0,0,0,5,12,260,0
+Table Tennis,2004,Australia,0,0,0,0,9,12,260,0
+Table Tennis,2004,Canada,0,0,0,0,4,12,260,0
+Table Tennis,2004,China,3,1,2,6,14,12,260,0
+Table Tennis,2004,Austria,0,0,0,0,4,12,260,0
+Table Tennis,2004,Hong Kong,0,1,0,1,14,12,260,0
+Table Tennis,2004,Chinese Taipei,0,0,0,0,4,12,260,0
+Table Tennis,2004,France,0,0,0,0,1,12,260,0
+Table Tennis,2004,Brazil,0,0,0,0,5,12,260,0
+Table Tennis,2004,Vietnam,0,0,0,0,1,12,260,0
+Table Tennis,2004,Serbia and Montenegro,0,0,0,0,3,12,260,0
+Table Tennis,2004,Peru,0,0,0,0,1,12,260,0
+Table Tennis,2004,Russia,0,0,0,0,8,12,260,0
+Table Tennis,2004,Greece,0,0,0,0,4,12,260,1
+Table Tennis,2004,Argentina,0,0,0,0,3,12,260,0
+Table Tennis,2004,Senegal,0,0,0,0,1,12,260,0
+Table Tennis,2004,Spain,0,0,0,0,1,12,260,0
+Table Tennis,2004,Netherlands,0,0,0,0,2,12,260,0
+Table Tennis,2004,Uzbekistan,0,0,0,0,1,12,260,0
+Table Tennis,2004,Singapore,0,0,0,0,7,12,260,0
+Table Tennis,2004,South Korea,1,1,1,3,14,12,260,0
+Table Tennis,2004,Sweden,0,0,0,0,3,12,260,0
+Table Tennis,2004,North Korea,0,1,0,1,4,12,260,0
+Table Tennis,2004,Thailand,0,0,0,0,1,12,260,0
+Table Tennis,2004,Czech Republic,0,0,0,0,4,12,260,0
+Table Tennis,2004,Belarus,0,0,0,0,5,12,260,0
+Table Tennis,2004,Israel,0,0,0,0,1,12,260,0
+Table Tennis,2004,New Zealand,0,0,0,0,2,12,260,0
+Table Tennis,2004,Dominican Republic,0,0,0,0,2,12,260,0
+Table Tennis,2004,Denmark,0,0,1,1,2,12,260,0
+Table Tennis,2004,Honduras,0,0,0,0,1,12,260,0
+Table Tennis,2004,Bosnia and Herzegovina,0,0,0,0,1,12,260,0
+Table Tennis,2004,Italy,0,0,0,0,5,12,260,0
+Table Tennis,2004,Chile,0,0,0,0,4,12,260,0
+Table Tennis,2004,Venezuela,0,0,0,0,2,12,260,0
+Table Tennis,2004,Belgium,0,0,0,0,1,12,260,0
+Table Tennis,2004,Jordan,0,0,0,0,1,12,260,0
+Tennis,1896,Greece,0,2,1,3,13,6,23,0
+Tennis,1896,Great Britain,1,0,0,1,2,6,23,0
+Tennis,1896,Great Britain/Germany,1,0,0,1,2,6,23,0
+Tennis,1896,France,0,0,0,0,1,6,23,0
+Tennis,1896,Australia,0,0,0,0,1,6,23,0
+Tennis,1896,Australia/Great Britain,0,0,1,1,2,6,23,0
+Tennis,1896,Hungary,0,0,1,1,1,6,23,0
+Tennis,1896,Germany,0,0,0,0,1,6,23,0
+Tennis,1900,Great Britain,4,1,2,7,10,12,47,0
+Tennis,1900,United States,0,0,1,1,5,12,47,0
+Tennis,1900,United States/France,0,1,0,1,2,12,47,0
+Tennis,1900,France,0,1,1,2,17,12,47,1
+Tennis,1900,United States/Great Britain,0,0,1,1,4,12,47,0
+Tennis,1900,France/Great Britain,0,1,0,1,2,12,47,0
+Tennis,1900,Bohemia,0,0,1,1,1,12,47,0
+Tennis,1900,Bohemia/Great Britain,0,0,1,1,2,12,47,0
+Tennis,1904,United States,2,2,3,7,54,6,57,1
+Tennis,1904,Germany/United States,0,0,0,0,2,6,57,0
+Tennis,1904,Germany,0,0,0,0,1,6,57,0
+Tennis,1906,Greece,1,3,2,6,25,12,48,0
+Tennis,1906,Netherlands,0,0,0,0,3,12,48,0
+Tennis,1906,United States,0,0,0,0,2,12,48,0
+Tennis,1906,France,3,1,0,4,4,12,48,0
+Tennis,1906,Hungary,0,0,0,0,1,12,48,0
+Tennis,1906,Bohemia,0,0,2,2,3,12,48,0
+Tennis,1908,Sweden,0,0,2,2,4,18,84,0
+Tennis,1908,Great Britain,6,5,4,15,33,18,84,0
+Tennis,1908,Canada,0,0,0,0,3,18,84,0
+Tennis,1908,Germany,0,1,0,1,9,18,84,0
+Tennis,1908,South Africa,0,0,0,0,3,18,84,0
+Tennis,1908,France,0,0,0,0,1,18,84,0
+Tennis,1908,Bohemia,0,0,0,0,4,18,84,0
+Tennis,1908,Austria,0,0,0,0,3,18,84,0
+Tennis,1908,Hungary,0,0,0,0,3,18,84,0
+Tennis,1908,Netherlands,0,0,0,0,2,18,84,0
+Volleyball,1964,Russia,1,1,0,2,23,6,179,0
+Volleyball,1964,Romania,0,0,0,0,21,6,179,0
+Volleyball,1964,Hungary,0,0,0,0,11,6,179,0
+Volleyball,1964,Brazil,0,0,0,0,10,6,179,0
+Volleyball,1964,Bulgaria,0,0,0,0,12,6,179,0
+Volleyball,1964,United States,0,0,0,0,24,6,179,0
+Volleyball,1964,South Korea,0,0,0,0,24,6,179,0
+Volleyball,1964,Netherlands,0,0,0,0,12,6,179,0
+Volleyball,1964,Czech Republic,0,1,0,1,11,6,179,0
+Volleyball,1964,Poland,0,0,1,1,10,6,179,0
+Volleyball,1964,Japan,1,0,1,2,21,6,179,1
+Volleyball,1968,Mexico,0,0,0,0,24,6,206,1
+Volleyball,1968,Bulgaria,0,0,0,0,12,6,206,0
+Volleyball,1968,United States,0,0,0,0,24,6,206,0
+Volleyball,1968,Poland,0,0,1,1,24,6,206,0
+Volleyball,1968,South Korea,0,0,0,0,10,6,206,0
+Volleyball,1968,Russia,2,0,0,2,23,6,206,0
+Volleyball,1968,Peru,0,0,0,0,9,6,206,0
+Volleyball,1968,Czech Republic,0,0,1,1,24,6,206,0
+Volleyball,1968,Brazil,0,0,0,0,12,6,206,0
+Volleyball,1968,Belgium,0,0,0,0,12,6,206,0
+Volleyball,1968,Germany,0,0,0,0,12,6,206,0
+Volleyball,1968,Japan,0,2,0,2,20,6,206,0
+Volleyball,1972,Brazil,0,0,0,0,12,6,231,0
+Volleyball,1972,Poland,0,0,0,0,12,6,231,0
+Volleyball,1972,Romania,0,0,0,0,11,6,231,0
+Volleyball,1972,Hungary,0,0,0,0,12,6,231,0
+Volleyball,1972,Cuba,0,0,0,0,24,6,231,0
+Volleyball,1972,Tunisia,0,0,0,0,11,6,231,0
+Volleyball,1972,Russia,1,0,1,2,24,6,231,0
+Volleyball,1972,Germany,0,1,0,1,35,6,231,1
+Volleyball,1972,South Korea,0,0,0,0,19,6,231,0
+Volleyball,1972,Bulgaria,0,0,0,0,12,6,231,0
+Volleyball,1972,Japan,1,1,0,2,24,6,231,0
+Volleyball,1972,Czech Republic,0,0,0,0,24,6,231,0
+Volleyball,1972,North Korea,0,0,1,1,11,6,231,0
+Volleyball,1976,Brazil,0,0,0,0,12,6,216,0
+Volleyball,1976,Egypt,0,0,0,0,12,6,216,0
+Volleyball,1976,Canada,0,0,0,0,24,6,216,1
+Volleyball,1976,Japan,1,0,0,1,24,6,216,0
+Volleyball,1976,South Korea,0,0,1,1,24,6,216,0
+Volleyball,1976,Germany,0,0,0,0,12,6,216,0
+Volleyball,1976,Hungary,0,0,0,0,12,6,216,0
+Volleyball,1976,Cuba,0,0,1,1,24,6,216,0
+Volleyball,1976,Poland,1,0,0,1,12,6,216,0
+Volleyball,1976,Russia,0,2,0,2,24,6,216,0
+Volleyball,1976,Peru,0,0,0,0,12,6,216,0
+Volleyball,1976,Italy,0,0,0,0,12,6,216,0
+Volleyball,1976,Czech Republic,0,0,0,0,12,6,216,0
+Volleyball,1980,Russia,2,0,0,2,23,6,204,0
+Volleyball,1980,Brazil,0,0,0,0,24,6,204,0
+Volleyball,1980,Cuba,0,0,0,0,23,6,204,0
+Volleyball,1980,Bulgaria,0,1,1,2,22,6,204,0
+Volleyball,1980,Libya,0,0,0,0,9,6,204,0
+Volleyball,1980,Romania,0,0,1,1,22,6,204,0
+Volleyball,1980,Hungary,0,0,0,0,12,6,204,0
+Volleyball,1980,Italy,0,0,0,0,12,6,204,0
+Volleyball,1980,Serbia,0,0,0,0,12,6,204,0
+Volleyball,1980,Poland,0,0,0,0,11,6,204,0
+Volleyball,1980,Germany,0,1,0,1,12,6,204,0
+Volleyball,1980,Peru,0,0,0,0,10,6,204,0
+Volleyball,1980,Czech Republic,0,0,0,0,12,6,204,0
+Water Polo,1900,Germany,0,0,0,0,7,3,53,0
+Water Polo,1900,Tritons Lillois,0,0,0,0,7,3,53,0
+Water Polo,1900,Libellule de Paris,0,0,1,1,7,3,53,0
+Water Polo,1900,Pupilles de Neptune de Lille #2,0,0,1,1,8,3,53,0
+Water Polo,1900,"Osborne Swimming Club, Manchester",1,0,0,1,7,3,53,0
+Water Polo,1900,Brussels Swimming and Water Polo Club,0,1,0,1,10,3,53,0
+Water Polo,1900,Pupilles de Neptune de Lille #1,0,0,0,0,7,3,53,0
+Water Polo,1904,Chicago Athletic Association,0,1,0,1,7,3,21,0
+Water Polo,1904,New York Athletic Club,1,0,0,1,7,3,21,0
+Water Polo,1904,Missouri Athletic Club,0,0,1,1,7,3,21,0
+Water Polo,1908,Sweden,0,0,1,1,7,3,28,0
+Water Polo,1908,Netherlands,0,0,0,0,7,3,28,0
+Water Polo,1908,Belgium,0,1,0,1,7,3,28,0
+Water Polo,1908,Great Britain,1,0,0,1,7,3,28,0
+Water Polo,1912,Hungary,0,0,0,0,7,3,45,0
+Water Polo,1912,Sweden,0,1,0,1,7,3,45,1
+Water Polo,1912,Great Britain,1,0,0,1,7,3,45,0
+Water Polo,1912,France,0,0,0,0,8,3,45,0
+Water Polo,1912,Belgium,0,0,1,1,9,3,45,0
+Water Polo,1912,Austria,0,0,0,0,7,3,45,0
+Water Polo,1920,Brazil,0,0,0,0,8,3,101,0
+Water Polo,1920,Sweden,0,0,1,1,10,3,101,0
+Water Polo,1920,Spain,0,0,0,0,8,3,101,0
+Water Polo,1920,Greece,0,0,0,0,9,3,101,0
+Water Polo,1920,Belgium,0,1,0,1,8,3,101,1
+Water Polo,1920,Italy,0,0,0,0,8,3,101,0
+Water Polo,1920,Switzerland,0,0,0,0,7,3,101,0
+Water Polo,1920,Netherlands,0,0,0,0,9,3,101,0
+Water Polo,1920,United States,0,0,0,0,12,3,101,0
+Water Polo,1920,Great Britain,1,0,0,1,7,3,101,0
+Water Polo,1920,Czech Republic,0,0,0,0,8,3,101,0
+Water Polo,1920,France,0,0,0,0,7,3,101,0
+Archery,1900,France,4,5,4,13,13,24,32,1
+Archery,1900,Belgium,3,3,1,7,4,24,32,0
+Archery,1900,Netherlands,0,0,0,0,6,24,32,0
+Archery,1904,United States,4,4,4,12,29,18,70,1
+Archery,1904,Chicago Archers,0,0,0,0,4,18,70,0
+Archery,1904,Boston Archers,0,0,1,1,4,18,70,0
+Archery,1904,Cincinnati Archers,1,1,0,2,8,18,70,0
+Archery,1904,Potomac Archers,1,0,0,1,4,18,70,0
+Archery,1908,Great Britain,2,2,1,5,41,9,77,0
+Archery,1908,France,1,1,1,3,15,9,77,0
+Archery,1908,United States,0,0,1,1,1,9,77,0
+Archery,1920,Belgium,8,4,2,14,14,30,86,1
+Archery,1920,France,1,4,1,6,8,30,86,0
+Archery,1920,Netherlands,1,0,0,1,8,30,86,0
+Archery,1972,Japan,0,0,0,0,4,6,95,0
+Archery,1972,Norway,0,0,0,0,4,6,95,0
+Archery,1972,Philippines,0,0,0,0,3,6,95,0
+Archery,1972,Indonesia,0,0,0,0,1,6,95,0
+Archery,1972,Mexico,0,0,0,0,6,6,95,0
+Archery,1972,Denmark,0,0,0,0,4,6,95,0
+Archery,1972,Belgium,0,0,0,0,3,6,95,0
+Archery,1972,Luxembourg,0,0,0,0,2,6,95,0
+Archery,1972,United States,2,0,0,2,6,6,95,0
+Archery,1972,Sweden,0,1,0,1,5,6,95,0
+Archery,1972,Great Britain,0,0,0,0,6,6,95,0
+Archery,1972,Germany,0,0,0,0,4,6,95,1
+Archery,1972,France,0,0,0,0,5,6,95,0
+Archery,1972,Mongolia,0,0,0,0,3,6,95,0
+Archery,1972,Australia,0,0,0,0,3,6,95,0
+Archery,1972,Canada,0,0,0,0,6,6,95,0
+Archery,1972,Italy,0,0,0,0,3,6,95,0
+Archery,1972,Russia,0,0,1,1,6,6,95,0
+Archery,1972,Hungary,0,0,0,0,2,6,95,0
+Archery,1972,Switzerland,0,0,0,0,4,6,95,0
+Archery,1972,North Korea,0,0,0,0,3,6,95,0
+Archery,1972,Finland,0,0,1,1,3,6,95,0
+Archery,1972,Poland,0,1,0,1,4,6,95,0
+Archery,1972,Spain,0,0,0,0,2,6,95,0
+Archery,1972,New Zealand,0,0,0,0,1,6,95,0
+Archery,1972,Chinese Taipei,0,0,0,0,1,6,95,0
+Archery,1972,Puerto Rico,0,0,0,0,1,6,95,0
 Taekwondo,2000,Egypt,0,0,0,0,3,24,102,0
 Taekwondo,2000,Germany,0,1,0,1,3,24,102,0
 Taekwondo,2000,Iran,0,0,1,1,2,24,102,0
@@ -1571,769 +2341,191 @@ Taekwondo,2016,Cambodia,0,0,0,0,1,24,126,0
 Taekwondo,2016,Turkey,0,0,1,1,2,24,126,0
 Taekwondo,2016,Tonga,0,0,0,0,1,24,126,0
 Taekwondo,2016,Puerto Rico,0,0,0,0,1,24,126,0
-Cycling,1896,Greece,1,3,0,4,9,18,41,0
-Cycling,1896,Great Britain,0,1,1,2,2,18,41,0
-Cycling,1896,France,4,1,1,6,2,18,41,0
-Cycling,1896,Germany,0,1,0,1,5,18,41,0
-Cycling,1896,Austria,1,0,2,3,1,18,41,0
-Cycling,1900,France,2,1,2,5,58,9,92,1
-Cycling,1900,Italy,1,0,0,1,7,9,92,0
-Cycling,1900,Germany,0,1,0,1,3,9,92,0
-Cycling,1900,Great Britain,0,1,0,1,1,9,92,0
-Cycling,1900,Bohemia,0,0,0,0,1,9,92,0
-Cycling,1900,United States,0,0,1,1,1,9,92,0
-Cycling,1900,Belgium,0,0,0,0,1,9,92,0
-Cycling,1904,United States,7,7,7,21,17,21,61,1
-Cycling,1904,Italy,0,0,0,0,1,21,61,0
-Cycling,1906,Greece,0,0,0,0,10,18,138,0
-Cycling,1906,Denmark,0,0,0,0,1,18,138,0
-Cycling,1906,Germany,0,1,1,2,8,18,138,0
-Cycling,1906,France,1,2,4,7,7,18,138,0
-Cycling,1906,Great Britain,2,3,0,5,5,18,138,0
-Cycling,1906,Egypt,0,0,0,0,1,18,138,0
-Cycling,1906,Belgium,0,0,1,1,3,18,138,0
-Cycling,1906,Italy,3,0,0,3,3,18,138,0
-Cycling,1906,Sweden,0,0,0,0,1,18,138,0
-Cycling,1906,Austria,0,0,0,0,4,18,138,0
-Cycling,1906,Switzerland,0,0,0,0,2,18,138,0
-Cycling,1908,Great Britain,5,3,1,9,36,18,269,0
-Cycling,1908,Canada,0,0,1,1,5,18,269,0
-Cycling,1908,France,1,2,2,5,23,18,269,0
-Cycling,1908,Germany,0,1,1,2,9,18,269,0
-Cycling,1908,Netherlands,0,0,0,0,5,18,269,0
-Cycling,1908,United States,0,0,0,0,2,18,269,0
-Cycling,1908,Belgium,0,0,1,1,6,18,269,0
-Cycling,1908,South Africa,0,0,0,0,4,18,269,0
-Cycling,1908,Sweden,0,0,0,0,2,18,269,0
-Cycling,1908,Italy,0,0,0,0,4,18,269,0
-Cycling,1908,Greece,0,0,0,0,1,18,269,0
-Archery,1900,France,4,5,4,13,13,24,32,1
-Archery,1900,Belgium,3,3,1,7,4,24,32,0
-Archery,1900,Netherlands,0,0,0,0,6,24,32,0
-Archery,1904,United States,4,4,4,12,29,18,70,1
-Archery,1904,Chicago Archers,0,0,0,0,4,18,70,0
-Archery,1904,Boston Archers,0,0,1,1,4,18,70,0
-Archery,1904,Cincinnati Archers,1,1,0,2,8,18,70,0
-Archery,1904,Potomac Archers,1,0,0,1,4,18,70,0
-Archery,1908,Great Britain,2,2,1,5,41,9,77,0
-Archery,1908,France,1,1,1,3,15,9,77,0
-Archery,1908,United States,0,0,1,1,1,9,77,0
-Archery,1920,Belgium,8,4,2,14,14,30,86,1
-Archery,1920,France,1,4,1,6,8,30,86,0
-Archery,1920,Netherlands,1,0,0,1,8,30,86,0
-Archery,1972,Japan,0,0,0,0,4,6,95,0
-Archery,1972,Norway,0,0,0,0,4,6,95,0
-Archery,1972,Philippines,0,0,0,0,3,6,95,0
-Archery,1972,Indonesia,0,0,0,0,1,6,95,0
-Archery,1972,Mexico,0,0,0,0,6,6,95,0
-Archery,1972,Denmark,0,0,0,0,4,6,95,0
-Archery,1972,Belgium,0,0,0,0,3,6,95,0
-Archery,1972,Luxembourg,0,0,0,0,2,6,95,0
-Archery,1972,United States,2,0,0,2,6,6,95,0
-Archery,1972,Sweden,0,1,0,1,5,6,95,0
-Archery,1972,Great Britain,0,0,0,0,6,6,95,0
-Archery,1972,Germany,0,0,0,0,4,6,95,1
-Archery,1972,France,0,0,0,0,5,6,95,0
-Archery,1972,Mongolia,0,0,0,0,3,6,95,0
-Archery,1972,Australia,0,0,0,0,3,6,95,0
-Archery,1972,Canada,0,0,0,0,6,6,95,0
-Archery,1972,Italy,0,0,0,0,3,6,95,0
-Archery,1972,Soviet Union,0,0,1,1,6,6,95,0
-Archery,1972,Hungary,0,0,0,0,2,6,95,0
-Archery,1972,Switzerland,0,0,0,0,4,6,95,0
-Archery,1972,North Korea,0,0,0,0,3,6,95,0
-Archery,1972,Finland,0,0,1,1,3,6,95,0
-Archery,1972,Poland,0,1,0,1,4,6,95,0
-Archery,1972,Spain,0,0,0,0,2,6,95,0
-Archery,1972,New Zealand,0,0,0,0,1,6,95,0
-Archery,1972,Chinese Taipei,0,0,0,0,1,6,95,0
-Archery,1972,Puerto Rico,0,0,0,0,1,6,95,0
-Shooting,1896,Greece,3,3,3,9,27,15,65,0
-Shooting,1896,Switzerland,0,0,0,0,1,15,65,0
-Shooting,1896,Denmark,0,1,2,3,3,15,65,0
-Shooting,1896,France,0,0,0,0,1,15,65,0
-Shooting,1896,Great Britain,0,0,0,0,2,15,65,0
-Shooting,1896,United States,2,1,0,3,3,15,65,0
-Shooting,1896,Italy,0,0,0,0,1,15,65,0
-Shooting,1900,France,2,2,2,6,33,24,221,1
-Shooting,1900,Belgium,0,1,2,3,11,24,221,0
-Shooting,1900,Switzerland,5,1,1,7,9,24,221,0
-Shooting,1900,Netherlands,0,0,1,1,7,24,221,0
-Shooting,1900,Norway,0,2,2,4,5,24,221,0
-Shooting,1900,Denmark,1,3,0,4,5,24,221,0
-Shooting,1900,Great Britain,0,0,0,0,1,24,221,0
-Shooting,1900,Romania,0,0,0,0,1,24,221,0
-Shooting,1906,Italy,0,1,0,1,10,36,320,0
-Shooting,1906,Norway,0,1,0,1,7,36,320,0
-Shooting,1906,Sweden,0,1,1,2,2,36,320,0
-Shooting,1906,France,4,3,5,12,7,36,320,0
-Shooting,1906,Greece,2,3,3,8,26,36,320,0
-Shooting,1906,Bohemia,0,0,0,0,1,36,320,0
-Shooting,1906,Switzerland,4,3,1,8,6,36,320,0
-Shooting,1906,Austria,0,0,0,0,2,36,320,0
-Shooting,1906,Crete,0,0,0,0,1,36,320,0
-Shooting,1906,Great Britain,2,0,2,4,2,36,320,0
-Shooting,1906,Hungary,0,0,0,0,2,36,320,0
-Shooting,1906,Belgium,0,0,0,0,1,36,320,0
-Shooting,1908,Great Britain,6,7,8,21,78,45,444,0
-Shooting,1908,Denmark,0,0,0,0,10,45,444,0
-Shooting,1908,France,0,0,2,2,20,45,444,0
-Shooting,1908,Sweden,2,2,1,5,18,45,444,0
-Shooting,1908,United States,3,2,1,6,17,45,444,0
-Shooting,1908,Canada,1,2,1,4,22,45,444,0
-Shooting,1908,Norway,2,0,1,3,13,45,444,0
-Shooting,1908,Netherlands,0,0,0,0,17,45,444,0
-Shooting,1908,Belgium,1,2,0,3,10,45,444,0
-Shooting,1908,Finland,0,0,0,0,9,45,444,0
-Shooting,1908,Australasia,0,0,0,0,1,45,444,0
-Shooting,1908,Greece,0,0,1,1,7,45,444,0
-Shooting,1908,Hungary,0,0,0,0,2,45,444,0
-Shooting,1908,Germany,0,0,0,0,1,45,444,0
-Shooting,1912,United States,7,4,3,14,26,54,794,0
-Shooting,1912,Chile,0,0,0,0,2,54,794,0
-Shooting,1912,Denmark,0,1,2,3,14,54,794,0
-Shooting,1912,Sweden,7,6,4,17,61,54,794,1
-Shooting,1912,Finland,0,0,2,2,19,54,794,0
-Shooting,1912,Russia,0,1,1,2,26,54,794,0
-Shooting,1912,Austria,0,0,0,0,7,54,794,0
-Shooting,1912,Norway,0,1,1,2,28,54,794,0
-Shooting,1912,Great Britain,1,4,4,9,38,54,794,0
-Shooting,1912,Germany,0,1,1,2,11,54,794,0
-Shooting,1912,South Africa,0,0,0,0,8,54,794,0
-Shooting,1912,Hungary,1,0,0,1,10,54,794,0
-Shooting,1912,France,2,0,0,2,19,54,794,0
-Shooting,1912,Canada,0,0,0,0,3,54,794,0
-Shooting,1912,Netherlands,0,0,0,0,1,54,794,0
-Shooting,1912,Greece,0,0,0,0,9,54,794,0
-Football,1900,USFSA,0,1,0,1,13,3,35,0
-Football,1900,Upton Park FC,1,0,0,1,11,3,35,0
-Football,1900,Univ. of Brussels,0,0,1,1,11,3,35,0
-Football,1904,Christian Brothers' College,0,1,0,1,11,3,36,0
-Football,1904,St. Rose,0,0,1,1,12,3,36,0
-Football,1904,Galt Football Club,1,0,0,1,13,3,36,0
-Football,1906,Thessalonki,0,0,1,1,11,3,45,0
-Football,1906,Denmark,1,0,0,1,12,3,45,0
-Football,1906,Athens,0,0,0,0,11,3,45,0
-Football,1906,Smyrna,0,1,0,1,11,3,45,0
-Football,1908,France,0,0,0,0,22,3,72,0
-Football,1908,Sweden,0,0,0,0,14,3,72,0
-Football,1908,Denmark,0,1,0,1,13,3,72,0
-Football,1908,Great Britain,1,0,0,1,11,3,72,0
-Football,1908,Netherlands,0,0,1,1,12,3,72,0
-Football,1912,Russia,0,0,0,0,15,3,163,0
-Football,1912,Norway,0,0,0,0,12,3,163,0
-Football,1912,Sweden,0,0,0,0,14,3,163,1
-Football,1912,Italy,0,0,0,0,14,3,163,0
-Football,1912,Great Britain,1,0,0,1,14,3,163,0
-Football,1912,Denmark,0,1,0,1,15,3,163,0
-Football,1912,Hungary,0,0,0,0,14,3,163,0
-Football,1912,Austria,0,0,0,0,15,3,163,0
-Football,1912,Germany,0,0,0,0,22,3,163,0
-Football,1912,Netherlands,0,0,1,1,15,3,163,0
-Football,1912,Finland,0,0,0,0,13,3,163,0
-Table Tennis,1988,Nigeria,0,0,0,0,8,12,206,0
-Table Tennis,1988,Jordan,0,0,0,0,1,12,206,0
-Table Tennis,1988,Dominican Republic,0,0,0,0,3,12,206,0
-Table Tennis,1988,Iraq,0,0,0,0,1,12,206,0
-Table Tennis,1988,South Korea,2,1,1,4,10,12,206,1
-Table Tennis,1988,Great Britain,0,0,0,0,7,12,206,0
-Table Tennis,1988,Sweden,0,0,1,1,7,12,206,0
-Table Tennis,1988,Austria,0,0,0,0,2,12,206,0
-Table Tennis,1988,Hungary,0,0,0,0,5,12,206,0
-Table Tennis,1988,Tunisia,0,0,0,0,4,12,206,0
-Table Tennis,1988,United States,0,0,0,0,3,12,206,0
-Table Tennis,1988,France,0,0,0,0,2,12,206,0
-Table Tennis,1988,Australia,0,0,0,0,3,12,206,0
-Table Tennis,1988,Belgium,0,0,0,0,2,12,206,0
-Table Tennis,1988,Germany,0,0,0,0,6,12,206,0
-Table Tennis,1988,Soviet Union,0,0,0,0,5,12,206,0
-Table Tennis,1988,Hong Kong,0,0,0,0,9,12,206,0
-Table Tennis,1988,Chinese Taipei,0,0,0,0,9,12,206,0
-Table Tennis,1988,China,2,2,1,5,10,12,206,0
-Table Tennis,1988,Mauritius,0,0,0,0,2,12,206,0
-Table Tennis,1988,Italy,0,0,0,0,1,12,206,0
-Table Tennis,1988,Chile,0,0,0,0,3,12,206,0
-Table Tennis,1988,Canada,0,0,0,0,3,12,206,0
-Table Tennis,1988,Bulgaria,0,0,0,0,2,12,206,0
-Table Tennis,1988,Egypt,0,0,0,0,3,12,206,0
-Table Tennis,1988,Serbia,0,1,1,2,5,12,206,0
-Table Tennis,1988,India,0,0,0,0,3,12,206,0
-Table Tennis,1988,New Zealand,0,0,0,0,2,12,206,0
-Table Tennis,1988,Poland,0,0,0,0,3,12,206,0
-Table Tennis,1988,Netherlands,0,0,0,0,2,12,206,0
-Table Tennis,1988,Japan,0,0,0,0,10,12,206,0
-Table Tennis,1988,Czech Republic,0,0,0,0,4,12,206,0
-Table Tennis,1988,Jamaica,0,0,0,0,1,12,206,0
-Table Tennis,1988,Brazil,0,0,0,0,2,12,206,0
-Table Tennis,1988,Argentina,0,0,0,0,1,12,206,0
-Table Tennis,1988,Malaysia,0,0,0,0,2,12,206,0
-Table Tennis,1988,Peru,0,0,0,0,1,12,206,0
-Table Tennis,1988,Venezuela,0,0,0,0,2,12,206,0
-Table Tennis,1988,Indonesia,0,0,0,0,1,12,206,0
-Table Tennis,1988,Ghana,0,0,0,0,1,12,206,0
-Table Tennis,1988,Pakistan,0,0,0,0,1,12,206,0
-Table Tennis,1992,Jordan,0,0,0,0,1,12,248,0
-Table Tennis,1992,Iran,0,0,0,0,1,12,248,0
-Table Tennis,1992,Ghana,0,0,0,0,2,12,248,0
-Table Tennis,1992,Austria,0,0,0,0,2,12,248,0
-Table Tennis,1992,Sweden,1,0,0,1,9,12,248,0
-Table Tennis,1992,Cuba,0,0,0,0,4,12,248,0
-Table Tennis,1992,Italy,0,0,0,0,1,12,248,0
-Table Tennis,1992,India,0,0,0,0,4,12,248,0
-Table Tennis,1992,Romania,0,0,0,0,6,12,248,0
-Table Tennis,1992,Nigeria,0,0,0,0,9,12,248,0
-Table Tennis,1992,Hungary,0,0,0,0,1,12,248,0
-Table Tennis,1992,Tunisia,0,0,0,0,3,12,248,0
-Table Tennis,1992,United States,0,0,0,0,5,12,248,0
-Table Tennis,1992,South Africa,0,0,0,0,2,12,248,0
-Table Tennis,1992,New Zealand,0,0,0,0,3,12,248,0
-Table Tennis,1992,Ecuador,0,0,0,0,1,12,248,0
-Table Tennis,1992,Spain,0,0,0,0,4,12,248,1
-Table Tennis,1992,Hong Kong,0,0,0,0,4,12,248,0
-Table Tennis,1992,France,0,1,0,1,8,12,248,0
-Table Tennis,1992,China,3,2,1,6,14,12,248,0
-Table Tennis,1992,Canada,0,0,0,0,2,12,248,0
-Table Tennis,1992,North Korea,0,0,2,2,14,12,248,0
-Table Tennis,1992,Great Britain,0,0,0,0,6,12,248,0
-Table Tennis,1992,Brazil,0,0,0,0,4,12,248,0
-Table Tennis,1992,Libya,0,0,0,0,1,12,248,0
-Table Tennis,1992,Individual Olympic Athletes,0,0,0,0,5,12,248,0
-Table Tennis,1992,Germany,0,1,0,1,5,12,248,0
-Table Tennis,1992,Slovenia,0,0,0,0,1,12,248,0
-Table Tennis,1992,Argentina,0,0,0,0,2,12,248,0
-Table Tennis,1992,South Korea,0,0,5,5,14,12,248,0
-Table Tennis,1992,Bulgaria,0,0,0,0,1,12,248,0
-Table Tennis,1992,Peru,0,0,0,0,4,12,248,0
-Table Tennis,1992,Poland,0,0,0,0,3,12,248,0
-Table Tennis,1992,Netherlands,0,0,0,0,3,12,248,0
-Table Tennis,1992,Saudi Arabia,0,0,0,0,1,12,248,0
-Table Tennis,1992,Egypt,0,0,0,0,2,12,248,0
-Table Tennis,1992,Japan,0,0,0,0,14,12,248,0
-Table Tennis,1992,Czech Republic,0,0,0,0,5,12,248,0
-Table Tennis,1992,Jamaica,0,0,0,0,1,12,248,0
-Table Tennis,1992,Australia,0,0,0,0,2,12,248,0
-Table Tennis,1992,Morocco,0,0,0,0,1,12,248,0
-Table Tennis,1992,Unified Team,0,0,0,0,9,12,248,0
-Table Tennis,1992,Indonesia,0,0,0,0,3,12,248,0
-Table Tennis,1992,Uganda,0,0,0,0,1,12,248,0
-Table Tennis,1992,Chile,0,0,0,0,3,12,248,0
-Table Tennis,1992,Croatia,0,0,0,0,2,12,248,0
-Table Tennis,1992,Belgium,0,0,0,0,2,12,248,0
-Table Tennis,1992,Estonia,0,0,0,0,1,12,248,0
-Table Tennis,1996,Ghana,0,0,0,0,2,12,251,0
-Table Tennis,1996,Croatia,0,0,0,0,4,12,251,0
-Table Tennis,1996,Kuwait,0,0,0,0,1,12,251,0
-Table Tennis,1996,Qatar,0,0,0,0,1,12,251,0
-Table Tennis,1996,Dominican Republic,0,0,0,0,1,12,251,0
-Table Tennis,1996,Italy,0,0,0,0,3,12,251,0
-Table Tennis,1996,India,0,0,0,0,2,12,251,0
-Table Tennis,1996,Romania,0,0,0,0,5,12,251,0
-Table Tennis,1996,Chinese Taipei,0,1,0,1,9,12,251,0
-Table Tennis,1996,Hungary,0,0,0,0,4,12,251,0
-Table Tennis,1996,Poland,0,0,0,0,2,12,251,0
-Table Tennis,1996,United States,0,0,0,0,6,12,251,1
-Table Tennis,1996,Canada,0,0,0,0,5,12,251,0
-Table Tennis,1996,Hong Kong,0,0,0,0,4,12,251,0
-Table Tennis,1996,Great Britain,0,0,0,0,4,12,251,0
-Table Tennis,1996,France,0,0,0,0,8,12,251,0
-Table Tennis,1996,North Korea,0,0,0,0,10,12,251,0
-Table Tennis,1996,Lebanon,0,0,0,0,1,12,251,0
-Table Tennis,1996,China,4,3,1,8,14,12,251,0
-Table Tennis,1996,Austria,0,0,0,0,6,12,251,0
-Table Tennis,1996,Czech Republic,0,0,0,0,3,12,251,0
-Table Tennis,1996,Brazil,0,0,0,0,4,12,251,0
-Table Tennis,1996,Germany,0,0,1,1,10,12,251,0
-Table Tennis,1996,South Korea,0,0,2,2,14,12,251,0
-Table Tennis,1996,Lithuania,0,0,0,0,1,12,251,0
-Table Tennis,1996,Peru,0,0,0,0,2,12,251,0
-Table Tennis,1996,Serbia and Montenegro,0,0,0,0,3,12,251,0
-Table Tennis,1996,Netherlands,0,0,0,0,9,12,251,0
-Table Tennis,1996,Bosnia and Herzegovina,0,0,0,0,1,12,251,0
-Table Tennis,1996,Jamaica,0,0,0,0,2,12,251,0
-Table Tennis,1996,Singapore,0,0,0,0,1,12,251,0
-Table Tennis,1996,Nigeria,0,0,0,0,4,12,251,0
-Table Tennis,1996,Sweden,0,0,0,0,10,12,251,0
-Table Tennis,1996,Japan,0,0,0,0,14,12,251,0
-Table Tennis,1996,Greece,0,0,0,0,2,12,251,0
-Table Tennis,1996,Uganda,0,0,0,0,3,12,251,0
-Table Tennis,1996,Australia,0,0,0,0,5,12,251,0
-Table Tennis,1996,New Zealand,0,0,0,0,1,12,251,0
-Table Tennis,1996,Russia,0,0,0,0,4,12,251,0
-Table Tennis,1996,Chile,0,0,0,0,4,12,251,0
-Table Tennis,1996,Mexico,0,0,0,0,1,12,251,0
-Table Tennis,1996,Sudan,0,0,0,0,1,12,251,0
-Table Tennis,1996,Slovakia,0,0,0,0,1,12,251,0
-Table Tennis,1996,Indonesia,0,0,0,0,2,12,251,0
-Table Tennis,1996,Venezuela,0,0,0,0,1,12,251,0
-Table Tennis,1996,Belgium,0,0,0,0,2,12,251,0
-Table Tennis,1996,Belarus,0,0,0,0,2,12,251,0
-Table Tennis,1996,Trinidad and Tobago,0,0,0,0,1,12,251,0
-Table Tennis,1996,Turkmenistan,0,0,0,0,1,12,251,0
-Table Tennis,1996,Tunisia,0,0,0,0,1,12,251,0
-Table Tennis,1996,Switzerland,0,0,0,0,1,12,251,0
-Table Tennis,2000,Egypt,0,0,0,0,5,12,268,0
-Table Tennis,2000,Croatia,0,0,0,0,4,12,268,0
-Table Tennis,2000,Nigeria,0,0,0,0,9,12,268,0
-Table Tennis,2000,Qatar,0,0,0,0,1,12,268,0
-Table Tennis,2000,Jordan,0,0,0,0,1,12,268,0
-Table Tennis,2000,Cuba,0,0,0,0,5,12,268,0
-Table Tennis,2000,India,0,0,0,0,3,12,268,0
-Table Tennis,2000,Romania,0,0,0,0,3,12,268,0
-Table Tennis,2000,United States,0,0,0,0,13,12,268,0
-Table Tennis,2000,Hungary,0,0,0,0,3,12,268,0
-Table Tennis,2000,Poland,0,0,0,0,2,12,268,0
-Table Tennis,2000,France,0,0,1,1,8,12,268,0
-Table Tennis,2000,Germany,0,0,0,0,10,12,268,0
-Table Tennis,2000,Chinese Taipei,0,0,1,1,9,12,268,0
-Table Tennis,2000,Hong Kong,0,0,0,0,4,12,268,0
-Table Tennis,2000,Australia,0,0,0,0,14,12,268,1
-Table Tennis,2000,Brazil,0,0,0,0,3,12,268,0
-Table Tennis,2000,Austria,0,0,0,0,5,12,268,0
-Table Tennis,2000,Iran,0,0,0,0,1,12,268,0
-Table Tennis,2000,Japan,0,0,0,0,14,12,268,0
-Table Tennis,2000,Chile,0,0,0,0,5,12,268,0
-Table Tennis,2000,Lithuania,0,0,0,0,2,12,268,0
-Table Tennis,2000,Canada,0,0,0,0,8,12,268,0
-Table Tennis,2000,Serbia and Montenegro,0,0,0,0,2,12,268,0
-Table Tennis,2000,Sweden,0,1,0,1,9,12,268,0
-Table Tennis,2000,Tunisia,0,0,0,0,1,12,268,0
-Table Tennis,2000,Indonesia,0,0,0,0,2,12,268,0
-Table Tennis,2000,Netherlands,0,0,0,0,2,12,268,0
-Table Tennis,2000,New Zealand,0,0,0,0,3,12,268,0
-Table Tennis,2000,Singapore,0,0,0,0,2,12,268,0
-Table Tennis,2000,Algeria,0,0,0,0,2,12,268,0
-Table Tennis,2000,South Korea,0,0,1,1,14,12,268,0
-Table Tennis,2000,Thailand,0,0,0,0,1,12,268,0
-Table Tennis,2000,China,4,3,1,8,14,12,268,0
-Table Tennis,2000,Czech Republic,0,0,0,0,2,12,268,0
-Table Tennis,2000,Belarus,0,0,0,0,5,12,268,0
-Table Tennis,2000,Ukraine,0,0,0,0,1,12,268,0
-Table Tennis,2000,Greece,0,0,0,0,2,12,268,0
-Table Tennis,2000,Russia,0,0,0,0,3,12,268,0
-Table Tennis,2000,Argentina,0,0,0,0,2,12,268,0
-Table Tennis,2000,Denmark,0,0,0,0,2,12,268,0
-Table Tennis,2000,Uganda,0,0,0,0,1,12,268,0
-Table Tennis,2000,Luxembourg,0,0,0,0,2,12,268,0
-Table Tennis,2000,Venezuela,0,0,0,0,2,12,268,0
-Table Tennis,2000,Mauritius,0,0,0,0,1,12,268,0
-Table Tennis,2000,Belgium,0,0,0,0,2,12,268,0
-Table Tennis,2000,Turkmenistan,0,0,0,0,1,12,268,0
-Table Tennis,2000,Great Britain,0,0,0,0,1,12,268,0
-Table Tennis,2004,India,0,0,0,0,2,12,260,0
-Table Tennis,2004,Iran,0,0,0,0,1,12,260,0
-Table Tennis,2004,Nigeria,0,0,0,0,12,12,260,0
-Table Tennis,2004,Saudi Arabia,0,0,0,0,1,12,260,0
-Table Tennis,2004,Japan,0,0,0,0,10,12,260,0
-Table Tennis,2004,Congo (Kinshasa),0,0,0,0,2,12,260,0
-Table Tennis,2004,Romania,0,0,0,0,4,12,260,0
-Table Tennis,2004,United States,0,0,0,0,10,12,260,0
-Table Tennis,2004,Hungary,0,0,0,0,3,12,260,0
-Table Tennis,2004,Tunisia,0,0,0,0,2,12,260,0
-Table Tennis,2004,Poland,0,0,0,0,2,12,260,0
-Table Tennis,2004,Germany,0,0,0,0,10,12,260,0
-Table Tennis,2004,Croatia,0,0,0,0,3,12,260,0
-Table Tennis,2004,Algeria,0,0,0,0,5,12,260,0
-Table Tennis,2004,Australia,0,0,0,0,9,12,260,0
-Table Tennis,2004,Canada,0,0,0,0,4,12,260,0
-Table Tennis,2004,China,3,1,2,6,14,12,260,0
-Table Tennis,2004,Austria,0,0,0,0,4,12,260,0
-Table Tennis,2004,Hong Kong,0,1,0,1,14,12,260,0
-Table Tennis,2004,Chinese Taipei,0,0,0,0,4,12,260,0
-Table Tennis,2004,France,0,0,0,0,1,12,260,0
-Table Tennis,2004,Brazil,0,0,0,0,5,12,260,0
-Table Tennis,2004,Vietnam,0,0,0,0,1,12,260,0
-Table Tennis,2004,Serbia and Montenegro,0,0,0,0,3,12,260,0
-Table Tennis,2004,Peru,0,0,0,0,1,12,260,0
-Table Tennis,2004,Russia,0,0,0,0,8,12,260,0
-Table Tennis,2004,Greece,0,0,0,0,4,12,260,1
-Table Tennis,2004,Argentina,0,0,0,0,3,12,260,0
-Table Tennis,2004,Senegal,0,0,0,0,1,12,260,0
-Table Tennis,2004,Spain,0,0,0,0,1,12,260,0
-Table Tennis,2004,Netherlands,0,0,0,0,2,12,260,0
-Table Tennis,2004,Uzbekistan,0,0,0,0,1,12,260,0
-Table Tennis,2004,Singapore,0,0,0,0,7,12,260,0
-Table Tennis,2004,South Korea,1,1,1,3,14,12,260,0
-Table Tennis,2004,Sweden,0,0,0,0,3,12,260,0
-Table Tennis,2004,North Korea,0,1,0,1,4,12,260,0
-Table Tennis,2004,Thailand,0,0,0,0,1,12,260,0
-Table Tennis,2004,Czech Republic,0,0,0,0,4,12,260,0
-Table Tennis,2004,Belarus,0,0,0,0,5,12,260,0
-Table Tennis,2004,Israel,0,0,0,0,1,12,260,0
-Table Tennis,2004,New Zealand,0,0,0,0,2,12,260,0
-Table Tennis,2004,Dominican Republic,0,0,0,0,2,12,260,0
-Table Tennis,2004,Denmark,0,0,1,1,2,12,260,0
-Table Tennis,2004,Honduras,0,0,0,0,1,12,260,0
-Table Tennis,2004,Bosnia and Herzegovina,0,0,0,0,1,12,260,0
-Table Tennis,2004,Italy,0,0,0,0,5,12,260,0
-Table Tennis,2004,Chile,0,0,0,0,4,12,260,0
-Table Tennis,2004,Venezuela,0,0,0,0,2,12,260,0
-Table Tennis,2004,Belgium,0,0,0,0,1,12,260,0
-Table Tennis,2004,Jordan,0,0,0,0,1,12,260,0
-Badminton,1992,Singapore,0,0,0,0,3,12,226,0
-Badminton,1992,Switzerland,0,0,0,0,2,12,226,0
-Badminton,1992,Sweden,0,0,0,0,9,12,226,0
-Badminton,1992,Unified Team,0,0,0,0,2,12,226,0
-Badminton,1992,Poland,0,0,0,0,8,12,226,0
-Badminton,1992,Romania,0,0,0,0,1,12,226,0
-Badminton,1992,South Korea,2,1,1,4,12,12,226,0
-Badminton,1992,India,0,0,0,0,3,12,226,0
-Badminton,1992,Canada,0,0,0,0,9,12,226,0
-Badminton,1992,Bulgaria,0,0,0,0,9,12,226,0
-Badminton,1992,Great Britain,0,0,0,0,12,12,226,0
-Badminton,1992,Indonesia,2,2,1,5,13,12,226,0
-Badminton,1992,Australia,0,0,0,0,2,12,226,0
-Badminton,1992,Hong Kong,0,0,0,0,5,12,226,0
-Badminton,1992,Thailand,0,0,0,0,8,12,226,0
-Badminton,1992,Malaysia,0,0,1,1,6,12,226,0
-Badminton,1992,China,0,1,3,4,13,12,226,0
-Badminton,1992,Mauritius,0,0,0,0,3,12,226,0
-Badminton,1992,Netherlands,0,0,0,0,3,12,226,0
-Badminton,1992,Hungary,0,0,0,0,3,12,226,0
-Badminton,1992,France,0,0,0,0,4,12,226,0
-Badminton,1992,Portugal,0,0,0,0,2,12,226,0
-Badminton,1992,United States,0,0,0,0,6,12,226,0
-Badminton,1992,Germany,0,0,0,0,4,12,226,0
-Badminton,1992,Austria,0,0,0,0,2,12,226,0
-Badminton,1992,New Zealand,0,0,0,0,4,12,226,0
-Badminton,1992,Iceland,0,0,0,0,3,12,226,0
-Badminton,1992,Denmark,0,0,1,1,12,12,226,0
-Badminton,1992,Finland,0,0,0,0,2,12,226,0
-Badminton,1992,Japan,0,0,0,0,14,12,226,0
-Badminton,1992,South Africa,0,0,0,0,2,12,226,0
-Badminton,1992,Czech Republic,0,0,0,0,2,12,226,0
-Badminton,1992,Spain,0,0,0,0,2,12,226,1
-Badminton,1992,Norway,0,0,0,0,1,12,226,0
-Badminton,1992,Belgium,0,0,0,0,1,12,226,0
-Badminton,1992,Sri Lanka,0,0,0,0,1,12,226,0
-Badminton,1996,Singapore,0,0,0,0,1,15,263,0
-Badminton,1996,Nigeria,0,0,0,0,2,15,263,0
-Badminton,1996,Sweden,0,0,0,0,12,15,263,0
-Badminton,1996,Russia,0,0,0,0,5,15,263,0
-Badminton,1996,Indonesia,1,1,2,4,20,15,263,0
-Badminton,1996,Great Britain,0,0,0,0,20,15,263,0
-Badminton,1996,South Korea,2,2,0,4,20,15,263,0
-Badminton,1996,Mauritius,0,0,0,0,8,15,263,0
-Badminton,1996,India,0,0,0,0,2,15,263,0
-Badminton,1996,Australia,0,0,0,0,11,15,263,0
-Badminton,1996,Suriname,0,0,0,0,1,15,263,0
-Badminton,1996,Peru,0,0,0,0,1,15,263,0
-Badminton,1996,Malaysia,0,1,1,2,7,15,263,0
-Badminton,1996,Hong Kong,0,0,0,0,3,15,263,0
-Badminton,1996,Chinese Taipei,0,0,0,0,6,15,263,0
-Badminton,1996,Thailand,0,0,0,0,7,15,263,0
-Badminton,1996,China,1,1,2,4,21,15,263,0
-Badminton,1996,Belarus,0,0,0,0,2,15,263,0
-Badminton,1996,Netherlands,0,0,0,0,5,15,263,0
-Badminton,1996,Canada,0,0,0,0,14,15,263,0
-Badminton,1996,France,0,0,0,0,2,15,263,0
-Badminton,1996,Ukraine,0,0,0,0,3,15,263,0
-Badminton,1996,Guatemala,0,0,0,0,1,15,263,0
-Badminton,1996,Denmark,1,0,0,1,20,15,263,0
-Badminton,1996,United States,0,0,0,0,3,15,263,1
-Badminton,1996,Austria,0,0,0,0,1,15,263,0
-Badminton,1996,Germany,0,0,0,0,6,15,263,0
-Badminton,1996,Finland,0,0,0,0,2,15,263,0
-Badminton,1996,New Zealand,0,0,0,0,2,15,263,0
-Badminton,1996,Bulgaria,0,0,0,0,3,15,263,0
-Badminton,1996,Poland,0,0,0,0,1,15,263,0
-Badminton,1996,Philippines,0,0,0,0,1,15,263,0
-Badminton,1996,Japan,0,0,0,0,7,15,263,0
-Badminton,1996,Iceland,0,0,0,0,1,15,263,0
-Badminton,1996,Trinidad and Tobago,0,0,0,0,1,15,263,0
-Badminton,1996,Hungary,0,0,0,0,1,15,263,0
-Badminton,1996,Switzerland,0,0,0,0,2,15,263,0
-Badminton,2000,Finland,0,0,0,0,2,15,225,0
-Badminton,2000,Indonesia,1,2,0,3,19,15,225,0
-Badminton,2000,Great Britain,0,0,1,1,14,15,225,0
-Badminton,2000,Sweden,0,0,0,0,6,15,225,0
-Badminton,2000,Australia,0,0,0,0,14,15,225,1
-Badminton,2000,Mauritius,0,0,0,0,5,15,225,0
-Badminton,2000,Canada,0,0,0,0,10,15,225,0
-Badminton,2000,Netherlands,0,0,0,0,8,15,225,0
-Badminton,2000,Chinese Taipei,0,0,0,0,5,15,225,0
-Badminton,2000,Malaysia,0,0,0,0,6,15,225,0
-Badminton,2000,China,4,1,3,8,19,15,225,0
-Badminton,2000,France,0,0,0,0,3,15,225,0
-Badminton,2000,Ukraine,0,0,0,0,3,15,225,0
-Badminton,2000,Thailand,0,0,0,0,6,15,225,0
-Badminton,2000,Denmark,0,1,0,1,20,15,225,0
-Badminton,2000,India,0,0,0,0,2,15,225,0
-Badminton,2000,Germany,0,0,0,0,8,15,225,0
-Badminton,2000,South Korea,0,1,1,2,16,15,225,0
-Badminton,2000,United States,0,0,0,0,1,15,225,0
-Badminton,2000,Japan,0,0,0,0,9,15,225,0
-Badminton,2000,Russia,0,0,0,0,3,15,225,0
-Badminton,2000,Bulgaria,0,0,0,0,4,15,225,0
-Badminton,2000,Hong Kong,0,0,0,0,4,15,225,0
-Badminton,2000,Poland,0,0,0,0,3,15,225,0
-Badminton,2000,Belgium,0,0,0,0,1,15,225,0
-Badminton,2000,Ireland,0,0,0,0,1,15,225,0
-Badminton,2000,Slovenia,0,0,0,0,1,15,225,0
-Badminton,2000,Portugal,0,0,0,0,1,15,225,0
-Badminton,2004,Norway,0,0,0,0,1,15,200,0
-Badminton,2004,Sweden,0,0,0,0,3,15,200,0
-Badminton,2004,United States,0,0,0,0,2,15,200,0
-Badminton,2004,China,3,1,1,5,20,15,200,0
-Badminton,2004,Canada,0,0,0,0,8,15,200,0
-Badminton,2004,Great Britain,0,1,0,1,13,15,200,0
-Badminton,2004,Peru,0,0,0,0,1,15,200,0
-Badminton,2004,South Africa,0,0,0,0,6,15,200,0
-Badminton,2004,Australia,0,0,0,0,6,15,200,0
-Badminton,2004,Netherlands,0,1,0,1,4,15,200,0
-Badminton,2004,Indonesia,1,0,2,3,14,15,200,0
-Badminton,2004,Malaysia,0,0,0,0,9,15,200,0
-Badminton,2004,Thailand,0,0,0,0,9,15,200,0
-Badminton,2004,Chinese Taipei,0,0,0,0,5,15,200,0
-Badminton,2004,Spain,0,0,0,0,2,15,200,0
-Badminton,2004,Denmark,0,0,1,1,14,15,200,0
-Badminton,2004,Germany,0,0,0,0,6,15,200,0
-Badminton,2004,India,0,0,0,0,3,15,200,0
-Badminton,2004,South Korea,1,2,1,4,17,15,200,0
-Badminton,2004,Singapore,0,0,0,0,3,15,200,0
-Badminton,2004,Hong Kong,0,0,0,0,5,15,200,0
-Badminton,2004,Poland,0,0,0,0,3,15,200,0
-Badminton,2004,Japan,0,0,0,0,12,15,200,0
-Badminton,2004,Bulgaria,0,0,0,0,2,15,200,0
-Badminton,2004,Greece,0,0,0,0,2,15,200,1
-Badminton,2004,France,0,0,0,0,3,15,200,0
-Badminton,2004,New Zealand,0,0,0,0,2,15,200,0
-Badminton,2004,Finland,0,0,0,0,3,15,200,0
-Badminton,2004,Jamaica,0,0,0,0,1,15,200,0
-Badminton,2004,Portugal,0,0,0,0,1,15,200,0
-Badminton,2004,Russia,0,0,0,0,2,15,200,0
-Badminton,2004,Guatemala,0,0,0,0,1,15,200,0
-Badminton,2008,Spain,0,0,0,0,2,15,184,0
-Badminton,2008,Seychelles,0,0,0,0,2,15,184,0
-Badminton,2008,Italy,0,0,0,0,1,15,184,0
-Badminton,2008,Mexico,0,0,0,0,1,15,184,0
-Badminton,2008,Poland,0,0,0,0,5,15,184,0
-Badminton,2008,United States,0,0,0,0,5,15,184,0
-Badminton,2008,China,3,2,3,8,19,15,184,1
-Badminton,2008,Canada,0,0,0,0,4,15,184,0
-Badminton,2008,Switzerland,0,0,0,0,2,15,184,0
-Badminton,2008,South Africa,0,0,0,0,5,15,184,0
-Badminton,2008,Australia,0,0,0,0,6,15,184,0
-Badminton,2008,Indonesia,1,1,1,3,13,15,184,0
-Badminton,2008,Chinese Taipei,0,0,0,0,4,15,184,0
-Badminton,2008,Malaysia,0,1,0,1,9,15,184,0
-Badminton,2008,Great Britain,0,0,0,0,8,15,184,0
-Badminton,2008,New Zealand,0,0,0,0,3,15,184,0
-Badminton,2008,Guatemala,0,0,0,0,1,15,184,0
-Badminton,2008,Nigeria,0,0,0,0,1,15,184,0
-Badminton,2008,Ukraine,0,0,0,0,2,15,184,0
-Badminton,2008,Uganda,0,0,0,0,1,15,184,0
-Badminton,2008,Denmark,0,0,0,0,10,15,184,0
-Badminton,2008,Ireland,0,0,0,0,2,15,184,0
-Badminton,2008,Mauritius,0,0,0,0,1,15,184,0
-Badminton,2008,South Korea,1,1,1,3,14,15,184,0
-Badminton,2008,Japan,0,0,0,0,10,15,184,0
-Badminton,2008,Germany,0,0,0,0,5,15,184,0
-Badminton,2008,Egypt,0,0,0,0,1,15,184,0
-Badminton,2008,Iceland,0,0,0,0,1,15,184,0
-Badminton,2008,Sri Lanka,0,0,0,0,1,15,184,0
-Badminton,2008,Singapore,0,0,0,0,5,15,184,0
-Badminton,2008,Russia,0,0,0,0,2,15,184,0
-Badminton,2008,France,0,0,0,0,2,15,184,0
-Badminton,2008,Belarus,0,0,0,0,1,15,184,0
-Badminton,2008,Czech Republic,0,0,0,0,2,15,184,0
-Badminton,2008,Finland,0,0,0,0,2,15,184,0
-Badminton,2008,Algeria,0,0,0,0,1,15,184,0
-Badminton,2008,Vietnam,0,0,0,0,2,15,184,0
-Badminton,2008,Zambia,0,0,0,0,1,15,184,0
-Badminton,2008,Iran,0,0,0,0,1,15,184,0
-Badminton,2008,Portugal,0,0,0,0,2,15,184,0
-Badminton,2008,Estonia,0,0,0,0,2,15,184,0
-Badminton,2008,Lithuania,0,0,0,0,2,15,184,0
-Badminton,2008,Bulgaria,0,0,0,0,1,15,184,0
-Badminton,2008,India,0,0,0,0,2,15,184,0
-Badminton,2008,Hong Kong,0,0,0,0,3,15,184,0
-Badminton,2008,Sweden,0,0,0,0,1,15,184,0
-Badminton,2008,Thailand,0,0,0,0,4,15,184,0
-Badminton,2008,Peru,0,0,0,0,1,15,184,0
-Badminton,2008,Slovakia,0,0,0,0,1,15,184,0
-Badminton,2008,Slovenia,0,0,0,0,1,15,184,0
-Hockey,1908,Ireland,0,1,0,1,12,3,68,0
-Hockey,1908,France,0,0,0,0,12,3,68,0
-Hockey,1908,England,1,0,0,1,11,3,68,0
-Hockey,1908,Germany,0,0,0,0,11,3,68,0
-Hockey,1908,Scotland,0,0,1,1,11,3,68,0
-Hockey,1908,Wales,0,0,1,1,11,3,68,0
-Hockey,1920,Great Britain,1,0,0,1,14,3,51,0
-Hockey,1920,Belgium,0,0,1,1,14,3,51,1
-Hockey,1920,France,0,0,0,0,11,3,51,0
-Hockey,1920,Denmark,0,1,0,1,12,3,51,0
-Hockey,1928,Belgium,0,0,0,0,18,3,137,0
-Hockey,1928,India,1,0,0,1,14,3,137,0
-Hockey,1928,Netherlands,0,1,0,1,11,3,137,1
-Hockey,1928,Spain,0,0,0,0,15,3,137,0
-Hockey,1928,France,0,0,0,0,15,3,137,0
-Hockey,1928,Switzerland,0,0,0,0,16,3,137,0
-Hockey,1928,Austria,0,0,0,0,16,3,137,0
-Hockey,1928,Denmark,0,0,0,0,13,3,137,0
-Hockey,1928,Germany,0,0,1,1,19,3,137,0
-Hockey,1932,India,1,0,0,1,15,3,40,0
-Hockey,1932,United States,0,0,1,1,14,3,40,1
-Hockey,1932,Japan,0,1,0,1,11,3,40,0
-Hockey,1936,Belgium,0,0,0,0,14,3,167,0
-Hockey,1936,Afghanistan,0,0,0,0,13,3,167,0
-Hockey,1936,India,1,0,0,1,19,3,167,0
-Hockey,1936,Switzerland,0,0,0,0,13,3,167,0
-Hockey,1936,Germany,0,1,0,1,22,3,167,1
-Hockey,1936,Hungary,0,0,0,0,15,3,167,0
-Hockey,1936,Denmark,0,0,0,0,16,3,167,0
-Hockey,1936,United States,0,0,0,0,14,3,167,0
-Hockey,1936,France,0,0,0,0,18,3,167,0
-Hockey,1936,Netherlands,0,0,1,1,12,3,167,0
-Hockey,1936,Japan,0,0,0,0,11,3,167,0
-Fencing,1896,France,1,2,0,3,4,9,15,0
-Fencing,1896,Greece,2,1,1,4,9,9,15,0
-Fencing,1896,Denmark,0,0,1,1,1,9,15,0
-Fencing,1896,Austria,0,0,0,0,1,9,15,0
-Fencing,1900,France,5,5,5,15,209,21,317,1
-Fencing,1900,Denmark,0,0,0,0,1,21,317,0
-Fencing,1900,Great Britain,0,0,0,0,3,21,317,0
-Fencing,1900,Austria,0,0,2,2,8,21,317,0
-Fencing,1900,Argentina,0,0,0,0,1,21,317,0
-Fencing,1900,Italy,1,1,0,2,8,21,317,0
-Fencing,1900,Haiti,0,0,0,0,2,21,317,0
-Fencing,1900,Switzerland,0,0,0,0,3,21,317,0
-Fencing,1900,Peru,0,0,0,0,1,21,317,0
-Fencing,1900,Spain,0,0,0,0,1,21,317,0
-Fencing,1900,Belgium,0,0,0,0,5,21,317,0
-Fencing,1900,United States,0,0,0,0,3,21,317,0
-Fencing,1900,Hungary,0,0,0,0,6,21,317,0
-Fencing,1900,Sweden,0,0,0,0,1,21,317,0
-Fencing,1900,Cuba,1,1,0,2,1,21,317,0
-Fencing,1900,Iran,0,0,0,0,1,21,317,0
-Fencing,1900,Russia,0,0,0,0,2,21,317,0
-Fencing,1900,Germany,0,0,0,0,1,21,317,0
-Fencing,1900,Netherlands,0,0,0,0,1,21,317,0
-Fencing,1904,United States,2,5,4,11,7,15,28,1
-Fencing,1904,Germany,0,0,0,0,1,15,28,0
-Fencing,1904,Cuba,4,0,0,4,2,15,28,0
-Fencing,1904,Great Britain,0,0,0,0,1,15,28,0
-Fencing,1906,Greece,1,2,1,4,13,24,161,0
-Fencing,1906,Hungary,0,0,1,1,5,24,161,0
-Fencing,1906,Germany,2,2,0,4,5,24,161,0
-Fencing,1906,Italy,0,1,1,2,2,24,161,0
-Fencing,1906,Belgium,2,0,1,3,5,24,161,0
-Fencing,1906,Netherlands,0,1,2,3,13,24,161,0
-Fencing,1906,France,3,1,1,5,5,24,161,0
-Fencing,1906,Great Britain,0,1,0,1,5,24,161,0
-Fencing,1906,Sweden,0,0,0,0,2,24,161,0
-Fencing,1906,Austria,0,0,0,0,3,24,161,0
-Fencing,1906,Denmark,0,0,0,0,3,24,161,0
-Fencing,1906,Bohemia,0,0,0,0,1,24,161,0
-Fencing,1908,Germany,0,0,0,0,10,12,240,0
-Fencing,1908,France,2,1,1,4,22,12,240,0
-Fencing,1908,Great Britain,0,1,0,1,23,12,240,0
-Fencing,1908,Belgium,0,0,1,1,18,12,240,0
-Fencing,1908,Hungary,2,1,0,3,8,12,240,0
-Fencing,1908,Denmark,0,0,0,0,8,12,240,0
-Fencing,1908,Norway,0,0,0,0,1,12,240,0
-Fencing,1908,Italy,0,1,0,1,11,12,240,0
-Fencing,1908,Sweden,0,0,0,0,7,12,240,0
-Fencing,1908,Netherlands,0,0,0,0,13,12,240,0
-Fencing,1908,Bohemia,0,0,2,2,7,12,240,0
-Fencing,1908,Austria,0,0,0,0,1,12,240,0
-Fencing,1908,South Africa,0,0,0,0,1,12,240,0
-Fencing,1908,Canada,0,0,0,0,1,12,240,0
-Handball,1936,United States,0,0,0,0,13,3,105,0
-Handball,1936,Germany,1,0,0,1,22,3,105,1
-Handball,1936,Austria,0,1,0,1,22,3,105,0
-Handball,1936,Hungary,0,0,0,0,16,3,105,0
-Handball,1936,Switzerland,0,0,1,1,17,3,105,0
-Handball,1936,Romania,0,0,0,0,15,3,105,0
-Handball,1972,United States,0,0,0,0,15,3,243,0
-Handball,1972,Hungary,0,0,0,0,15,3,243,0
-Handball,1972,Germany,0,0,0,0,32,3,243,1
-Handball,1972,Denmark,0,0,0,0,16,3,243,0
-Handball,1972,Sweden,0,0,0,0,16,3,243,0
-Handball,1972,Spain,0,0,0,0,14,3,243,0
-Handball,1972,Norway,0,0,0,0,16,3,243,0
-Handball,1972,Poland,0,0,0,0,15,3,243,0
-Handball,1972,Japan,0,0,0,0,12,3,243,0
-Handball,1972,Serbia,1,0,0,1,14,3,243,0
-Handball,1972,Iceland,0,0,0,0,15,3,243,0
-Handball,1972,Tunisia,0,0,0,0,16,3,243,0
-Handball,1972,Czech Republic,0,1,0,1,16,3,243,0
-Handball,1972,Romania,0,0,1,1,15,3,243,0
-Handball,1972,Soviet Union,0,0,0,0,15,3,243,0
-Handball,1976,Tunisia,0,0,0,0,12,6,243,0
-Handball,1976,United States,0,0,0,0,14,6,243,0
-Handball,1976,Denmark,0,0,0,0,13,6,243,0
-Handball,1976,Hungary,0,0,1,1,26,6,243,0
-Handball,1976,Soviet Union,2,0,0,2,28,6,243,0
-Handball,1976,Poland,0,0,1,1,14,6,243,0
-Handball,1976,Romania,0,1,0,1,28,6,243,0
-Handball,1976,Serbia,0,0,0,0,14,6,243,0
-Handball,1976,Germany,0,1,0,1,28,6,243,0
-Handball,1976,Canada,0,0,0,0,28,6,243,1
-Handball,1976,Czech Republic,0,0,0,0,14,6,243,0
-Handball,1976,Japan,0,0,0,0,24,6,243,0
-Handball,1980,Congo (Brazzaville),0,0,0,0,14,6,248,0
-Handball,1980,Switzerland,0,0,0,0,14,6,248,0
-Handball,1980,Cuba,0,0,0,0,13,6,248,0
-Handball,1980,Algeria,0,0,0,0,14,6,248,0
-Handball,1980,Kuwait,0,0,0,0,14,6,248,0
-Handball,1980,Spain,0,0,0,0,13,6,248,0
-Handball,1980,Serbia,0,1,0,1,28,6,248,0
-Handball,1980,Hungary,0,0,0,0,28,6,248,0
-Handball,1980,Soviet Union,1,1,0,2,27,6,248,1
-Handball,1980,Denmark,0,0,0,0,14,6,248,0
-Handball,1980,Germany,1,0,1,2,28,6,248,0
-Handball,1980,Romania,0,0,1,1,14,6,248,0
-Handball,1980,Czech Republic,0,0,0,0,13,6,248,0
-Handball,1980,Poland,0,0,0,0,14,6,248,0
-Handball,1984,Iceland,0,0,0,0,15,6,259,0
-Handball,1984,Spain,0,0,0,0,15,6,259,0
-Handball,1984,South Korea,0,1,0,1,28,6,259,0
-Handball,1984,Serbia,2,0,0,2,29,6,259,0
-Handball,1984,Sweden,0,0,0,0,15,6,259,0
-Handball,1984,Algeria,0,0,0,0,15,6,259,0
-Handball,1984,Switzerland,0,0,0,0,15,6,259,0
-Handball,1984,Germany,0,1,0,1,28,6,259,0
-Handball,1984,Romania,0,0,1,1,15,6,259,0
-Handball,1984,United States,0,0,0,0,27,6,259,1
-Handball,1984,China,0,0,1,1,13,6,259,0
-Handball,1984,Denmark,0,0,0,0,14,6,259,0
-Handball,1984,Austria,0,0,0,0,15,6,259,0
-Handball,1984,Japan,0,0,0,0,15,6,259,0
-Tennis,1896,Greece,0,2,1,3,13,6,23,0
-Tennis,1896,Great Britain,1,0,0,1,2,6,23,0
-Tennis,1896,Great Britain/Germany,1,0,0,1,2,6,23,0
-Tennis,1896,France,0,0,0,0,1,6,23,0
-Tennis,1896,Australia,0,0,0,0,1,6,23,0
-Tennis,1896,Australia/Great Britain,0,0,1,1,2,6,23,0
-Tennis,1896,Hungary,0,0,1,1,1,6,23,0
-Tennis,1896,Germany,0,0,0,0,1,6,23,0
-Tennis,1900,Great Britain,4,1,2,7,10,12,47,0
-Tennis,1900,United States,0,0,1,1,5,12,47,0
-Tennis,1900,United States/France,0,1,0,1,2,12,47,0
-Tennis,1900,France,0,1,1,2,17,12,47,1
-Tennis,1900,United States/Great Britain,0,0,1,1,4,12,47,0
-Tennis,1900,France/Great Britain,0,1,0,1,2,12,47,0
-Tennis,1900,Bohemia,0,0,1,1,1,12,47,0
-Tennis,1900,Bohemia/Great Britain,0,0,1,1,2,12,47,0
-Tennis,1904,United States,2,2,3,7,54,6,57,1
-Tennis,1904,Germany/United States,0,0,0,0,2,6,57,0
-Tennis,1904,Germany,0,0,0,0,1,6,57,0
-Tennis,1906,Greece,1,3,2,6,25,12,48,0
-Tennis,1906,Netherlands,0,0,0,0,3,12,48,0
-Tennis,1906,United States,0,0,0,0,2,12,48,0
-Tennis,1906,France,3,1,0,4,4,12,48,0
-Tennis,1906,Hungary,0,0,0,0,1,12,48,0
-Tennis,1906,Bohemia,0,0,2,2,3,12,48,0
-Tennis,1908,Sweden,0,0,2,2,4,18,84,0
-Tennis,1908,Great Britain,6,5,4,15,33,18,84,0
-Tennis,1908,Canada,0,0,0,0,3,18,84,0
-Tennis,1908,Germany,0,1,0,1,9,18,84,0
-Tennis,1908,South Africa,0,0,0,0,3,18,84,0
-Tennis,1908,France,0,0,0,0,1,18,84,0
-Tennis,1908,Bohemia,0,0,0,0,4,18,84,0
-Tennis,1908,Austria,0,0,0,0,3,18,84,0
-Tennis,1908,Hungary,0,0,0,0,3,18,84,0
-Tennis,1908,Netherlands,0,0,0,0,2,18,84,0
+Triathlon,2000,Russia,0,0,0,0,1,6,100,0
+Triathlon,2000,Luxembourg,0,0,0,0,1,6,100,0
+Triathlon,2000,Brazil,0,0,0,0,6,6,100,0
+Triathlon,2000,Netherlands,0,0,0,0,6,6,100,0
+Triathlon,2000,Czech Republic,0,0,1,1,4,6,100,0
+Triathlon,2000,France,0,0,0,0,6,6,100,0
+Triathlon,2000,Spain,0,0,0,0,4,6,100,0
+Triathlon,2000,United States,0,0,0,0,6,6,100,0
+Triathlon,2000,Italy,0,0,0,0,3,6,100,0
+Triathlon,2000,Chile,0,0,0,0,1,6,100,0
+Triathlon,2000,Great Britain,0,0,0,0,6,6,100,0
+Triathlon,2000,New Zealand,0,0,0,0,4,6,100,0
+Triathlon,2000,Germany,0,1,0,1,4,6,100,0
+Triathlon,2000,Canada,1,0,0,1,4,6,100,0
+Triathlon,2000,Hungary,0,0,0,0,4,6,100,0
+Triathlon,2000,Austria,0,0,0,0,1,6,100,0
+Triathlon,2000,Costa Rica,0,0,0,0,1,6,100,0
+Triathlon,2000,Japan,0,0,0,0,6,6,100,0
+Triathlon,2000,Kazakhstan,0,0,0,0,2,6,100,0
+Triathlon,2000,Argentina,0,0,0,0,1,6,100,0
+Triathlon,2000,Venezuela,0,0,0,0,1,6,100,0
+Triathlon,2000,Switzerland,1,0,1,2,6,6,100,0
+Triathlon,2000,Australia,0,1,0,1,6,6,100,1
+Triathlon,2000,Denmark,0,0,0,0,2,6,100,0
+Triathlon,2000,Ukraine,0,0,0,0,2,6,100,0
+Triathlon,2000,Greece,0,0,0,0,1,6,100,0
+Triathlon,2000,Zimbabwe,0,0,0,0,1,6,100,0
+Triathlon,2000,Netherlands Antilles,0,0,0,0,1,6,100,0
+Triathlon,2000,South Africa,0,0,0,0,2,6,100,0
+Triathlon,2000,Colombia,0,0,0,0,1,6,100,0
+Triathlon,2000,China,0,0,0,0,2,6,100,0
+Triathlon,2000,Belgium,0,0,0,0,2,6,100,0
+Triathlon,2000,Sweden,0,0,0,0,1,6,100,0
+Triathlon,2000,Jamaica,0,0,0,0,1,6,100,0
+Triathlon,2004,Estonia,0,0,0,0,1,6,99,0
+Triathlon,2004,Austria,1,0,0,1,3,6,99,0
+Triathlon,2004,Argentina,0,0,0,0,2,6,99,0
+Triathlon,2004,Russia,0,0,0,0,3,6,99,0
+Triathlon,2004,France,0,0,0,0,4,6,99,0
+Triathlon,2004,Australia,0,1,0,1,6,6,99,0
+Triathlon,2004,Czech Republic,0,0,0,0,5,6,99,0
+Triathlon,2004,Spain,0,0,0,0,6,6,99,0
+Triathlon,2004,Bermuda,0,0,0,0,1,6,99,0
+Triathlon,2004,New Zealand,1,1,0,2,4,6,99,0
+Triathlon,2004,Mexico,0,0,0,0,2,6,99,0
+Triathlon,2004,Italy,0,0,0,0,3,6,99,0
+Triathlon,2004,Colombia,0,0,0,0,1,6,99,0
+Triathlon,2004,Brazil,0,0,0,0,6,6,99,0
+Triathlon,2004,Germany,0,0,0,0,5,6,99,0
+Triathlon,2004,Great Britain,0,0,0,0,6,6,99,0
+Triathlon,2004,Portugal,0,0,0,0,1,6,99,0
+Triathlon,2004,Kazakhstan,0,0,0,0,3,6,99,0
+Triathlon,2004,Venezuela,0,0,0,0,1,6,99,0
+Triathlon,2004,South Africa,0,0,0,0,2,6,99,0
+Triathlon,2004,Denmark,0,0,0,0,1,6,99,0
+Triathlon,2004,Japan,0,0,0,0,5,6,99,0
+Triathlon,2004,Ukraine,0,0,0,0,2,6,99,0
+Triathlon,2004,Netherlands,0,0,0,0,2,6,99,0
+Triathlon,2004,Switzerland,0,0,1,1,5,6,99,0
+Triathlon,2004,United States,0,0,1,1,6,6,99,0
+Triathlon,2004,Greece,0,0,0,0,1,6,99,1
+Triathlon,2004,Hong Kong,0,0,0,0,1,6,99,0
+Triathlon,2004,Luxembourg,0,0,0,0,1,6,99,0
+Triathlon,2004,Canada,0,0,0,0,5,6,99,0
+Triathlon,2004,Hungary,0,0,0,0,1,6,99,0
+Triathlon,2004,Belgium,0,0,0,0,2,6,99,0
+Triathlon,2004,China,0,0,0,0,2,6,99,0
+Triathlon,2008,Russia,0,0,0,0,5,6,110,0
+Triathlon,2008,Austria,0,0,0,0,4,6,110,0
+Triathlon,2008,Estonia,0,0,0,0,1,6,110,0
+Triathlon,2008,Australia,1,0,1,2,5,6,110,0
+Triathlon,2008,Great Britain,0,0,0,0,5,6,110,0
+Triathlon,2008,France,0,0,0,0,5,6,110,0
+Triathlon,2008,United States,0,0,0,0,6,6,110,0
+Triathlon,2008,Netherlands,0,0,0,0,2,6,110,0
+Triathlon,2008,Luxembourg,0,0,0,0,2,6,110,0
+Triathlon,2008,Italy,0,0,0,0,4,6,110,0
+Triathlon,2008,Spain,0,0,0,0,4,6,110,0
+Triathlon,2008,Brazil,0,0,0,0,3,6,110,0
+Triathlon,2008,Mexico,0,0,0,0,2,6,110,0
+Triathlon,2008,Belgium,0,0,0,0,2,6,110,0
+Triathlon,2008,Poland,0,0,0,0,3,6,110,0
+Triathlon,2008,Ireland,0,0,0,0,1,6,110,0
+Triathlon,2008,Greece,0,0,0,0,1,6,110,0
+Triathlon,2008,Germany,1,0,0,1,6,6,110,0
+Triathlon,2008,New Zealand,0,0,1,1,6,6,110,0
+Triathlon,2008,Bermuda,0,0,0,0,1,6,110,0
+Triathlon,2008,Zimbabwe,0,0,0,0,1,6,110,0
+Triathlon,2008,Portugal,0,1,0,1,3,6,110,0
+Triathlon,2008,Czech Republic,0,0,0,0,3,6,110,0
+Triathlon,2008,Canada,0,1,0,1,6,6,110,0
+Triathlon,2008,Denmark,0,0,0,0,1,6,110,0
+Triathlon,2008,Ukraine,0,0,0,0,3,6,110,0
+Triathlon,2008,Switzerland,0,0,0,0,6,6,110,0
+Triathlon,2008,Japan,0,0,0,0,5,6,110,0
+Triathlon,2008,Hungary,0,0,0,0,2,6,110,0
+Triathlon,2008,Hong Kong,0,0,0,0,2,6,110,0
+Triathlon,2008,Sweden,0,0,0,0,1,6,110,0
+Triathlon,2008,South Africa,0,0,0,0,2,6,110,0
+Triathlon,2008,Chile,0,0,0,0,1,6,110,0
+Triathlon,2008,Kazakhstan,0,0,0,0,1,6,110,0
+Triathlon,2008,Slovakia,0,0,0,0,1,6,110,0
+Triathlon,2008,Syria,0,0,0,0,1,6,110,0
+Triathlon,2008,China,0,0,0,0,3,6,110,1
+Triathlon,2012,Russia,0,0,0,0,5,6,110,0
+Triathlon,2012,Japan,0,0,0,0,5,6,110,0
+Triathlon,2012,Australia,0,0,1,1,6,6,110,0
+Triathlon,2012,China,0,0,0,0,2,6,110,0
+Triathlon,2012,Monaco,0,0,0,0,1,6,110,0
+Triathlon,2012,Germany,0,0,0,0,6,6,110,0
+Triathlon,2012,United States,0,0,0,0,5,6,110,0
+Triathlon,2012,Ecuador,0,0,0,0,1,6,110,0
+Triathlon,2012,Great Britain,1,0,1,2,6,6,110,0
+Triathlon,2012,Bermuda,0,0,0,0,2,6,110,0
+Triathlon,2012,Netherlands,0,0,0,0,2,6,110,0
+Triathlon,2012,Czech Republic,0,0,0,0,4,6,110,0
+Triathlon,2012,Costa Rica,0,0,0,0,1,6,110,0
+Triathlon,2012,France,0,0,0,0,6,6,110,0
+Triathlon,2012,Brazil,0,0,0,0,3,6,110,0
+Triathlon,2012,Poland,0,0,0,0,3,6,110,0
+Triathlon,2012,Spain,0,1,0,1,6,6,110,0
+Triathlon,2012,Belgium,0,0,0,0,2,6,110,0
+Triathlon,2012,New Zealand,0,0,0,0,6,6,110,0
+Triathlon,2012,Italy,0,0,0,0,3,6,110,0
+Triathlon,2012,Zimbabwe,0,0,0,0,1,6,110,0
+Triathlon,2012,Canada,0,0,0,0,5,6,110,0
+Triathlon,2012,Denmark,0,0,0,0,2,6,110,0
+Triathlon,2012,Austria,0,0,0,0,2,6,110,0
+Triathlon,2012,Mexico,0,0,0,0,2,6,110,0
+Triathlon,2012,South Korea,0,0,0,0,1,6,110,0
+Triathlon,2012,Hungary,0,0,0,0,1,6,110,0
+Triathlon,2012,Ireland,0,0,0,0,2,6,110,0
+Triathlon,2012,South Africa,0,0,0,0,3,6,110,0
+Triathlon,2012,Sweden,0,1,0,1,1,6,110,0
+Triathlon,2012,Portugal,0,0,0,0,2,6,110,0
+Triathlon,2012,Colombia,0,0,0,0,1,6,110,0
+Triathlon,2012,Switzerland,1,0,0,1,4,6,110,0
+Triathlon,2012,Chile,0,0,0,0,2,6,110,0
+Triathlon,2012,Ukraine,0,0,0,0,2,6,110,0
+Triathlon,2012,Slovenia,0,0,0,0,1,6,110,0
+Triathlon,2012,Mauritius,0,0,0,0,1,6,110,0
+Triathlon,2012,Argentina,0,0,0,0,1,6,110,0
+Triathlon,2012,Slovakia,0,0,0,0,1,6,110,0
+Triathlon,2016,Russia,0,0,0,0,6,6,110,0
+Triathlon,2016,Spain,0,0,0,0,6,6,110,0
+Triathlon,2016,Switzerland,0,1,0,1,4,6,110,0
+Triathlon,2016,Portugal,0,0,0,0,3,6,110,0
+Triathlon,2016,China,0,0,0,0,2,6,110,0
+Triathlon,2016,Australia,0,0,0,0,6,6,110,0
+Triathlon,2016,France,0,0,0,0,5,6,110,0
+Triathlon,2016,Great Britain,1,1,1,3,6,6,110,0
+Triathlon,2016,United States,1,0,0,1,6,6,110,0
+Triathlon,2016,Norway,0,0,0,0,1,6,110,0
+Triathlon,2016,Italy,0,0,0,0,4,6,110,0
+Triathlon,2016,Canada,0,0,0,0,5,6,110,0
+Triathlon,2016,Ecuador,0,0,0,0,1,6,110,0
+Triathlon,2016,Costa Rica,0,0,0,0,1,6,110,0
+Triathlon,2016,Israel,0,0,0,0,1,6,110,0
+Triathlon,2016,New Zealand,0,0,0,0,4,6,110,0
+Triathlon,2016,Bermuda,0,0,0,0,1,6,110,0
+Triathlon,2016,Hungary,0,0,0,0,4,6,110,0
+Triathlon,2016,Jordan,0,0,0,0,1,6,110,0
+Triathlon,2016,Czech Republic,0,0,0,0,1,6,110,0
+Triathlon,2016,Belgium,0,0,0,0,4,6,110,0
+Triathlon,2016,Mexico,0,0,0,0,5,6,110,0
+Triathlon,2016,Germany,0,0,0,0,2,6,110,0
+Triathlon,2016,Austria,0,0,0,0,3,6,110,0
+Triathlon,2016,Puerto Rico,0,0,0,0,1,6,110,0
+Triathlon,2016,Ukraine,0,0,0,0,2,6,110,0
+Triathlon,2016,Poland,0,0,0,0,1,6,110,0
+Triathlon,2016,Japan,0,0,0,0,4,6,110,0
+Triathlon,2016,Ireland,0,0,0,0,2,6,110,0
+Triathlon,2016,Estonia,0,0,0,0,1,6,110,0
+Triathlon,2016,Netherlands,0,0,0,0,1,6,110,0
+Triathlon,2016,South Africa,0,0,1,1,4,6,110,0
+Triathlon,2016,Sweden,0,0,0,0,1,6,110,0
+Triathlon,2016,Brazil,0,0,0,0,2,6,110,1
+Triathlon,2016,Azerbaijan,0,0,0,0,1,6,110,0
+Triathlon,2016,Chile,0,0,0,0,1,6,110,0
+Triathlon,2016,Denmark,0,0,0,0,1,6,110,0
+Triathlon,2016,Slovenia,0,0,0,0,1,6,110,0
+Triathlon,2016,Mauritius,0,0,0,0,1,6,110,0
+Triathlon,2016,Argentina,0,0,0,0,2,6,110,0
+Triathlon,2016,Slovakia,0,0,0,0,1,6,110,0
+Triathlon,2016,Barbados,0,0,0,0,1,6,110,0
 Beach Volleyball,1996,Germany,0,0,0,0,4,6,84,0
 Beach Volleyball,1996,Cuba,0,0,0,0,2,6,84,0
 Beach Volleyball,1996,Norway,0,0,0,0,4,6,84,0
@@ -2448,198 +2640,25 @@ Beach Volleyball,2012,Mauritius,0,0,0,0,2,6,96,0
 Beach Volleyball,2012,Latvia,0,0,1,1,4,6,96,0
 Beach Volleyball,2012,Norway,0,0,0,0,2,6,96,0
 Beach Volleyball,2012,China,0,0,0,0,4,6,96,0
-Basketball,1936,Uruguay,0,0,0,0,9,3,199,0
-Basketball,1936,Canada,0,1,0,1,9,3,199,0
-Basketball,1936,Brazil,0,0,0,0,8,3,199,0
-Basketball,1936,Turkey,0,0,0,0,8,3,199,0
-Basketball,1936,Estonia,0,0,0,0,8,3,199,0
-Basketball,1936,Latvia,0,0,0,0,7,3,199,0
-Basketball,1936,Peru,0,0,0,0,9,3,199,0
-Basketball,1936,United States,1,0,0,1,14,3,199,0
-Basketball,1936,Italy,0,0,0,0,13,3,199,0
-Basketball,1936,Switzerland,0,0,0,0,8,3,199,0
-Basketball,1936,France,0,0,0,0,11,3,199,0
-Basketball,1936,Philippines,0,0,0,0,9,3,199,0
-Basketball,1936,Mexico,0,0,1,1,11,3,199,0
-Basketball,1936,Belgium,0,0,0,0,8,3,199,0
-Basketball,1936,Chile,0,0,0,0,7,3,199,0
-Basketball,1936,Japan,0,0,0,0,8,3,199,0
-Basketball,1936,Czech Republic,0,0,0,0,12,3,199,0
-Basketball,1936,Germany,0,0,0,0,10,3,199,1
-Basketball,1936,China,0,0,0,0,13,3,199,0
-Basketball,1936,Poland,0,0,0,0,10,3,199,0
-Basketball,1936,Egypt,0,0,0,0,7,3,199,0
-Basketball,1948,Egypt,0,0,0,0,12,3,287,0
-Basketball,1948,Uruguay,0,0,0,0,13,3,287,0
-Basketball,1948,Mexico,0,0,0,0,14,3,287,0
-Basketball,1948,Cuba,0,0,0,0,13,3,287,0
-Basketball,1948,Iraq,0,0,0,0,10,3,287,0
-Basketball,1948,Peru,0,0,0,0,11,3,287,0
-Basketball,1948,Switzerland,0,0,0,0,14,3,287,0
-Basketball,1948,Brazil,0,0,1,1,10,3,287,0
-Basketball,1948,South Korea,0,0,0,0,9,3,287,0
-Basketball,1948,Philippines,0,0,0,0,10,3,287,0
-Basketball,1948,Iran,0,0,0,0,13,3,287,0
-Basketball,1948,Belgium,0,0,0,0,14,3,287,0
-Basketball,1948,Canada,0,0,0,0,14,3,287,0
-Basketball,1948,Hungary,0,0,0,0,12,3,287,0
-Basketball,1948,United States,1,0,0,1,14,3,287,0
-Basketball,1948,France,0,1,0,1,14,3,287,0
-Basketball,1948,Czech Republic,0,0,0,0,14,3,287,0
-Basketball,1948,Italy,0,0,0,0,14,3,287,0
-Basketball,1948,Ireland,0,0,0,0,13,3,287,0
-Basketball,1948,Argentina,0,0,0,0,14,3,287,0
-Basketball,1948,China,0,0,0,0,10,3,287,0
-Basketball,1948,Great Britain,0,0,0,0,13,3,287,0
-Basketball,1948,Chile,0,0,0,0,12,3,287,0
-Basketball,1952,Egypt,0,0,0,0,14,3,294,0
-Basketball,1952,Uruguay,0,0,1,1,12,3,294,0
-Basketball,1952,Switzerland,0,0,0,0,14,3,294,0
-Basketball,1952,Brazil,0,0,0,0,13,3,294,0
-Basketball,1952,Turkey,0,0,0,0,11,3,294,0
-Basketball,1952,Mexico,0,0,0,0,13,3,294,0
-Basketball,1952,Israel,0,0,0,0,12,3,294,0
-Basketball,1952,Chile,0,0,0,0,13,3,294,0
-Basketball,1952,Greece,0,0,0,0,12,3,294,0
-Basketball,1952,Hungary,0,0,0,0,13,3,294,0
-Basketball,1952,Czech Republic,0,0,0,0,13,3,294,0
-Basketball,1952,Philippines,0,0,0,0,12,3,294,0
-Basketball,1952,Cuba,0,0,0,0,12,3,294,0
-Basketball,1952,France,0,0,0,0,14,3,294,0
-Basketball,1952,Belgium,0,0,0,0,12,3,294,0
-Basketball,1952,Italy,0,0,0,0,13,3,294,0
-Basketball,1952,United States,1,0,0,1,14,3,294,0
-Basketball,1952,Soviet Union,0,1,0,1,14,3,294,0
-Basketball,1952,Romania,0,0,0,0,12,3,294,0
-Basketball,1952,Canada,0,0,0,0,12,3,294,0
-Basketball,1952,Argentina,0,0,0,0,14,3,294,0
-Basketball,1952,Bulgaria,0,0,0,0,14,3,294,0
-Basketball,1952,Finland,0,0,0,0,11,3,294,1
-Basketball,1956,Thailand,0,0,0,0,9,3,169,0
-Basketball,1956,Brazil,0,0,0,0,12,3,169,0
-Basketball,1956,South Korea,0,0,0,0,10,3,169,0
-Basketball,1956,France,0,0,0,0,12,3,169,0
-Basketball,1956,Japan,0,0,0,0,11,3,169,0
-Basketball,1956,Chile,0,0,0,0,11,3,169,0
-Basketball,1956,Bulgaria,0,0,0,0,11,3,169,0
-Basketball,1956,Philippines,0,0,0,0,12,3,169,0
-Basketball,1956,Canada,0,0,0,0,12,3,169,0
-Basketball,1956,Uruguay,0,0,1,1,12,3,169,0
-Basketball,1956,Soviet Union,0,1,0,1,12,3,169,0
-Basketball,1956,United States,1,0,0,1,12,3,169,0
-Basketball,1956,Australia,0,0,0,0,12,3,169,1
-Basketball,1956,Singapore,0,0,0,0,10,3,169,0
-Basketball,1956,Chinese Taipei,0,0,0,0,11,3,169,0
-Basketball,1960,Philippines,0,0,0,0,12,3,192,0
-Basketball,1960,Mexico,0,0,0,0,12,3,192,0
-Basketball,1960,Italy,0,0,0,0,12,3,192,1
-Basketball,1960,Brazil,0,0,1,1,12,3,192,0
-Basketball,1960,France,0,0,0,0,12,3,192,0
-Basketball,1960,United States,1,0,0,1,12,3,192,0
-Basketball,1960,Bulgaria,0,0,0,0,12,3,192,0
-Basketball,1960,Puerto Rico,0,0,0,0,12,3,192,0
-Basketball,1960,Hungary,0,0,0,0,12,3,192,0
-Basketball,1960,Czech Republic,0,0,0,0,12,3,192,0
-Basketball,1960,Spain,0,0,0,0,12,3,192,0
-Basketball,1960,Uruguay,0,0,0,0,12,3,192,0
-Basketball,1960,Serbia,0,0,0,0,12,3,192,0
-Basketball,1960,Poland,0,0,0,0,12,3,192,0
-Basketball,1960,Japan,0,0,0,0,12,3,192,0
-Basketball,1960,Soviet Union,0,1,0,1,12,3,192,0
-Water Polo,1900,Germany,0,0,0,0,7,3,53,0
-Water Polo,1900,Tritons Lillois,0,0,0,0,7,3,53,0
-Water Polo,1900,Libellule de Paris,0,0,1,1,7,3,53,0
-Water Polo,1900,Pupilles de Neptune de Lille #2,0,0,1,1,8,3,53,0
-Water Polo,1900,"Osborne Swimming Club, Manchester",1,0,0,1,7,3,53,0
-Water Polo,1900,Brussels Swimming and Water Polo Club,0,1,0,1,10,3,53,0
-Water Polo,1900,Pupilles de Neptune de Lille #1,0,0,0,0,7,3,53,0
-Water Polo,1904,Chicago Athletic Association,0,1,0,1,7,3,21,0
-Water Polo,1904,New York Athletic Club,1,0,0,1,7,3,21,0
-Water Polo,1904,Missouri Athletic Club,0,0,1,1,7,3,21,0
-Water Polo,1908,Sweden,0,0,1,1,7,3,28,0
-Water Polo,1908,Netherlands,0,0,0,0,7,3,28,0
-Water Polo,1908,Belgium,0,1,0,1,7,3,28,0
-Water Polo,1908,Great Britain,1,0,0,1,7,3,28,0
-Water Polo,1912,Hungary,0,0,0,0,7,3,45,0
-Water Polo,1912,Sweden,0,1,0,1,7,3,45,1
-Water Polo,1912,Great Britain,1,0,0,1,7,3,45,0
-Water Polo,1912,France,0,0,0,0,8,3,45,0
-Water Polo,1912,Belgium,0,0,1,1,9,3,45,0
-Water Polo,1912,Austria,0,0,0,0,7,3,45,0
-Water Polo,1920,Brazil,0,0,0,0,8,3,101,0
-Water Polo,1920,Sweden,0,0,1,1,10,3,101,0
-Water Polo,1920,Spain,0,0,0,0,8,3,101,0
-Water Polo,1920,Greece,0,0,0,0,9,3,101,0
-Water Polo,1920,Belgium,0,1,0,1,8,3,101,1
-Water Polo,1920,Italy,0,0,0,0,8,3,101,0
-Water Polo,1920,Switzerland,0,0,0,0,7,3,101,0
-Water Polo,1920,Netherlands,0,0,0,0,9,3,101,0
-Water Polo,1920,United States,0,0,0,0,12,3,101,0
-Water Polo,1920,Great Britain,1,0,0,1,7,3,101,0
-Water Polo,1920,Czech Republic,0,0,0,0,8,3,101,0
-Water Polo,1920,France,0,0,0,0,7,3,101,0
-Volleyball,1964,Soviet Union,1,1,0,2,23,6,179,0
-Volleyball,1964,Romania,0,0,0,0,21,6,179,0
-Volleyball,1964,Hungary,0,0,0,0,11,6,179,0
-Volleyball,1964,Brazil,0,0,0,0,10,6,179,0
-Volleyball,1964,Bulgaria,0,0,0,0,12,6,179,0
-Volleyball,1964,United States,0,0,0,0,24,6,179,0
-Volleyball,1964,South Korea,0,0,0,0,24,6,179,0
-Volleyball,1964,Netherlands,0,0,0,0,12,6,179,0
-Volleyball,1964,Czech Republic,0,1,0,1,11,6,179,0
-Volleyball,1964,Poland,0,0,1,1,10,6,179,0
-Volleyball,1964,Japan,1,0,1,2,21,6,179,1
-Volleyball,1968,Mexico,0,0,0,0,24,6,206,1
-Volleyball,1968,Bulgaria,0,0,0,0,12,6,206,0
-Volleyball,1968,United States,0,0,0,0,24,6,206,0
-Volleyball,1968,Poland,0,0,1,1,24,6,206,0
-Volleyball,1968,South Korea,0,0,0,0,10,6,206,0
-Volleyball,1968,Soviet Union,2,0,0,2,23,6,206,0
-Volleyball,1968,Peru,0,0,0,0,9,6,206,0
-Volleyball,1968,Czech Republic,0,0,1,1,24,6,206,0
-Volleyball,1968,Brazil,0,0,0,0,12,6,206,0
-Volleyball,1968,Belgium,0,0,0,0,12,6,206,0
-Volleyball,1968,Germany,0,0,0,0,12,6,206,0
-Volleyball,1968,Japan,0,2,0,2,20,6,206,0
-Volleyball,1972,Brazil,0,0,0,0,12,6,231,0
-Volleyball,1972,Poland,0,0,0,0,12,6,231,0
-Volleyball,1972,Romania,0,0,0,0,11,6,231,0
-Volleyball,1972,Hungary,0,0,0,0,12,6,231,0
-Volleyball,1972,Cuba,0,0,0,0,24,6,231,0
-Volleyball,1972,Tunisia,0,0,0,0,11,6,231,0
-Volleyball,1972,Soviet Union,1,0,1,2,24,6,231,0
-Volleyball,1972,Germany,0,1,0,1,35,6,231,1
-Volleyball,1972,South Korea,0,0,0,0,19,6,231,0
-Volleyball,1972,Bulgaria,0,0,0,0,12,6,231,0
-Volleyball,1972,Japan,1,1,0,2,24,6,231,0
-Volleyball,1972,Czech Republic,0,0,0,0,24,6,231,0
-Volleyball,1972,North Korea,0,0,1,1,11,6,231,0
-Volleyball,1976,Brazil,0,0,0,0,12,6,216,0
-Volleyball,1976,Egypt,0,0,0,0,12,6,216,0
-Volleyball,1976,Canada,0,0,0,0,24,6,216,1
-Volleyball,1976,Japan,1,0,0,1,24,6,216,0
-Volleyball,1976,South Korea,0,0,1,1,24,6,216,0
-Volleyball,1976,Germany,0,0,0,0,12,6,216,0
-Volleyball,1976,Hungary,0,0,0,0,12,6,216,0
-Volleyball,1976,Cuba,0,0,1,1,24,6,216,0
-Volleyball,1976,Poland,1,0,0,1,12,6,216,0
-Volleyball,1976,Soviet Union,0,2,0,2,24,6,216,0
-Volleyball,1976,Peru,0,0,0,0,12,6,216,0
-Volleyball,1976,Italy,0,0,0,0,12,6,216,0
-Volleyball,1976,Czech Republic,0,0,0,0,12,6,216,0
-Volleyball,1980,Soviet Union,2,0,0,2,23,6,204,1
-Volleyball,1980,Brazil,0,0,0,0,24,6,204,0
-Volleyball,1980,Cuba,0,0,0,0,23,6,204,0
-Volleyball,1980,Bulgaria,0,1,1,2,22,6,204,0
-Volleyball,1980,Libya,0,0,0,0,9,6,204,0
-Volleyball,1980,Romania,0,0,1,1,22,6,204,0
-Volleyball,1980,Hungary,0,0,0,0,12,6,204,0
-Volleyball,1980,Italy,0,0,0,0,12,6,204,0
-Volleyball,1980,Serbia,0,0,0,0,12,6,204,0
-Volleyball,1980,Poland,0,0,0,0,11,6,204,0
-Volleyball,1980,Germany,0,1,0,1,12,6,204,0
-Volleyball,1980,Peru,0,0,0,0,10,6,204,0
-Volleyball,1980,Czech Republic,0,0,0,0,12,6,204,0
+Tug-Of-War,1900,Denmark/Sweden,1,0,0,1,6,3,12,0
+Tug-Of-War,1900,Racing Club de France,0,1,0,1,6,3,12,0
+Tug-Of-War,1904,St. Louis Southwest Turnverein #1,0,1,0,1,5,3,30,0
+Tug-Of-War,1904,New York Athletic Club,0,0,0,0,5,3,30,0
+Tug-Of-War,1904,Pan,0,0,0,0,5,3,30,0
+Tug-Of-War,1904,Milwaukee Athletic Club,1,0,0,1,5,3,30,0
+Tug-Of-War,1904,St. Louis Southwest Turnverein #2,0,0,1,1,5,3,30,0
+Tug-Of-War,1904,Boer Team,0,0,0,0,5,3,30,0
+Tug-Of-War,1906,Austria,0,0,0,0,8,3,32,0
+Tug-Of-War,1906,Germany,1,0,0,1,8,3,32,0
+Tug-Of-War,1906,Sweden,0,0,1,1,8,3,32,0
+Tug-Of-War,1906,Omas Helliniki P. S.,0,1,0,1,8,3,32,0
+Tug-Of-War,1908,Sweden,0,0,0,0,8,3,40,0
+Tug-Of-War,1908,London City Police,1,0,0,1,8,3,40,0
+Tug-Of-War,1908,United States,0,0,0,0,8,3,40,0
+Tug-Of-War,1908,Liverpool Police Team,0,1,0,1,8,3,40,0
+Tug-Of-War,1908,K Division Metropolitan Police Team,0,0,1,1,8,3,40,0
+Tug-Of-War,1912,Sweden,1,0,0,1,8,3,16,1
+Tug-Of-War,1912,Great Britain,0,1,0,1,8,3,16,0
 Art Competitions,1912,France,0,1,0,1,10,15,33,0
 Art Competitions,1912,Great Britain,0,0,0,0,3,15,33,0
 Art Competitions,1912,Italy,2,0,0,2,4,15,33,0
@@ -2736,22 +2755,3 @@ Art Competitions,1932,Mexico,0,0,0,0,2,39,1124,0
 Art Competitions,1932,Australia,0,0,0,0,1,39,1124,0
 Art Competitions,1932,Turkey,0,0,0,0,1,39,1124,0
 Art Competitions,1932,Monaco,0,0,0,0,1,39,1124,0
-Tug-Of-War,1900,Denmark/Sweden,1,0,0,1,6,3,12,0
-Tug-Of-War,1900,Racing Club de France,0,1,0,1,6,3,12,0
-Tug-Of-War,1904,St. Louis Southwest Turnverein #1,0,1,0,1,5,3,30,0
-Tug-Of-War,1904,New York Athletic Club,0,0,0,0,5,3,30,0
-Tug-Of-War,1904,Pan,0,0,0,0,5,3,30,0
-Tug-Of-War,1904,Milwaukee Athletic Club,1,0,0,1,5,3,30,0
-Tug-Of-War,1904,St. Louis Southwest Turnverein #2,0,0,1,1,5,3,30,0
-Tug-Of-War,1904,Boer Team,0,0,0,0,5,3,30,0
-Tug-Of-War,1906,Austria,0,0,0,0,8,3,32,0
-Tug-Of-War,1906,Germany,1,0,0,1,8,3,32,0
-Tug-Of-War,1906,Sweden,0,0,1,1,8,3,32,0
-Tug-Of-War,1906,Omas Helliniki P. S.,0,1,0,1,8,3,32,0
-Tug-Of-War,1908,Sweden,0,0,0,0,8,3,40,0
-Tug-Of-War,1908,London City Police,1,0,0,1,8,3,40,0
-Tug-Of-War,1908,United States,0,0,0,0,8,3,40,0
-Tug-Of-War,1908,Liverpool Police Team,0,1,0,1,8,3,40,0
-Tug-Of-War,1908,K Division Metropolitan Police Team,0,0,1,1,8,3,40,0
-Tug-Of-War,1912,Sweden,1,0,0,1,8,3,16,1
-Tug-Of-War,1912,Great Britain,0,1,0,1,8,3,16,0
