@@ -42,5 +42,3 @@ if __name__ == "__main__":
 
     # generate line plot for USA and Gymnastics
     generate_line_plot(gt5_sports, "United States", "Gymnastics")
-
-    # generate line plot for 
